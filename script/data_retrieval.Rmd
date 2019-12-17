@@ -1,0 +1,199 @@
+---
+title: "Exploratory Analysis"
+author: "Jason Jones"
+date: "12/17/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Packages
+
+```{r}
+library(tidyverse)
+library(tidycensus)
+library(sf)
+
+api_key <- Sys.getenv("CENSUS_API_KEY")
+```
+
+```{r}
+# Custom function for retrieving and compiling data without summary variable ----
+f <- function(county, variable) {
+  dat_12 <- get_acs(geography = "tract", variables = variable, 
+                    year = 2012, state = 37, key = api_key, 
+                    county = county) %>%
+    select(-moe) %>%
+    rename("2012" = estimate)
+  
+  
+  dat_13 <- get_acs(geography = "tract", variables = variable,
+                    year = 2013, state = 37, key = api_key, 
+                    county = county) %>%
+    select(-moe) %>%
+    rename("2013" = estimate)
+  
+  
+  dat_14 <- get_acs(geography = "tract", variables = variable,
+                    year = 2014, state = 37, key = api_key, 
+                    county = county) %>%
+    select(-moe) %>%
+    rename("2014" = estimate)
+  
+  
+  dat_15 <- get_acs(geography = "tract", variables = variable,
+                    year = 2015, state = 37, key = api_key, 
+                    county = county) %>%
+    select(-moe) %>%
+    rename("2015" = estimate)
+  
+  
+  dat_16 <- get_acs(geography = "tract", variables = variable,
+                    year = 2016, state = 37, key = api_key, 
+                    county = county) %>%
+    select(-moe) %>%
+    rename("2016" = estimate)
+  
+  
+  dat_17 <- get_acs(geography = "tract", variables = variable,
+                    year = 2017, state = 37, key = api_key, 
+                    county = county) %>%
+    select(-moe) %>%
+    rename("2017" = estimate)
+  
+  dat_all <- dat_12 %>%
+    left_join(dat_13, by = c("GEOID", "NAME", "variable")) %>%
+    left_join(dat_14, by = c("GEOID", "NAME", "variable")) %>%
+    left_join(dat_15, by = c("GEOID", "NAME", "variable")) %>%
+    left_join(dat_16, by = c("GEOID", "NAME", "variable")) %>%
+    left_join(dat_17, by = c("GEOID", "NAME", "variable")) %>%
+    gather(key = "Year", value = "Estimate", 4:9) %>%
+    rename(Name = NAME, Variable = variable)
+  
+  return(dat_all)
+}
+
+# Custom function for retrieving and compiling data without summary variable and moe ----
+f_no_moe <- function(county, variable) {
+  dat_12 <- get_acs(geography = "tract", variables = variable, 
+                    year = 2012, state = 37, key = api_key, 
+                    county = county) %>%
+    rename("2012" = estimate)
+  
+  
+  dat_13 <- get_acs(geography = "tract", variables = variable,
+                    year = 2013, state = 37, key = api_key, 
+                    county = county) %>%
+    rename("2013" = estimate)
+  
+  
+  dat_14 <- get_acs(geography = "tract", variables = variable,
+                    year = 2014, state = 37, key = api_key, 
+                    county = county) %>%
+    rename("2014" = estimate)
+  
+  
+  dat_15 <- get_acs(geography = "tract", variables = variable,
+                    year = 2015, state = 37, key = api_key, 
+                    county = county) %>%
+    rename("2015" = estimate)
+  
+  
+  dat_16 <- get_acs(geography = "tract", variables = variable,
+                    year = 2016, state = 37, key = api_key, 
+                    county = county) %>%
+    rename("2016" = estimate)
+  
+  
+  dat_17 <- get_acs(geography = "tract", variables = variable,
+                    year = 2017, state = 37, key = api_key, 
+                    county = county) %>%
+    rename("2017" = estimate)
+  
+  dat_all <- dat_12 %>%
+    left_join(dat_13, by = c("GEOID", "NAME", "variable")) %>%
+    left_join(dat_14, by = c("GEOID", "NAME", "variable")) %>%
+    left_join(dat_15, by = c("GEOID", "NAME", "variable")) %>%
+    left_join(dat_16, by = c("GEOID", "NAME", "variable")) %>%
+    left_join(dat_17, by = c("GEOID", "NAME", "variable")) %>%
+    gather(key = "Year", value = "Estimate", 4:9) %>%
+    rename(Name = NAME, Variable = variable)
+  
+  return(dat_all)
+}
+```
+
+
+# Inspect variables
+
+```{r}
+vars <- load_variables(year = 2017, dataset = "acs5")
+```
+
+
+# Median Household Income
+
+```{r}
+mhi <- f(county = 81, variable = "B19013_001")
+
+mhi <- mhi %>%
+  pivot_wider(names_from = Year, values_from = Estimate, names_prefix = "survey_year_")
+```
+
+# Per Capita Income
+
+```{r}
+pci <- f(county = 81, variable = "B19301_001")
+
+pci <- pci %>%
+  pivot_wider(names_from = Year, values_from = Estimate, names_prefix = "survey_year_")
+```
+
+# Poverty
+
+```{r}
+pov <- f(county = 81, variable = "B17001_002")
+
+pov <- pov %>%
+  pivot_wider(names_from = Year, values_from = Estimate, names_prefix = "survey_year_")
+```
+
+# Public Assistance
+
+```{r}
+pub <- f(county = 81, variable = "B19058_002")
+
+pub <- pub %>%
+  pivot_wider(names_from = Year, values_from = Estimate, names_prefix = "survey_year_")
+```
+
+# Medicaid
+
+```{r}
+med <- f_no_moe(county = 81, variable = "B992707_002")
+
+med <- med %>%
+  pivot_wider(names_from = Year, values_from = Estimate, names_prefix = "survey_year_")
+```
+
+# Population
+
+```{r}
+pop <- f(county = 81, variable = "B01003_001")
+
+pop <- pop %>%
+  pivot_wider(names_from = Year, values_from = Estimate, names_prefix = "survey_year_")
+```
+
+# Write Data
+
+```{r}
+targets <- list("med" = med, "mhi" = mhi, "pci" = pci, "pop" = pop, "pov" = pov, "pub" = pub)
+filenames <- c("medicaid.csv", "median_household_income.csv", "per_capita_income.csv", "population.csv", "poverty.csv", "public_assistance.csv")
+
+# MUST BE RUN IN CONSOLE BELOW
+for (i in 1:6) {write_csv(x = targets[[i]], path = paste0("data/", filenames[[i]]), na = "", append = FALSE)}
+```
+
