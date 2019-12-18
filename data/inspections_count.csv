@@ -1,0 +1,2030 @@
+fiscal_year,year,month,JURISDICTION,trade,inspection_count
+2015,2014,Aug,Greensboro,Other,1
+2015,2014,Aug,Guilford County,Building,714
+2015,2014,Aug,Guilford County,Electrical,632
+2015,2014,Aug,Guilford County,Other,399
+2015,2014,Aug,Guilford County,Plumbing/Mechanical/Gas,740
+2015,2014,Aug,Jamestown,Building,40
+2015,2014,Aug,Jamestown,Electrical,71
+2015,2014,Aug,Jamestown,Other,23
+2015,2014,Aug,Jamestown,Plumbing/Mechanical/Gas,88
+2015,2014,Aug,Oak Ridge,Building,100
+2015,2014,Aug,Oak Ridge,Electrical,49
+2015,2014,Aug,Oak Ridge,Other,17
+2015,2014,Aug,Oak Ridge,Plumbing/Mechanical/Gas,105
+2015,2014,Aug,Pleasant Garden,Building,16
+2015,2014,Aug,Pleasant Garden,Electrical,12
+2015,2014,Aug,Pleasant Garden,Other,1
+2015,2014,Aug,Pleasant Garden,Plumbing/Mechanical/Gas,12
+2015,2014,Aug,PTIA,Building,1
+2015,2014,Aug,PTIA,Electrical,1
+2015,2014,Aug,PTIA,Other,2
+2015,2014,Aug,PTIA,Plumbing/Mechanical/Gas,1
+2015,2014,Aug,Stokesdale,Building,22
+2015,2014,Aug,Stokesdale,Electrical,27
+2015,2014,Aug,Stokesdale,Other,10
+2015,2014,Aug,Stokesdale,Plumbing/Mechanical/Gas,28
+2015,2014,Aug,Summerfield,Building,100
+2015,2014,Aug,Summerfield,Electrical,109
+2015,2014,Aug,Summerfield,Other,13
+2015,2014,Aug,Summerfield,Plumbing/Mechanical/Gas,82
+2015,2014,Aug,Whitsett,Electrical,2
+2015,2014,Sep,Guilford County,Building,807
+2015,2014,Sep,Guilford County,Electrical,534
+2015,2014,Sep,Guilford County,Other,380
+2015,2014,Sep,Guilford County,Plumbing/Mechanical/Gas,748
+2015,2014,Sep,Jamestown,Building,18
+2015,2014,Sep,Jamestown,Electrical,34
+2015,2014,Sep,Jamestown,Other,20
+2015,2014,Sep,Jamestown,Plumbing/Mechanical/Gas,34
+2015,2014,Sep,Oak Ridge,Building,99
+2015,2014,Sep,Oak Ridge,Electrical,80
+2015,2014,Sep,Oak Ridge,Other,12
+2015,2014,Sep,Oak Ridge,Plumbing/Mechanical/Gas,126
+2015,2014,Sep,Pleasant Garden,Building,26
+2015,2014,Sep,Pleasant Garden,Electrical,23
+2015,2014,Sep,Pleasant Garden,Other,8
+2015,2014,Sep,Pleasant Garden,Plumbing/Mechanical/Gas,33
+2015,2014,Sep,PTIA,Building,1
+2015,2014,Sep,PTIA,Electrical,1
+2015,2014,Sep,PTIA,Other,1
+2015,2014,Sep,PTIA,Plumbing/Mechanical/Gas,1
+2015,2014,Sep,Stokesdale,Building,28
+2015,2014,Sep,Stokesdale,Electrical,25
+2015,2014,Sep,Stokesdale,Other,13
+2015,2014,Sep,Stokesdale,Plumbing/Mechanical/Gas,36
+2015,2014,Sep,Summerfield,Building,83
+2015,2014,Sep,Summerfield,Electrical,83
+2015,2014,Sep,Summerfield,Other,36
+2015,2014,Sep,Summerfield,Plumbing/Mechanical/Gas,87
+2015,2014,Sep,Whitsett,Building,1
+2015,2014,Sep,Whitsett,Electrical,4
+2015,2014,Sep,Whitsett,Other,2
+2015,2014,Sep,Whitsett,Plumbing/Mechanical/Gas,2
+2015,2014,Oct,Guilford County,Building,811
+2015,2014,Oct,Guilford County,Electrical,556
+2015,2014,Oct,Guilford County,Other,291
+2015,2014,Oct,Guilford County,Plumbing/Mechanical/Gas,839
+2015,2014,Oct,High Point,Other,1
+2015,2014,Oct,Jamestown,Building,29
+2015,2014,Oct,Jamestown,Electrical,63
+2015,2014,Oct,Jamestown,Other,9
+2015,2014,Oct,Jamestown,Plumbing/Mechanical/Gas,67
+2015,2014,Oct,Oak Ridge,Building,117
+2015,2014,Oct,Oak Ridge,Electrical,75
+2015,2014,Oct,Oak Ridge,Other,17
+2015,2014,Oct,Oak Ridge,Plumbing/Mechanical/Gas,79
+2015,2014,Oct,Pleasant Garden,Building,31
+2015,2014,Oct,Pleasant Garden,Electrical,30
+2015,2014,Oct,Pleasant Garden,Other,2
+2015,2014,Oct,Pleasant Garden,Plumbing/Mechanical/Gas,40
+2015,2014,Oct,PTIA,Building,1
+2015,2014,Oct,PTIA,Electrical,7
+2015,2014,Oct,PTIA,Plumbing/Mechanical/Gas,1
+2015,2014,Oct,Sedalia,Electrical,1
+2015,2014,Oct,Sedalia,Plumbing/Mechanical/Gas,1
+2015,2014,Oct,Stokesdale,Building,33
+2015,2014,Oct,Stokesdale,Electrical,32
+2015,2014,Oct,Stokesdale,Other,13
+2015,2014,Oct,Stokesdale,Plumbing/Mechanical/Gas,38
+2015,2014,Oct,Summerfield,Building,118
+2015,2014,Oct,Summerfield,Electrical,89
+2015,2014,Oct,Summerfield,Other,9
+2015,2014,Oct,Summerfield,Plumbing/Mechanical/Gas,93
+2015,2014,Nov,Guilford County,Building,599
+2015,2014,Nov,Guilford County,Electrical,506
+2015,2014,Nov,Guilford County,Other,166
+2015,2014,Nov,Guilford County,Plumbing/Mechanical/Gas,515
+2015,2014,Nov,Jamestown,Building,27
+2015,2014,Nov,Jamestown,Electrical,27
+2015,2014,Nov,Jamestown,Other,8
+2015,2014,Nov,Jamestown,Plumbing/Mechanical/Gas,27
+2015,2014,Nov,Oak Ridge,Building,78
+2015,2014,Nov,Oak Ridge,Electrical,53
+2015,2014,Nov,Oak Ridge,Other,7
+2015,2014,Nov,Oak Ridge,Plumbing/Mechanical/Gas,70
+2015,2014,Nov,Pleasant Garden,Building,33
+2015,2014,Nov,Pleasant Garden,Electrical,39
+2015,2014,Nov,Pleasant Garden,Other,6
+2015,2014,Nov,Pleasant Garden,Plumbing/Mechanical/Gas,57
+2015,2014,Nov,PTIA,Building,1
+2015,2014,Nov,PTIA,Electrical,3
+2015,2014,Nov,PTIA,Other,1
+2015,2014,Nov,Stokesdale,Building,26
+2015,2014,Nov,Stokesdale,Electrical,14
+2015,2014,Nov,Stokesdale,Other,5
+2015,2014,Nov,Stokesdale,Plumbing/Mechanical/Gas,18
+2015,2014,Nov,Summerfield,Building,88
+2015,2014,Nov,Summerfield,Electrical,91
+2015,2014,Nov,Summerfield,Other,2
+2015,2014,Nov,Summerfield,Plumbing/Mechanical/Gas,72
+2015,2014,Dec,Guilford County,Building,668
+2015,2014,Dec,Guilford County,Electrical,649
+2015,2014,Dec,Guilford County,Other,267
+2015,2014,Dec,Guilford County,Plumbing/Mechanical/Gas,862
+2015,2014,Dec,Jamestown,Building,37
+2015,2014,Dec,Jamestown,Electrical,36
+2015,2014,Dec,Jamestown,Other,8
+2015,2014,Dec,Jamestown,Plumbing/Mechanical/Gas,42
+2015,2014,Dec,Oak Ridge,Building,83
+2015,2014,Dec,Oak Ridge,Electrical,73
+2015,2014,Dec,Oak Ridge,Other,3
+2015,2014,Dec,Oak Ridge,Plumbing/Mechanical/Gas,84
+2015,2014,Dec,Pleasant Garden,Building,36
+2015,2014,Dec,Pleasant Garden,Electrical,27
+2015,2014,Dec,Pleasant Garden,Other,9
+2015,2014,Dec,Pleasant Garden,Plumbing/Mechanical/Gas,30
+2015,2014,Dec,PTIA,Building,12
+2015,2014,Dec,PTIA,Electrical,4
+2015,2014,Dec,Sedalia,Building,1
+2015,2014,Dec,Sedalia,Electrical,7
+2015,2014,Dec,Sedalia,Other,1
+2015,2014,Dec,Sedalia,Plumbing/Mechanical/Gas,5
+2015,2014,Dec,Stokesdale,Building,20
+2015,2014,Dec,Stokesdale,Electrical,15
+2015,2014,Dec,Stokesdale,Other,10
+2015,2014,Dec,Stokesdale,Plumbing/Mechanical/Gas,37
+2015,2014,Dec,Summerfield,Building,86
+2015,2014,Dec,Summerfield,Electrical,108
+2015,2014,Dec,Summerfield,Other,6
+2015,2014,Dec,Summerfield,Plumbing/Mechanical/Gas,82
+2015,2015,Jan,Guilford County,Building,635
+2015,2015,Jan,Guilford County,Electrical,419
+2015,2015,Jan,Guilford County,Other,231
+2015,2015,Jan,Guilford County,Plumbing/Mechanical/Gas,755
+2015,2015,Jan,Jamestown,Building,16
+2015,2015,Jan,Jamestown,Electrical,22
+2015,2015,Jan,Jamestown,Other,7
+2015,2015,Jan,Jamestown,Plumbing/Mechanical/Gas,38
+2015,2015,Jan,Oak Ridge,Building,106
+2015,2015,Jan,Oak Ridge,Electrical,81
+2015,2015,Jan,Oak Ridge,Other,13
+2015,2015,Jan,Oak Ridge,Plumbing/Mechanical/Gas,106
+2015,2015,Jan,Pleasant Garden,Building,9
+2015,2015,Jan,Pleasant Garden,Electrical,15
+2015,2015,Jan,Pleasant Garden,Other,3
+2015,2015,Jan,Pleasant Garden,Plumbing/Mechanical/Gas,20
+2015,2015,Jan,PTIA,Building,16
+2015,2015,Jan,PTIA,Electrical,2
+2015,2015,Jan,PTIA,Plumbing/Mechanical/Gas,1
+2015,2015,Jan,Sedalia,Building,6
+2015,2015,Jan,Sedalia,Electrical,1
+2015,2015,Jan,Stokesdale,Building,31
+2015,2015,Jan,Stokesdale,Electrical,23
+2015,2015,Jan,Stokesdale,Other,10
+2015,2015,Jan,Stokesdale,Plumbing/Mechanical/Gas,57
+2015,2015,Jan,Summerfield,Building,122
+2015,2015,Jan,Summerfield,Electrical,82
+2015,2015,Jan,Summerfield,Other,10
+2015,2015,Jan,Summerfield,Plumbing/Mechanical/Gas,91
+2015,2015,Jan,Whitsett,Electrical,2
+2015,2015,Jan,Whitsett,Other,2
+2015,2015,Jan,Whitsett,Plumbing/Mechanical/Gas,1
+2015,2015,Feb,Guilford County,Building,542
+2015,2015,Feb,Guilford County,Electrical,417
+2015,2015,Feb,Guilford County,Other,234
+2015,2015,Feb,Guilford County,Plumbing/Mechanical/Gas,592
+2015,2015,Feb,Jamestown,Building,29
+2015,2015,Feb,Jamestown,Electrical,20
+2015,2015,Feb,Jamestown,Other,9
+2015,2015,Feb,Jamestown,Plumbing/Mechanical/Gas,37
+2015,2015,Feb,Oak Ridge,Building,100
+2015,2015,Feb,Oak Ridge,Electrical,73
+2015,2015,Feb,Oak Ridge,Other,13
+2015,2015,Feb,Oak Ridge,Plumbing/Mechanical/Gas,103
+2015,2015,Feb,Pleasant Garden,Building,13
+2015,2015,Feb,Pleasant Garden,Electrical,23
+2015,2015,Feb,Pleasant Garden,Plumbing/Mechanical/Gas,44
+2015,2015,Feb,PTIA,Building,5
+2015,2015,Feb,Sedalia,Building,3
+2015,2015,Feb,Sedalia,Electrical,4
+2015,2015,Feb,Sedalia,Plumbing/Mechanical/Gas,3
+2015,2015,Feb,Stokesdale,Building,17
+2015,2015,Feb,Stokesdale,Electrical,12
+2015,2015,Feb,Stokesdale,Other,7
+2015,2015,Feb,Stokesdale,Plumbing/Mechanical/Gas,25
+2015,2015,Feb,Summerfield,Building,72
+2015,2015,Feb,Summerfield,Electrical,73
+2015,2015,Feb,Summerfield,Other,13
+2015,2015,Feb,Summerfield,Plumbing/Mechanical/Gas,77
+2015,2015,Feb,Whitsett,Building,1
+2015,2015,Feb,Whitsett,Electrical,1
+2015,2015,Feb,Whitsett,Other,5
+2015,2015,Mar,Greensboro,Other,1
+2015,2015,Mar,Guilford County,Building,741
+2015,2015,Mar,Guilford County,Electrical,456
+2015,2015,Mar,Guilford County,Other,322
+2015,2015,Mar,Guilford County,Plumbing/Mechanical/Gas,850
+2015,2015,Mar,Jamestown,Building,31
+2015,2015,Mar,Jamestown,Electrical,21
+2015,2015,Mar,Jamestown,Other,19
+2015,2015,Mar,Jamestown,Plumbing/Mechanical/Gas,52
+2015,2015,Mar,Oak Ridge,Building,109
+2015,2015,Mar,Oak Ridge,Electrical,66
+2015,2015,Mar,Oak Ridge,Other,10
+2015,2015,Mar,Oak Ridge,Plumbing/Mechanical/Gas,142
+2015,2015,Mar,Pleasant Garden,Building,10
+2015,2015,Mar,Pleasant Garden,Electrical,14
+2015,2015,Mar,Pleasant Garden,Plumbing/Mechanical/Gas,13
+2015,2015,Mar,PTIA,Building,7
+2015,2015,Mar,PTIA,Electrical,4
+2015,2015,Mar,PTIA,Plumbing/Mechanical/Gas,5
+2015,2015,Mar,Sedalia,Electrical,1
+2015,2015,Mar,Stokesdale,Building,24
+2015,2015,Mar,Stokesdale,Electrical,41
+2015,2015,Mar,Stokesdale,Other,6
+2015,2015,Mar,Stokesdale,Plumbing/Mechanical/Gas,35
+2015,2015,Mar,Summerfield,Building,117
+2015,2015,Mar,Summerfield,Electrical,85
+2015,2015,Mar,Summerfield,Other,26
+2015,2015,Mar,Summerfield,Plumbing/Mechanical/Gas,122
+2015,2015,Mar,Whitsett,Other,1
+2015,2015,Apr,Greensboro,Other,1
+2015,2015,Apr,Guilford County,Building,749
+2015,2015,Apr,Guilford County,Electrical,502
+2015,2015,Apr,Guilford County,Other,416
+2015,2015,Apr,Guilford County,Plumbing/Mechanical/Gas,837
+2015,2015,Apr,Jamestown,Building,42
+2015,2015,Apr,Jamestown,Electrical,42
+2015,2015,Apr,Jamestown,Other,30
+2015,2015,Apr,Jamestown,Plumbing/Mechanical/Gas,55
+2015,2015,Apr,Oak Ridge,Building,114
+2015,2015,Apr,Oak Ridge,Electrical,81
+2015,2015,Apr,Oak Ridge,Other,4
+2015,2015,Apr,Oak Ridge,Plumbing/Mechanical/Gas,152
+2015,2015,Apr,Pleasant Garden,Building,11
+2015,2015,Apr,Pleasant Garden,Electrical,30
+2015,2015,Apr,Pleasant Garden,Other,1
+2015,2015,Apr,Pleasant Garden,Plumbing/Mechanical/Gas,37
+2015,2015,Apr,PTIA,Building,20
+2015,2015,Apr,PTIA,Electrical,5
+2015,2015,Apr,PTIA,Plumbing/Mechanical/Gas,16
+2015,2015,Apr,Sedalia,Electrical,3
+2015,2015,Apr,Sedalia,Plumbing/Mechanical/Gas,4
+2015,2015,Apr,Stokesdale,Building,48
+2015,2015,Apr,Stokesdale,Electrical,28
+2015,2015,Apr,Stokesdale,Other,12
+2015,2015,Apr,Stokesdale,Plumbing/Mechanical/Gas,38
+2015,2015,Apr,Summerfield,Building,134
+2015,2015,Apr,Summerfield,Electrical,98
+2015,2015,Apr,Summerfield,Other,14
+2015,2015,Apr,Summerfield,Plumbing/Mechanical/Gas,122
+2015,2015,Apr,Whitsett,Building,1
+2015,2015,May,Greensboro,Other,2
+2015,2015,May,Guilford County,Building,719
+2015,2015,May,Guilford County,Electrical,427
+2015,2015,May,Guilford County,Other,313
+2015,2015,May,Guilford County,Plumbing/Mechanical/Gas,652
+2015,2015,May,Jamestown,Building,44
+2015,2015,May,Jamestown,Electrical,35
+2015,2015,May,Jamestown,Other,20
+2015,2015,May,Jamestown,Plumbing/Mechanical/Gas,80
+2015,2015,May,Oak Ridge,Building,107
+2015,2015,May,Oak Ridge,Electrical,70
+2015,2015,May,Oak Ridge,Other,9
+2015,2015,May,Oak Ridge,Plumbing/Mechanical/Gas,81
+2015,2015,May,Pleasant Garden,Building,7
+2015,2015,May,Pleasant Garden,Electrical,15
+2015,2015,May,Pleasant Garden,Other,1
+2015,2015,May,Pleasant Garden,Plumbing/Mechanical/Gas,8
+2015,2015,May,PTIA,Building,9
+2015,2015,May,PTIA,Electrical,10
+2015,2015,May,PTIA,Other,1
+2015,2015,May,PTIA,Plumbing/Mechanical/Gas,18
+2015,2015,May,Sedalia,Building,2
+2015,2015,May,Sedalia,Electrical,2
+2015,2015,May,Sedalia,Plumbing/Mechanical/Gas,3
+2015,2015,May,Stokesdale,Building,30
+2015,2015,May,Stokesdale,Electrical,19
+2015,2015,May,Stokesdale,Other,8
+2015,2015,May,Stokesdale,Plumbing/Mechanical/Gas,28
+2015,2015,May,Summerfield,Building,97
+2015,2015,May,Summerfield,Electrical,71
+2015,2015,May,Summerfield,Other,9
+2015,2015,May,Summerfield,Plumbing/Mechanical/Gas,108
+2015,2015,May,Whitsett,Building,3
+2015,2015,May,Whitsett,Electrical,2
+2016,2015,Jun,Greensboro,Other,1
+2016,2015,Jun,Guilford County,Building,669
+2016,2015,Jun,Guilford County,Electrical,467
+2016,2015,Jun,Guilford County,Other,347
+2016,2015,Jun,Guilford County,Plumbing/Mechanical/Gas,708
+2016,2015,Jun,Jamestown,Building,45
+2016,2015,Jun,Jamestown,Electrical,37
+2016,2015,Jun,Jamestown,Other,17
+2016,2015,Jun,Jamestown,Plumbing/Mechanical/Gas,45
+2016,2015,Jun,Oak Ridge,Building,153
+2016,2015,Jun,Oak Ridge,Electrical,88
+2016,2015,Jun,Oak Ridge,Other,25
+2016,2015,Jun,Oak Ridge,Plumbing/Mechanical/Gas,105
+2016,2015,Jun,Pleasant Garden,Building,27
+2016,2015,Jun,Pleasant Garden,Electrical,7
+2016,2015,Jun,Pleasant Garden,Other,2
+2016,2015,Jun,Pleasant Garden,Plumbing/Mechanical/Gas,20
+2016,2015,Jun,PTIA,Building,9
+2016,2015,Jun,PTIA,Electrical,12
+2016,2015,Jun,PTIA,Other,2
+2016,2015,Jun,PTIA,Plumbing/Mechanical/Gas,6
+2016,2015,Jun,Sedalia,Building,4
+2016,2015,Jun,Sedalia,Electrical,3
+2016,2015,Jun,Sedalia,Plumbing/Mechanical/Gas,4
+2016,2015,Jun,Stokesdale,Building,68
+2016,2015,Jun,Stokesdale,Electrical,36
+2016,2015,Jun,Stokesdale,Other,13
+2016,2015,Jun,Stokesdale,Plumbing/Mechanical/Gas,56
+2016,2015,Jun,Summerfield,Building,109
+2016,2015,Jun,Summerfield,Electrical,93
+2016,2015,Jun,Summerfield,Other,32
+2016,2015,Jun,Summerfield,Plumbing/Mechanical/Gas,113
+2016,2015,Jul,Guilford County,Building,602
+2016,2015,Jul,Guilford County,Electrical,460
+2016,2015,Jul,Guilford County,Other,345
+2016,2015,Jul,Guilford County,Plumbing/Mechanical/Gas,678
+2016,2015,Jul,Jamestown,Building,41
+2016,2015,Jul,Jamestown,Electrical,43
+2016,2015,Jul,Jamestown,Other,3
+2016,2015,Jul,Jamestown,Plumbing/Mechanical/Gas,105
+2016,2015,Jul,Oak Ridge,Building,119
+2016,2015,Jul,Oak Ridge,Electrical,98
+2016,2015,Jul,Oak Ridge,Other,12
+2016,2015,Jul,Oak Ridge,Plumbing/Mechanical/Gas,150
+2016,2015,Jul,Pleasant Garden,Building,19
+2016,2015,Jul,Pleasant Garden,Electrical,15
+2016,2015,Jul,Pleasant Garden,Other,1
+2016,2015,Jul,Pleasant Garden,Plumbing/Mechanical/Gas,9
+2016,2015,Jul,PTIA,Building,18
+2016,2015,Jul,PTIA,Electrical,9
+2016,2015,Jul,PTIA,Other,1
+2016,2015,Jul,PTIA,Plumbing/Mechanical/Gas,36
+2016,2015,Jul,Sedalia,Building,3
+2016,2015,Jul,Sedalia,Other,3
+2016,2015,Jul,Stokesdale,Building,54
+2016,2015,Jul,Stokesdale,Electrical,30
+2016,2015,Jul,Stokesdale,Other,7
+2016,2015,Jul,Stokesdale,Plumbing/Mechanical/Gas,49
+2016,2015,Jul,Summerfield,Building,122
+2016,2015,Jul,Summerfield,Electrical,73
+2016,2015,Jul,Summerfield,Other,12
+2016,2015,Jul,Summerfield,Plumbing/Mechanical/Gas,90
+2016,2015,Jul,Whitsett,Building,1
+2016,2015,Jul,Whitsett,Electrical,2
+2016,2015,Aug,Guilford County,Building,657
+2016,2015,Aug,Guilford County,Electrical,454
+2016,2015,Aug,Guilford County,Other,329
+2016,2015,Aug,Guilford County,Plumbing/Mechanical/Gas,560
+2016,2015,Aug,Jamestown,Building,41
+2016,2015,Aug,Jamestown,Electrical,46
+2016,2015,Aug,Jamestown,Other,11
+2016,2015,Aug,Jamestown,Plumbing/Mechanical/Gas,61
+2016,2015,Aug,Oak Ridge,Building,144
+2016,2015,Aug,Oak Ridge,Electrical,80
+2016,2015,Aug,Oak Ridge,Other,12
+2016,2015,Aug,Oak Ridge,Plumbing/Mechanical/Gas,120
+2016,2015,Aug,Pleasant Garden,Building,19
+2016,2015,Aug,Pleasant Garden,Electrical,16
+2016,2015,Aug,Pleasant Garden,Plumbing/Mechanical/Gas,19
+2016,2015,Aug,PTIA,Building,5
+2016,2015,Aug,PTIA,Electrical,19
+2016,2015,Aug,PTIA,Other,2
+2016,2015,Aug,PTIA,Plumbing/Mechanical/Gas,19
+2016,2015,Aug,Sedalia,Building,2
+2016,2015,Aug,Sedalia,Electrical,3
+2016,2015,Aug,Sedalia,Other,4
+2016,2015,Aug,Sedalia,Plumbing/Mechanical/Gas,3
+2016,2015,Aug,Stokesdale,Building,56
+2016,2015,Aug,Stokesdale,Electrical,19
+2016,2015,Aug,Stokesdale,Other,6
+2016,2015,Aug,Stokesdale,Plumbing/Mechanical/Gas,43
+2016,2015,Aug,Summerfield,Building,118
+2016,2015,Aug,Summerfield,Electrical,85
+2016,2015,Aug,Summerfield,Other,18
+2016,2015,Aug,Summerfield,Plumbing/Mechanical/Gas,135
+2016,2015,Aug,Whitsett,Building,2
+2016,2015,Sep,Guilford County,Building,674
+2016,2015,Sep,Guilford County,Electrical,463
+2016,2015,Sep,Guilford County,Other,276
+2016,2015,Sep,Guilford County,Plumbing/Mechanical/Gas,617
+2016,2015,Sep,Jamestown,Building,39
+2016,2015,Sep,Jamestown,Electrical,32
+2016,2015,Sep,Jamestown,Other,9
+2016,2015,Sep,Jamestown,Plumbing/Mechanical/Gas,69
+2016,2015,Sep,Oak Ridge,Building,157
+2016,2015,Sep,Oak Ridge,Electrical,69
+2016,2015,Sep,Oak Ridge,Other,4
+2016,2015,Sep,Oak Ridge,Plumbing/Mechanical/Gas,134
+2016,2015,Sep,Pleasant Garden,Building,15
+2016,2015,Sep,Pleasant Garden,Electrical,15
+2016,2015,Sep,Pleasant Garden,Plumbing/Mechanical/Gas,10
+2016,2015,Sep,PTIA,Building,16
+2016,2015,Sep,PTIA,Electrical,10
+2016,2015,Sep,PTIA,Other,2
+2016,2015,Sep,PTIA,Plumbing/Mechanical/Gas,22
+2016,2015,Sep,Sedalia,Building,8
+2016,2015,Sep,Sedalia,Electrical,4
+2016,2015,Sep,Sedalia,Other,1
+2016,2015,Sep,Sedalia,Plumbing/Mechanical/Gas,10
+2016,2015,Sep,Stokesdale,Building,26
+2016,2015,Sep,Stokesdale,Electrical,21
+2016,2015,Sep,Stokesdale,Other,9
+2016,2015,Sep,Stokesdale,Plumbing/Mechanical/Gas,43
+2016,2015,Sep,Summerfield,Building,130
+2016,2015,Sep,Summerfield,Electrical,69
+2016,2015,Sep,Summerfield,Other,11
+2016,2015,Sep,Summerfield,Plumbing/Mechanical/Gas,134
+2016,2015,Sep,Whitsett,Building,2
+2016,2015,Sep,Whitsett,Plumbing/Mechanical/Gas,1
+2016,2015,Oct,Guilford County,Building,690
+2016,2015,Oct,Guilford County,Electrical,516
+2016,2015,Oct,Guilford County,Other,418
+2016,2015,Oct,Guilford County,Plumbing/Mechanical/Gas,602
+2016,2015,Oct,Jamestown,Building,42
+2016,2015,Oct,Jamestown,Electrical,28
+2016,2015,Oct,Jamestown,Other,9
+2016,2015,Oct,Jamestown,Plumbing/Mechanical/Gas,54
+2016,2015,Oct,Oak Ridge,Building,115
+2016,2015,Oct,Oak Ridge,Electrical,76
+2016,2015,Oct,Oak Ridge,Other,8
+2016,2015,Oct,Oak Ridge,Plumbing/Mechanical/Gas,112
+2016,2015,Oct,Pleasant Garden,Building,22
+2016,2015,Oct,Pleasant Garden,Electrical,19
+2016,2015,Oct,Pleasant Garden,Other,3
+2016,2015,Oct,Pleasant Garden,Plumbing/Mechanical/Gas,18
+2016,2015,Oct,PTIA,Building,9
+2016,2015,Oct,PTIA,Electrical,4
+2016,2015,Oct,PTIA,Other,3
+2016,2015,Oct,PTIA,Plumbing/Mechanical/Gas,5
+2016,2015,Oct,Sedalia,Building,1
+2016,2015,Oct,Sedalia,Other,6
+2016,2015,Oct,Stokesdale,Building,39
+2016,2015,Oct,Stokesdale,Electrical,33
+2016,2015,Oct,Stokesdale,Other,10
+2016,2015,Oct,Stokesdale,Plumbing/Mechanical/Gas,56
+2016,2015,Oct,Summerfield,Building,115
+2016,2015,Oct,Summerfield,Electrical,68
+2016,2015,Oct,Summerfield,Other,32
+2016,2015,Oct,Summerfield,Plumbing/Mechanical/Gas,108
+2016,2015,Oct,Whitsett,Building,4
+2016,2015,Oct,Whitsett,Other,3
+2016,2015,Nov,Greensboro,Other,1
+2016,2015,Nov,Guilford County,Building,519
+2016,2015,Nov,Guilford County,Electrical,409
+2016,2015,Nov,Guilford County,Other,284
+2016,2015,Nov,Guilford County,Plumbing/Mechanical/Gas,573
+2016,2015,Nov,Jamestown,Building,40
+2016,2015,Nov,Jamestown,Electrical,13
+2016,2015,Nov,Jamestown,Other,1
+2016,2015,Nov,Jamestown,Plumbing/Mechanical/Gas,20
+2016,2015,Nov,Oak Ridge,Building,102
+2016,2015,Nov,Oak Ridge,Electrical,69
+2016,2015,Nov,Oak Ridge,Other,9
+2016,2015,Nov,Oak Ridge,Plumbing/Mechanical/Gas,110
+2016,2015,Nov,Pleasant Garden,Building,44
+2016,2015,Nov,Pleasant Garden,Electrical,14
+2016,2015,Nov,Pleasant Garden,Plumbing/Mechanical/Gas,26
+2016,2015,Nov,PTIA,Building,3
+2016,2015,Nov,PTIA,Other,1
+2016,2015,Nov,Sedalia,Building,5
+2016,2015,Nov,Sedalia,Electrical,8
+2016,2015,Nov,Sedalia,Plumbing/Mechanical/Gas,8
+2016,2015,Nov,Stokesdale,Building,49
+2016,2015,Nov,Stokesdale,Electrical,27
+2016,2015,Nov,Stokesdale,Other,4
+2016,2015,Nov,Stokesdale,Plumbing/Mechanical/Gas,44
+2016,2015,Nov,Summerfield,Building,103
+2016,2015,Nov,Summerfield,Electrical,81
+2016,2015,Nov,Summerfield,Other,7
+2016,2015,Nov,Summerfield,Plumbing/Mechanical/Gas,67
+2016,2015,Dec,Guilford County,Building,529
+2016,2015,Dec,Guilford County,Electrical,454
+2016,2015,Dec,Guilford County,Other,257
+2016,2015,Dec,Guilford County,Plumbing/Mechanical/Gas,718
+2016,2015,Dec,Jamestown,Building,45
+2016,2015,Dec,Jamestown,Electrical,28
+2016,2015,Dec,Jamestown,Other,4
+2016,2015,Dec,Jamestown,Plumbing/Mechanical/Gas,41
+2016,2015,Dec,Oak Ridge,Building,125
+2016,2015,Dec,Oak Ridge,Electrical,68
+2016,2015,Dec,Oak Ridge,Other,15
+2016,2015,Dec,Oak Ridge,Plumbing/Mechanical/Gas,100
+2016,2015,Dec,Pleasant Garden,Building,18
+2016,2015,Dec,Pleasant Garden,Electrical,11
+2016,2015,Dec,Pleasant Garden,Other,1
+2016,2015,Dec,Pleasant Garden,Plumbing/Mechanical/Gas,13
+2016,2015,Dec,PTIA,Building,1
+2016,2015,Dec,PTIA,Electrical,1
+2016,2015,Dec,PTIA,Other,2
+2016,2015,Dec,PTIA,Plumbing/Mechanical/Gas,3
+2016,2015,Dec,Sedalia,Building,4
+2016,2015,Dec,Sedalia,Electrical,4
+2016,2015,Dec,Sedalia,Other,2
+2016,2015,Dec,Sedalia,Plumbing/Mechanical/Gas,1
+2016,2015,Dec,Stokesdale,Building,58
+2016,2015,Dec,Stokesdale,Electrical,31
+2016,2015,Dec,Stokesdale,Other,3
+2016,2015,Dec,Stokesdale,Plumbing/Mechanical/Gas,40
+2016,2015,Dec,Summerfield,Building,62
+2016,2015,Dec,Summerfield,Electrical,82
+2016,2015,Dec,Summerfield,Other,15
+2016,2015,Dec,Summerfield,Plumbing/Mechanical/Gas,129
+2016,2015,Dec,Whitsett,Building,1
+2016,2015,Dec,Whitsett,Plumbing/Mechanical/Gas,2
+2016,2016,Jan,Guilford County,Building,454
+2016,2016,Jan,Guilford County,Electrical,364
+2016,2016,Jan,Guilford County,Other,252
+2016,2016,Jan,Guilford County,Plumbing/Mechanical/Gas,540
+2016,2016,Jan,Jamestown,Building,31
+2016,2016,Jan,Jamestown,Electrical,24
+2016,2016,Jan,Jamestown,Other,3
+2016,2016,Jan,Jamestown,Plumbing/Mechanical/Gas,42
+2016,2016,Jan,Oak Ridge,Building,63
+2016,2016,Jan,Oak Ridge,Electrical,78
+2016,2016,Jan,Oak Ridge,Other,8
+2016,2016,Jan,Oak Ridge,Plumbing/Mechanical/Gas,137
+2016,2016,Jan,Pleasant Garden,Building,30
+2016,2016,Jan,Pleasant Garden,Electrical,23
+2016,2016,Jan,Pleasant Garden,Other,4
+2016,2016,Jan,Pleasant Garden,Plumbing/Mechanical/Gas,42
+2016,2016,Jan,PTIA,Building,3
+2016,2016,Jan,PTIA,Electrical,4
+2016,2016,Jan,PTIA,Other,1
+2016,2016,Jan,PTIA,Plumbing/Mechanical/Gas,3
+2016,2016,Jan,Sedalia,Building,1
+2016,2016,Jan,Sedalia,Electrical,4
+2016,2016,Jan,Sedalia,Other,1
+2016,2016,Jan,Sedalia,Plumbing/Mechanical/Gas,3
+2016,2016,Jan,Stokesdale,Building,48
+2016,2016,Jan,Stokesdale,Electrical,26
+2016,2016,Jan,Stokesdale,Other,7
+2016,2016,Jan,Stokesdale,Plumbing/Mechanical/Gas,41
+2016,2016,Jan,Summerfield,Building,85
+2016,2016,Jan,Summerfield,Electrical,57
+2016,2016,Jan,Summerfield,Other,17
+2016,2016,Jan,Summerfield,Plumbing/Mechanical/Gas,66
+2016,2016,Jan,Whitsett,Electrical,1
+2016,2016,Jan,Whitsett,Other,2
+2016,2016,Jan,Whitsett,Plumbing/Mechanical/Gas,1
+2016,2016,Feb,Guilford County,Building,490
+2016,2016,Feb,Guilford County,Electrical,363
+2016,2016,Feb,Guilford County,Other,299
+2016,2016,Feb,Guilford County,Plumbing/Mechanical/Gas,517
+2016,2016,Feb,Jamestown,Building,24
+2016,2016,Feb,Jamestown,Electrical,33
+2016,2016,Feb,Jamestown,Other,12
+2016,2016,Feb,Jamestown,Plumbing/Mechanical/Gas,115
+2016,2016,Feb,Oak Ridge,Building,88
+2016,2016,Feb,Oak Ridge,Electrical,46
+2016,2016,Feb,Oak Ridge,Other,10
+2016,2016,Feb,Oak Ridge,Plumbing/Mechanical/Gas,103
+2016,2016,Feb,Pleasant Garden,Building,28
+2016,2016,Feb,Pleasant Garden,Electrical,15
+2016,2016,Feb,Pleasant Garden,Other,3
+2016,2016,Feb,Pleasant Garden,Plumbing/Mechanical/Gas,10
+2016,2016,Feb,PTIA,Building,2
+2016,2016,Feb,PTIA,Electrical,4
+2016,2016,Feb,PTIA,Plumbing/Mechanical/Gas,6
+2016,2016,Feb,Sedalia,Building,2
+2016,2016,Feb,Sedalia,Electrical,8
+2016,2016,Feb,Sedalia,Plumbing/Mechanical/Gas,2
+2016,2016,Feb,Stokesdale,Building,99
+2016,2016,Feb,Stokesdale,Electrical,36
+2016,2016,Feb,Stokesdale,Other,1
+2016,2016,Feb,Stokesdale,Plumbing/Mechanical/Gas,71
+2016,2016,Feb,Summerfield,Building,87
+2016,2016,Feb,Summerfield,Electrical,69
+2016,2016,Feb,Summerfield,Other,13
+2016,2016,Feb,Summerfield,Plumbing/Mechanical/Gas,89
+2016,2016,Feb,Whitsett,Building,2
+2016,2016,Feb,Whitsett,Electrical,3
+2016,2016,Feb,Whitsett,Other,1
+2016,2016,Feb,Whitsett,Plumbing/Mechanical/Gas,1
+2016,2016,Mar,Guilford County,Building,585
+2016,2016,Mar,Guilford County,Electrical,490
+2016,2016,Mar,Guilford County,Other,383
+2016,2016,Mar,Guilford County,Plumbing/Mechanical/Gas,633
+2016,2016,Mar,Jamestown,Building,47
+2016,2016,Mar,Jamestown,Electrical,25
+2016,2016,Mar,Jamestown,Other,10
+2016,2016,Mar,Jamestown,Plumbing/Mechanical/Gas,77
+2016,2016,Mar,Oak Ridge,Building,84
+2016,2016,Mar,Oak Ridge,Electrical,74
+2016,2016,Mar,Oak Ridge,Other,10
+2016,2016,Mar,Oak Ridge,Plumbing/Mechanical/Gas,161
+2016,2016,Mar,Pleasant Garden,Building,30
+2016,2016,Mar,Pleasant Garden,Electrical,17
+2016,2016,Mar,Pleasant Garden,Other,1
+2016,2016,Mar,Pleasant Garden,Plumbing/Mechanical/Gas,20
+2016,2016,Mar,PTIA,Building,1
+2016,2016,Mar,PTIA,Electrical,5
+2016,2016,Mar,PTIA,Plumbing/Mechanical/Gas,10
+2016,2016,Mar,Sedalia,Electrical,1
+2016,2016,Mar,Sedalia,Plumbing/Mechanical/Gas,1
+2016,2016,Mar,Stokesdale,Building,94
+2016,2016,Mar,Stokesdale,Electrical,36
+2016,2016,Mar,Stokesdale,Other,18
+2016,2016,Mar,Stokesdale,Plumbing/Mechanical/Gas,71
+2016,2016,Mar,Summerfield,Building,105
+2016,2016,Mar,Summerfield,Electrical,93
+2016,2016,Mar,Summerfield,Other,15
+2016,2016,Mar,Summerfield,Plumbing/Mechanical/Gas,86
+2016,2016,Mar,Whitsett,Other,5
+2016,2016,Apr,Greensboro,Other,1
+2016,2016,Apr,Guilford County,Building,588
+2016,2016,Apr,Guilford County,Electrical,423
+2016,2016,Apr,Guilford County,Other,327
+2016,2016,Apr,Guilford County,Plumbing/Mechanical/Gas,543
+2016,2016,Apr,Jamestown,Building,52
+2016,2016,Apr,Jamestown,Electrical,33
+2016,2016,Apr,Jamestown,Other,6
+2016,2016,Apr,Jamestown,Plumbing/Mechanical/Gas,105
+2016,2016,Apr,Oak Ridge,Building,120
+2016,2016,Apr,Oak Ridge,Electrical,72
+2016,2016,Apr,Oak Ridge,Other,17
+2016,2016,Apr,Oak Ridge,Plumbing/Mechanical/Gas,119
+2016,2016,Apr,Pleasant Garden,Building,17
+2016,2016,Apr,Pleasant Garden,Electrical,12
+2016,2016,Apr,Pleasant Garden,Other,2
+2016,2016,Apr,Pleasant Garden,Plumbing/Mechanical/Gas,12
+2016,2016,Apr,PTIA,Building,10
+2016,2016,Apr,PTIA,Electrical,6
+2016,2016,Apr,PTIA,Other,4
+2016,2016,Apr,PTIA,Plumbing/Mechanical/Gas,5
+2016,2016,Apr,Sedalia,Building,4
+2016,2016,Apr,Sedalia,Electrical,2
+2016,2016,Apr,Sedalia,Plumbing/Mechanical/Gas,1
+2016,2016,Apr,Stokesdale,Building,98
+2016,2016,Apr,Stokesdale,Electrical,56
+2016,2016,Apr,Stokesdale,Other,14
+2016,2016,Apr,Stokesdale,Plumbing/Mechanical/Gas,146
+2016,2016,Apr,Summerfield,Building,121
+2016,2016,Apr,Summerfield,Electrical,82
+2016,2016,Apr,Summerfield,Other,22
+2016,2016,Apr,Summerfield,Plumbing/Mechanical/Gas,113
+2016,2016,Apr,Whitsett,Building,2
+2016,2016,Apr,Whitsett,Electrical,4
+2016,2016,Apr,Whitsett,Other,3
+2016,2016,Apr,Whitsett,Plumbing/Mechanical/Gas,7
+2016,2016,May,Guilford County,Building,621
+2016,2016,May,Guilford County,Electrical,400
+2016,2016,May,Guilford County,Other,332
+2016,2016,May,Guilford County,Plumbing/Mechanical/Gas,535
+2016,2016,May,Jamestown,Building,42
+2016,2016,May,Jamestown,Electrical,47
+2016,2016,May,Jamestown,Other,5
+2016,2016,May,Jamestown,Plumbing/Mechanical/Gas,76
+2016,2016,May,Oak Ridge,Building,90
+2016,2016,May,Oak Ridge,Electrical,50
+2016,2016,May,Oak Ridge,Other,17
+2016,2016,May,Oak Ridge,Plumbing/Mechanical/Gas,90
+2016,2016,May,Pleasant Garden,Building,15
+2016,2016,May,Pleasant Garden,Electrical,11
+2016,2016,May,Pleasant Garden,Other,2
+2016,2016,May,Pleasant Garden,Plumbing/Mechanical/Gas,8
+2016,2016,May,PTIA,Building,12
+2016,2016,May,PTIA,Electrical,10
+2016,2016,May,PTIA,Other,1
+2016,2016,May,PTIA,Plumbing/Mechanical/Gas,12
+2016,2016,May,Sedalia,Building,7
+2016,2016,May,Sedalia,Other,1
+2016,2016,May,Sedalia,Plumbing/Mechanical/Gas,1
+2016,2016,May,Stokesdale,Building,92
+2016,2016,May,Stokesdale,Electrical,57
+2016,2016,May,Stokesdale,Other,22
+2016,2016,May,Stokesdale,Plumbing/Mechanical/Gas,98
+2016,2016,May,Summerfield,Building,145
+2016,2016,May,Summerfield,Electrical,82
+2016,2016,May,Summerfield,Other,36
+2016,2016,May,Summerfield,Plumbing/Mechanical/Gas,91
+2016,2016,May,Whitsett,Building,5
+2016,2016,May,Whitsett,Other,1
+2017,2016,Jun,Guilford County,Building,724
+2017,2016,Jun,Guilford County,Electrical,438
+2017,2016,Jun,Guilford County,Other,356
+2017,2016,Jun,Guilford County,Plumbing/Mechanical/Gas,655
+2017,2016,Jun,Jamestown,Building,16
+2017,2016,Jun,Jamestown,Electrical,50
+2017,2016,Jun,Jamestown,Other,8
+2017,2016,Jun,Jamestown,Plumbing/Mechanical/Gas,52
+2017,2016,Jun,Oak Ridge,Building,88
+2017,2016,Jun,Oak Ridge,Electrical,77
+2017,2016,Jun,Oak Ridge,Other,13
+2017,2016,Jun,Oak Ridge,Plumbing/Mechanical/Gas,120
+2017,2016,Jun,Pleasant Garden,Building,27
+2017,2016,Jun,Pleasant Garden,Electrical,13
+2017,2016,Jun,Pleasant Garden,Other,1
+2017,2016,Jun,Pleasant Garden,Plumbing/Mechanical/Gas,19
+2017,2016,Jun,PTIA,Building,11
+2017,2016,Jun,PTIA,Electrical,12
+2017,2016,Jun,PTIA,Other,2
+2017,2016,Jun,PTIA,Plumbing/Mechanical/Gas,12
+2017,2016,Jun,Stokesdale,Building,111
+2017,2016,Jun,Stokesdale,Electrical,69
+2017,2016,Jun,Stokesdale,Other,6
+2017,2016,Jun,Stokesdale,Plumbing/Mechanical/Gas,106
+2017,2016,Jun,Summerfield,Building,112
+2017,2016,Jun,Summerfield,Electrical,83
+2017,2016,Jun,Summerfield,Other,27
+2017,2016,Jun,Summerfield,Plumbing/Mechanical/Gas,89
+2017,2016,Jun,Whitsett,Building,9
+2017,2016,Jun,Whitsett,Electrical,2
+2017,2016,Jun,Whitsett,Plumbing/Mechanical/Gas,2
+2017,2016,Jul,Guilford County,Building,647
+2017,2016,Jul,Guilford County,Electrical,452
+2017,2016,Jul,Guilford County,Other,275
+2017,2016,Jul,Guilford County,Plumbing/Mechanical/Gas,596
+2017,2016,Jul,Jamestown,Building,14
+2017,2016,Jul,Jamestown,Electrical,30
+2017,2016,Jul,Jamestown,Other,5
+2017,2016,Jul,Jamestown,Plumbing/Mechanical/Gas,56
+2017,2016,Jul,Oak Ridge,Building,102
+2017,2016,Jul,Oak Ridge,Electrical,63
+2017,2016,Jul,Oak Ridge,Other,8
+2017,2016,Jul,Oak Ridge,Plumbing/Mechanical/Gas,97
+2017,2016,Jul,Pleasant Garden,Building,18
+2017,2016,Jul,Pleasant Garden,Electrical,2
+2017,2016,Jul,Pleasant Garden,Other,1
+2017,2016,Jul,Pleasant Garden,Plumbing/Mechanical/Gas,5
+2017,2016,Jul,PTIA,Building,14
+2017,2016,Jul,PTIA,Electrical,17
+2017,2016,Jul,PTIA,Plumbing/Mechanical/Gas,15
+2017,2016,Jul,Stokesdale,Building,75
+2017,2016,Jul,Stokesdale,Electrical,71
+2017,2016,Jul,Stokesdale,Other,12
+2017,2016,Jul,Stokesdale,Plumbing/Mechanical/Gas,111
+2017,2016,Jul,Summerfield,Building,118
+2017,2016,Jul,Summerfield,Electrical,97
+2017,2016,Jul,Summerfield,Other,8
+2017,2016,Jul,Summerfield,Plumbing/Mechanical/Gas,114
+2017,2016,Jul,Whitsett,Building,1
+2017,2016,Jul,Whitsett,Electrical,5
+2017,2016,Jul,Whitsett,Other,1
+2017,2016,Jul,Whitsett,Plumbing/Mechanical/Gas,3
+2017,2016,Aug,Greensboro,Other,2
+2017,2016,Aug,Guilford County,Building,702
+2017,2016,Aug,Guilford County,Electrical,575
+2017,2016,Aug,Guilford County,Other,343
+2017,2016,Aug,Guilford County,Plumbing/Mechanical/Gas,775
+2017,2016,Aug,Jamestown,Building,27
+2017,2016,Aug,Jamestown,Electrical,37
+2017,2016,Aug,Jamestown,Other,9
+2017,2016,Aug,Jamestown,Plumbing/Mechanical/Gas,40
+2017,2016,Aug,Oak Ridge,Building,132
+2017,2016,Aug,Oak Ridge,Electrical,84
+2017,2016,Aug,Oak Ridge,Other,22
+2017,2016,Aug,Oak Ridge,Plumbing/Mechanical/Gas,129
+2017,2016,Aug,Pleasant Garden,Building,15
+2017,2016,Aug,Pleasant Garden,Electrical,8
+2017,2016,Aug,Pleasant Garden,Plumbing/Mechanical/Gas,11
+2017,2016,Aug,PTIA,Building,7
+2017,2016,Aug,PTIA,Electrical,6
+2017,2016,Aug,PTIA,Other,1
+2017,2016,Aug,PTIA,Plumbing/Mechanical/Gas,6
+2017,2016,Aug,Sedalia,Electrical,1
+2017,2016,Aug,Sedalia,Plumbing/Mechanical/Gas,1
+2017,2016,Aug,Stokesdale,Building,149
+2017,2016,Aug,Stokesdale,Electrical,82
+2017,2016,Aug,Stokesdale,Other,14
+2017,2016,Aug,Stokesdale,Plumbing/Mechanical/Gas,129
+2017,2016,Aug,Summerfield,Building,131
+2017,2016,Aug,Summerfield,Electrical,108
+2017,2016,Aug,Summerfield,Other,16
+2017,2016,Aug,Summerfield,Plumbing/Mechanical/Gas,142
+2017,2016,Aug,Whitsett,Building,1
+2017,2016,Aug,Whitsett,Other,2
+2017,2016,Aug,Whitsett,Plumbing/Mechanical/Gas,9
+2017,2016,Sep,Greensboro,Other,1
+2017,2016,Sep,Guilford County,Building,651
+2017,2016,Sep,Guilford County,Electrical,583
+2017,2016,Sep,Guilford County,Other,297
+2017,2016,Sep,Guilford County,Plumbing/Mechanical/Gas,780
+2017,2016,Sep,Jamestown,Building,21
+2017,2016,Sep,Jamestown,Electrical,33
+2017,2016,Sep,Jamestown,Other,17
+2017,2016,Sep,Jamestown,Plumbing/Mechanical/Gas,37
+2017,2016,Sep,Oak Ridge,Building,132
+2017,2016,Sep,Oak Ridge,Electrical,83
+2017,2016,Sep,Oak Ridge,Other,10
+2017,2016,Sep,Oak Ridge,Plumbing/Mechanical/Gas,138
+2017,2016,Sep,Pleasant Garden,Building,26
+2017,2016,Sep,Pleasant Garden,Electrical,19
+2017,2016,Sep,Pleasant Garden,Other,2
+2017,2016,Sep,Pleasant Garden,Plumbing/Mechanical/Gas,18
+2017,2016,Sep,PTIA,Building,6
+2017,2016,Sep,PTIA,Electrical,3
+2017,2016,Sep,PTIA,Other,1
+2017,2016,Sep,PTIA,Plumbing/Mechanical/Gas,5
+2017,2016,Sep,Stokesdale,Building,98
+2017,2016,Sep,Stokesdale,Electrical,43
+2017,2016,Sep,Stokesdale,Other,12
+2017,2016,Sep,Stokesdale,Plumbing/Mechanical/Gas,66
+2017,2016,Sep,Summerfield,Building,112
+2017,2016,Sep,Summerfield,Electrical,89
+2017,2016,Sep,Summerfield,Other,8
+2017,2016,Sep,Summerfield,Plumbing/Mechanical/Gas,113
+2017,2016,Oct,Greensboro,Other,1
+2017,2016,Oct,Guilford County,Building,657
+2017,2016,Oct,Guilford County,Electrical,495
+2017,2016,Oct,Guilford County,Other,403
+2017,2016,Oct,Guilford County,Plumbing/Mechanical/Gas,695
+2017,2016,Oct,Jamestown,Building,45
+2017,2016,Oct,Jamestown,Electrical,18
+2017,2016,Oct,Jamestown,Other,7
+2017,2016,Oct,Jamestown,Plumbing/Mechanical/Gas,37
+2017,2016,Oct,Oak Ridge,Building,145
+2017,2016,Oct,Oak Ridge,Electrical,95
+2017,2016,Oct,Oak Ridge,Other,11
+2017,2016,Oct,Oak Ridge,Plumbing/Mechanical/Gas,158
+2017,2016,Oct,Pleasant Garden,Building,9
+2017,2016,Oct,Pleasant Garden,Electrical,7
+2017,2016,Oct,Pleasant Garden,Plumbing/Mechanical/Gas,5
+2017,2016,Oct,PTIA,Building,4
+2017,2016,Oct,PTIA,Electrical,6
+2017,2016,Oct,PTIA,Other,1
+2017,2016,Oct,PTIA,Plumbing/Mechanical/Gas,7
+2017,2016,Oct,Stokesdale,Building,85
+2017,2016,Oct,Stokesdale,Electrical,46
+2017,2016,Oct,Stokesdale,Other,20
+2017,2016,Oct,Stokesdale,Plumbing/Mechanical/Gas,114
+2017,2016,Oct,Summerfield,Building,119
+2017,2016,Oct,Summerfield,Electrical,95
+2017,2016,Oct,Summerfield,Other,25
+2017,2016,Oct,Summerfield,Plumbing/Mechanical/Gas,115
+2017,2016,Oct,Whitsett,Building,4
+2017,2016,Oct,Whitsett,Plumbing/Mechanical/Gas,9
+2017,2016,Nov,Greensboro,Other,2
+2017,2016,Nov,Guilford County,Building,679
+2017,2016,Nov,Guilford County,Electrical,570
+2017,2016,Nov,Guilford County,Other,351
+2017,2016,Nov,Guilford County,Plumbing/Mechanical/Gas,683
+2017,2016,Nov,Jamestown,Building,48
+2017,2016,Nov,Jamestown,Electrical,22
+2017,2016,Nov,Jamestown,Other,6
+2017,2016,Nov,Jamestown,Plumbing/Mechanical/Gas,40
+2017,2016,Nov,Oak Ridge,Building,129
+2017,2016,Nov,Oak Ridge,Electrical,98
+2017,2016,Nov,Oak Ridge,Other,4
+2017,2016,Nov,Oak Ridge,Plumbing/Mechanical/Gas,187
+2017,2016,Nov,Pleasant Garden,Building,9
+2017,2016,Nov,Pleasant Garden,Electrical,14
+2017,2016,Nov,Pleasant Garden,Other,1
+2017,2016,Nov,Pleasant Garden,Plumbing/Mechanical/Gas,7
+2017,2016,Nov,PTIA,Building,7
+2017,2016,Nov,PTIA,Electrical,7
+2017,2016,Nov,PTIA,Plumbing/Mechanical/Gas,10
+2017,2016,Nov,Sedalia,Building,2
+2017,2016,Nov,Sedalia,Electrical,1
+2017,2016,Nov,Sedalia,Other,1
+2017,2016,Nov,Sedalia,Plumbing/Mechanical/Gas,2
+2017,2016,Nov,Stokesdale,Building,86
+2017,2016,Nov,Stokesdale,Electrical,52
+2017,2016,Nov,Stokesdale,Other,7
+2017,2016,Nov,Stokesdale,Plumbing/Mechanical/Gas,87
+2017,2016,Nov,Summerfield,Building,138
+2017,2016,Nov,Summerfield,Electrical,107
+2017,2016,Nov,Summerfield,Other,15
+2017,2016,Nov,Summerfield,Plumbing/Mechanical/Gas,131
+2017,2016,Nov,Whitsett,Electrical,1
+2017,2016,Nov,Whitsett,Other,1
+2017,2016,Nov,Whitsett,Plumbing/Mechanical/Gas,4
+2017,2016,Dec,Greensboro,Other,1
+2017,2016,Dec,Guilford County,Building,617
+2017,2016,Dec,Guilford County,Electrical,459
+2017,2016,Dec,Guilford County,Other,247
+2017,2016,Dec,Guilford County,Plumbing/Mechanical/Gas,591
+2017,2016,Dec,Jamestown,Building,66
+2017,2016,Dec,Jamestown,Electrical,35
+2017,2016,Dec,Jamestown,Other,2
+2017,2016,Dec,Jamestown,Plumbing/Mechanical/Gas,44
+2017,2016,Dec,Oak Ridge,Building,118
+2017,2016,Dec,Oak Ridge,Electrical,92
+2017,2016,Dec,Oak Ridge,Other,8
+2017,2016,Dec,Oak Ridge,Plumbing/Mechanical/Gas,134
+2017,2016,Dec,Pleasant Garden,Building,13
+2017,2016,Dec,Pleasant Garden,Electrical,13
+2017,2016,Dec,Pleasant Garden,Plumbing/Mechanical/Gas,14
+2017,2016,Dec,PTIA,Building,5
+2017,2016,Dec,PTIA,Electrical,10
+2017,2016,Dec,PTIA,Other,3
+2017,2016,Dec,PTIA,Plumbing/Mechanical/Gas,18
+2017,2016,Dec,Sedalia,Building,5
+2017,2016,Dec,Sedalia,Electrical,2
+2017,2016,Dec,Sedalia,Plumbing/Mechanical/Gas,3
+2017,2016,Dec,Stokesdale,Building,57
+2017,2016,Dec,Stokesdale,Electrical,33
+2017,2016,Dec,Stokesdale,Plumbing/Mechanical/Gas,87
+2017,2016,Dec,Summerfield,Building,92
+2017,2016,Dec,Summerfield,Electrical,102
+2017,2016,Dec,Summerfield,Other,14
+2017,2016,Dec,Summerfield,Plumbing/Mechanical/Gas,119
+2017,2016,Dec,Whitsett,Building,5
+2017,2016,Dec,Whitsett,Electrical,1
+2017,2016,Dec,Whitsett,Plumbing/Mechanical/Gas,2
+2017,2017,Jan,Greensboro,Other,2
+2017,2017,Jan,Guilford County,Building,472
+2017,2017,Jan,Guilford County,Electrical,400
+2017,2017,Jan,Guilford County,Other,240
+2017,2017,Jan,Guilford County,Plumbing/Mechanical/Gas,486
+2017,2017,Jan,Jamestown,Building,40
+2017,2017,Jan,Jamestown,Electrical,23
+2017,2017,Jan,Jamestown,Other,3
+2017,2017,Jan,Jamestown,Plumbing/Mechanical/Gas,33
+2017,2017,Jan,Oak Ridge,Building,56
+2017,2017,Jan,Oak Ridge,Electrical,56
+2017,2017,Jan,Oak Ridge,Other,8
+2017,2017,Jan,Oak Ridge,Plumbing/Mechanical/Gas,79
+2017,2017,Jan,Pleasant Garden,Building,4
+2017,2017,Jan,Pleasant Garden,Electrical,5
+2017,2017,Jan,Pleasant Garden,Other,3
+2017,2017,Jan,Pleasant Garden,Plumbing/Mechanical/Gas,12
+2017,2017,Jan,PTIA,Building,4
+2017,2017,Jan,PTIA,Electrical,8
+2017,2017,Jan,PTIA,Other,3
+2017,2017,Jan,PTIA,Plumbing/Mechanical/Gas,6
+2017,2017,Jan,Sedalia,Building,1
+2017,2017,Jan,Sedalia,Electrical,2
+2017,2017,Jan,Sedalia,Other,1
+2017,2017,Jan,Sedalia,Plumbing/Mechanical/Gas,3
+2017,2017,Jan,Stokesdale,Building,93
+2017,2017,Jan,Stokesdale,Electrical,69
+2017,2017,Jan,Stokesdale,Other,6
+2017,2017,Jan,Stokesdale,Plumbing/Mechanical/Gas,98
+2017,2017,Jan,Summerfield,Building,61
+2017,2017,Jan,Summerfield,Electrical,88
+2017,2017,Jan,Summerfield,Other,22
+2017,2017,Jan,Summerfield,Plumbing/Mechanical/Gas,112
+2017,2017,Jan,Whitsett,Building,3
+2017,2017,Jan,Whitsett,Electrical,2
+2017,2017,Jan,Whitsett,Plumbing/Mechanical/Gas,1
+2017,2017,Feb,Guilford County,Building,561
+2017,2017,Feb,Guilford County,Electrical,434
+2017,2017,Feb,Guilford County,Other,324
+2017,2017,Feb,Guilford County,Plumbing/Mechanical/Gas,673
+2017,2017,Feb,Jamestown,Building,66
+2017,2017,Feb,Jamestown,Electrical,36
+2017,2017,Feb,Jamestown,Other,4
+2017,2017,Feb,Jamestown,Plumbing/Mechanical/Gas,70
+2017,2017,Feb,Oak Ridge,Building,113
+2017,2017,Feb,Oak Ridge,Electrical,72
+2017,2017,Feb,Oak Ridge,Other,10
+2017,2017,Feb,Oak Ridge,Plumbing/Mechanical/Gas,106
+2017,2017,Feb,Pleasant Garden,Building,11
+2017,2017,Feb,Pleasant Garden,Electrical,14
+2017,2017,Feb,Pleasant Garden,Plumbing/Mechanical/Gas,21
+2017,2017,Feb,PTIA,Building,1
+2017,2017,Feb,PTIA,Electrical,5
+2017,2017,Feb,PTIA,Other,2
+2017,2017,Feb,Sedalia,Building,11
+2017,2017,Feb,Sedalia,Electrical,4
+2017,2017,Feb,Sedalia,Other,6
+2017,2017,Feb,Sedalia,Plumbing/Mechanical/Gas,2
+2017,2017,Feb,Stokesdale,Building,62
+2017,2017,Feb,Stokesdale,Electrical,54
+2017,2017,Feb,Stokesdale,Other,22
+2017,2017,Feb,Stokesdale,Plumbing/Mechanical/Gas,63
+2017,2017,Feb,Summerfield,Building,130
+2017,2017,Feb,Summerfield,Electrical,76
+2017,2017,Feb,Summerfield,Other,18
+2017,2017,Feb,Summerfield,Plumbing/Mechanical/Gas,86
+2017,2017,Feb,Whitsett,Building,5
+2017,2017,Feb,Whitsett,Electrical,2
+2017,2017,Feb,Whitsett,Plumbing/Mechanical/Gas,1
+2017,2017,Mar,Guilford County,Building,649
+2017,2017,Mar,Guilford County,Electrical,561
+2017,2017,Mar,Guilford County,Other,314
+2017,2017,Mar,Guilford County,Plumbing/Mechanical/Gas,613
+2017,2017,Mar,Jamestown,Building,111
+2017,2017,Mar,Jamestown,Electrical,68
+2017,2017,Mar,Jamestown,Other,9
+2017,2017,Mar,Jamestown,Plumbing/Mechanical/Gas,119
+2017,2017,Mar,Oak Ridge,Building,72
+2017,2017,Mar,Oak Ridge,Electrical,60
+2017,2017,Mar,Oak Ridge,Other,4
+2017,2017,Mar,Oak Ridge,Plumbing/Mechanical/Gas,71
+2017,2017,Mar,Pleasant Garden,Building,22
+2017,2017,Mar,Pleasant Garden,Electrical,30
+2017,2017,Mar,Pleasant Garden,Plumbing/Mechanical/Gas,32
+2017,2017,Mar,PTIA,Building,2
+2017,2017,Mar,PTIA,Electrical,5
+2017,2017,Mar,PTIA,Other,1
+2017,2017,Mar,PTIA,Plumbing/Mechanical/Gas,2
+2017,2017,Mar,Sedalia,Electrical,2
+2017,2017,Mar,Sedalia,Plumbing/Mechanical/Gas,2
+2017,2017,Mar,Stokesdale,Building,103
+2017,2017,Mar,Stokesdale,Electrical,39
+2017,2017,Mar,Stokesdale,Other,12
+2017,2017,Mar,Stokesdale,Plumbing/Mechanical/Gas,56
+2017,2017,Mar,Summerfield,Building,110
+2017,2017,Mar,Summerfield,Electrical,74
+2017,2017,Mar,Summerfield,Other,8
+2017,2017,Mar,Summerfield,Plumbing/Mechanical/Gas,109
+2017,2017,Mar,Whitsett,Building,9
+2017,2017,Mar,Whitsett,Electrical,9
+2017,2017,Mar,Whitsett,Plumbing/Mechanical/Gas,11
+2017,2017,Apr,Greensboro,Other,2
+2017,2017,Apr,Guilford County,Building,509
+2017,2017,Apr,Guilford County,Electrical,416
+2017,2017,Apr,Guilford County,Other,225
+2017,2017,Apr,Guilford County,Plumbing/Mechanical/Gas,557
+2017,2017,Apr,Jamestown,Building,77
+2017,2017,Apr,Jamestown,Electrical,53
+2017,2017,Apr,Jamestown,Other,15
+2017,2017,Apr,Jamestown,Plumbing/Mechanical/Gas,84
+2017,2017,Apr,Oak Ridge,Building,73
+2017,2017,Apr,Oak Ridge,Electrical,64
+2017,2017,Apr,Oak Ridge,Other,10
+2017,2017,Apr,Oak Ridge,Plumbing/Mechanical/Gas,141
+2017,2017,Apr,Pleasant Garden,Building,32
+2017,2017,Apr,Pleasant Garden,Electrical,23
+2017,2017,Apr,Pleasant Garden,Plumbing/Mechanical/Gas,33
+2017,2017,Apr,PTIA,Electrical,2
+2017,2017,Apr,PTIA,Other,2
+2017,2017,Apr,PTIA,Plumbing/Mechanical/Gas,5
+2017,2017,Apr,Sedalia,Plumbing/Mechanical/Gas,4
+2017,2017,Apr,Stokesdale,Building,87
+2017,2017,Apr,Stokesdale,Electrical,48
+2017,2017,Apr,Stokesdale,Other,5
+2017,2017,Apr,Stokesdale,Plumbing/Mechanical/Gas,65
+2017,2017,Apr,Summerfield,Building,84
+2017,2017,Apr,Summerfield,Electrical,101
+2017,2017,Apr,Summerfield,Other,4
+2017,2017,Apr,Summerfield,Plumbing/Mechanical/Gas,141
+2017,2017,Apr,Whitsett,Building,3
+2017,2017,Apr,Whitsett,Electrical,3
+2017,2017,Apr,Whitsett,Plumbing/Mechanical/Gas,2
+2017,2017,May,Greensboro,Other,1
+2017,2017,May,Guilford County,Building,609
+2017,2017,May,Guilford County,Electrical,526
+2017,2017,May,Guilford County,Other,301
+2017,2017,May,Guilford County,Plumbing/Mechanical/Gas,606
+2017,2017,May,Jamestown,Building,82
+2017,2017,May,Jamestown,Electrical,64
+2017,2017,May,Jamestown,Other,14
+2017,2017,May,Jamestown,Plumbing/Mechanical/Gas,100
+2017,2017,May,Oak Ridge,Building,104
+2017,2017,May,Oak Ridge,Electrical,86
+2017,2017,May,Oak Ridge,Other,9
+2017,2017,May,Oak Ridge,Plumbing/Mechanical/Gas,122
+2017,2017,May,Pleasant Garden,Building,30
+2017,2017,May,Pleasant Garden,Electrical,19
+2017,2017,May,Pleasant Garden,Plumbing/Mechanical/Gas,18
+2017,2017,May,PTIA,Building,1
+2017,2017,May,PTIA,Electrical,8
+2017,2017,May,PTIA,Plumbing/Mechanical/Gas,5
+2017,2017,May,Sedalia,Building,5
+2017,2017,May,Sedalia,Electrical,4
+2017,2017,May,Sedalia,Other,3
+2017,2017,May,Sedalia,Plumbing/Mechanical/Gas,1
+2017,2017,May,Stokesdale,Building,97
+2017,2017,May,Stokesdale,Electrical,55
+2017,2017,May,Stokesdale,Other,6
+2017,2017,May,Stokesdale,Plumbing/Mechanical/Gas,83
+2017,2017,May,Summerfield,Building,95
+2017,2017,May,Summerfield,Electrical,80
+2017,2017,May,Summerfield,Other,9
+2017,2017,May,Summerfield,Plumbing/Mechanical/Gas,97
+2017,2017,May,Whitsett,Building,3
+2017,2017,May,Whitsett,Electrical,2
+2017,2017,May,Whitsett,Plumbing/Mechanical/Gas,3
+2018,2017,Jun,Guilford County,Building,589
+2018,2017,Jun,Guilford County,Electrical,567
+2018,2017,Jun,Guilford County,Other,324
+2018,2017,Jun,Guilford County,Plumbing/Mechanical/Gas,667
+2018,2017,Jun,Jamestown,Building,119
+2018,2017,Jun,Jamestown,Electrical,54
+2018,2017,Jun,Jamestown,Other,24
+2018,2017,Jun,Jamestown,Plumbing/Mechanical/Gas,93
+2018,2017,Jun,Oak Ridge,Building,124
+2018,2017,Jun,Oak Ridge,Electrical,89
+2018,2017,Jun,Oak Ridge,Other,3
+2018,2017,Jun,Oak Ridge,Plumbing/Mechanical/Gas,89
+2018,2017,Jun,Pleasant Garden,Building,18
+2018,2017,Jun,Pleasant Garden,Electrical,14
+2018,2017,Jun,Pleasant Garden,Other,2
+2018,2017,Jun,Pleasant Garden,Plumbing/Mechanical/Gas,9
+2018,2017,Jun,PTIA,Building,8
+2018,2017,Jun,PTIA,Electrical,4
+2018,2017,Jun,PTIA,Plumbing/Mechanical/Gas,6
+2018,2017,Jun,Sedalia,Electrical,3
+2018,2017,Jun,Sedalia,Other,2
+2018,2017,Jun,Sedalia,Plumbing/Mechanical/Gas,2
+2018,2017,Jun,Stokesdale,Building,109
+2018,2017,Jun,Stokesdale,Electrical,75
+2018,2017,Jun,Stokesdale,Other,10
+2018,2017,Jun,Stokesdale,Plumbing/Mechanical/Gas,123
+2018,2017,Jun,Summerfield,Building,100
+2018,2017,Jun,Summerfield,Electrical,96
+2018,2017,Jun,Summerfield,Other,20
+2018,2017,Jun,Summerfield,Plumbing/Mechanical/Gas,97
+2018,2017,Jun,Whitsett,Building,3
+2018,2017,Jun,Whitsett,Electrical,3
+2018,2017,Jun,Whitsett,Plumbing/Mechanical/Gas,7
+2018,2017,Jul,Greensboro,Other,3
+2018,2017,Jul,Guilford County,Building,596
+2018,2017,Jul,Guilford County,Electrical,485
+2018,2017,Jul,Guilford County,Other,371
+2018,2017,Jul,Guilford County,Plumbing/Mechanical/Gas,719
+2018,2017,Jul,Jamestown,Building,60
+2018,2017,Jul,Jamestown,Electrical,57
+2018,2017,Jul,Jamestown,Other,28
+2018,2017,Jul,Jamestown,Plumbing/Mechanical/Gas,93
+2018,2017,Jul,Oak Ridge,Building,114
+2018,2017,Jul,Oak Ridge,Electrical,78
+2018,2017,Jul,Oak Ridge,Other,18
+2018,2017,Jul,Oak Ridge,Plumbing/Mechanical/Gas,91
+2018,2017,Jul,Pleasant Garden,Building,27
+2018,2017,Jul,Pleasant Garden,Electrical,13
+2018,2017,Jul,Pleasant Garden,Other,4
+2018,2017,Jul,Pleasant Garden,Plumbing/Mechanical/Gas,30
+2018,2017,Jul,PTIA,Building,8
+2018,2017,Jul,PTIA,Electrical,7
+2018,2017,Jul,PTIA,Plumbing/Mechanical/Gas,2
+2018,2017,Jul,Sedalia,Building,2
+2018,2017,Jul,Stokesdale,Building,71
+2018,2017,Jul,Stokesdale,Electrical,47
+2018,2017,Jul,Stokesdale,Other,13
+2018,2017,Jul,Stokesdale,Plumbing/Mechanical/Gas,88
+2018,2017,Jul,Summerfield,Building,105
+2018,2017,Jul,Summerfield,Electrical,89
+2018,2017,Jul,Summerfield,Other,14
+2018,2017,Jul,Summerfield,Plumbing/Mechanical/Gas,99
+2018,2017,Jul,Whitsett,Building,8
+2018,2017,Jul,Whitsett,Electrical,3
+2018,2017,Aug,Guilford County,Building,827
+2018,2017,Aug,Guilford County,Electrical,603
+2018,2017,Aug,Guilford County,Other,398
+2018,2017,Aug,Guilford County,Plumbing/Mechanical/Gas,717
+2018,2017,Aug,Jamestown,Building,83
+2018,2017,Aug,Jamestown,Electrical,53
+2018,2017,Aug,Jamestown,Other,34
+2018,2017,Aug,Jamestown,Plumbing/Mechanical/Gas,84
+2018,2017,Aug,Oak Ridge,Building,93
+2018,2017,Aug,Oak Ridge,Electrical,96
+2018,2017,Aug,Oak Ridge,Other,28
+2018,2017,Aug,Oak Ridge,Plumbing/Mechanical/Gas,122
+2018,2017,Aug,Pleasant Garden,Building,57
+2018,2017,Aug,Pleasant Garden,Electrical,29
+2018,2017,Aug,Pleasant Garden,Other,2
+2018,2017,Aug,Pleasant Garden,Plumbing/Mechanical/Gas,51
+2018,2017,Aug,PTIA,Building,6
+2018,2017,Aug,PTIA,Electrical,8
+2018,2017,Aug,PTIA,Other,5
+2018,2017,Aug,PTIA,Plumbing/Mechanical/Gas,4
+2018,2017,Aug,Sedalia,Building,1
+2018,2017,Aug,Sedalia,Electrical,2
+2018,2017,Aug,Sedalia,Other,1
+2018,2017,Aug,Sedalia,Plumbing/Mechanical/Gas,2
+2018,2017,Aug,Stokesdale,Building,113
+2018,2017,Aug,Stokesdale,Electrical,78
+2018,2017,Aug,Stokesdale,Other,32
+2018,2017,Aug,Stokesdale,Plumbing/Mechanical/Gas,134
+2018,2017,Aug,Summerfield,Building,105
+2018,2017,Aug,Summerfield,Electrical,89
+2018,2017,Aug,Summerfield,Other,25
+2018,2017,Aug,Summerfield,Plumbing/Mechanical/Gas,107
+2018,2017,Aug,Whitsett,Building,5
+2018,2017,Aug,Whitsett,Electrical,3
+2018,2017,Aug,Whitsett,Other,1
+2018,2017,Aug,Whitsett,Plumbing/Mechanical/Gas,4
+2018,2017,Sep,Guilford County,Building,664
+2018,2017,Sep,Guilford County,Electrical,547
+2018,2017,Sep,Guilford County,Other,382
+2018,2017,Sep,Guilford County,Plumbing/Mechanical/Gas,634
+2018,2017,Sep,Jamestown,Building,104
+2018,2017,Sep,Jamestown,Electrical,52
+2018,2017,Sep,Jamestown,Other,34
+2018,2017,Sep,Jamestown,Plumbing/Mechanical/Gas,105
+2018,2017,Sep,Oak Ridge,Building,108
+2018,2017,Sep,Oak Ridge,Electrical,72
+2018,2017,Sep,Oak Ridge,Other,29
+2018,2017,Sep,Oak Ridge,Plumbing/Mechanical/Gas,101
+2018,2017,Sep,Pleasant Garden,Building,18
+2018,2017,Sep,Pleasant Garden,Electrical,17
+2018,2017,Sep,Pleasant Garden,Plumbing/Mechanical/Gas,20
+2018,2017,Sep,PTIA,Building,1
+2018,2017,Sep,PTIA,Electrical,8
+2018,2017,Sep,PTIA,Plumbing/Mechanical/Gas,14
+2018,2017,Sep,Sedalia,Building,1
+2018,2017,Sep,Sedalia,Electrical,3
+2018,2017,Sep,Sedalia,Other,2
+2018,2017,Sep,Stokesdale,Building,86
+2018,2017,Sep,Stokesdale,Electrical,53
+2018,2017,Sep,Stokesdale,Other,35
+2018,2017,Sep,Stokesdale,Plumbing/Mechanical/Gas,100
+2018,2017,Sep,Summerfield,Building,79
+2018,2017,Sep,Summerfield,Electrical,63
+2018,2017,Sep,Summerfield,Other,39
+2018,2017,Sep,Summerfield,Plumbing/Mechanical/Gas,85
+2018,2017,Sep,Whitsett,Building,9
+2018,2017,Sep,Whitsett,Electrical,1
+2018,2017,Sep,Whitsett,Other,1
+2018,2017,Sep,Whitsett,Plumbing/Mechanical/Gas,3
+2018,2017,Oct,Guilford County,Building,711
+2018,2017,Oct,Guilford County,Electrical,586
+2018,2017,Oct,Guilford County,Other,455
+2018,2017,Oct,Guilford County,Plumbing/Mechanical/Gas,933
+2018,2017,Oct,Jamestown,Building,60
+2018,2017,Oct,Jamestown,Electrical,44
+2018,2017,Oct,Jamestown,Other,23
+2018,2017,Oct,Jamestown,Plumbing/Mechanical/Gas,113
+2018,2017,Oct,Oak Ridge,Building,158
+2018,2017,Oct,Oak Ridge,Electrical,70
+2018,2017,Oct,Oak Ridge,Other,27
+2018,2017,Oct,Oak Ridge,Plumbing/Mechanical/Gas,146
+2018,2017,Oct,Pleasant Garden,Building,19
+2018,2017,Oct,Pleasant Garden,Electrical,18
+2018,2017,Oct,Pleasant Garden,Other,3
+2018,2017,Oct,Pleasant Garden,Plumbing/Mechanical/Gas,28
+2018,2017,Oct,PTIA,Building,12
+2018,2017,Oct,PTIA,Electrical,9
+2018,2017,Oct,PTIA,Other,1
+2018,2017,Oct,PTIA,Plumbing/Mechanical/Gas,18
+2018,2017,Oct,Sedalia,Electrical,1
+2018,2017,Oct,Sedalia,Other,2
+2018,2017,Oct,Stokesdale,Building,92
+2018,2017,Oct,Stokesdale,Electrical,84
+2018,2017,Oct,Stokesdale,Other,30
+2018,2017,Oct,Stokesdale,Plumbing/Mechanical/Gas,140
+2018,2017,Oct,Summerfield,Building,78
+2018,2017,Oct,Summerfield,Electrical,74
+2018,2017,Oct,Summerfield,Other,52
+2018,2017,Oct,Summerfield,Plumbing/Mechanical/Gas,114
+2018,2017,Oct,Whitsett,Building,5
+2018,2017,Oct,Whitsett,Electrical,1
+2018,2017,Oct,Whitsett,Other,1
+2018,2017,Oct,Whitsett,Plumbing/Mechanical/Gas,2
+2018,2017,Nov,Greensboro,Other,2
+2018,2017,Nov,Guilford County,Building,628
+2018,2017,Nov,Guilford County,Electrical,466
+2018,2017,Nov,Guilford County,Other,385
+2018,2017,Nov,Guilford County,Plumbing/Mechanical/Gas,639
+2018,2017,Nov,Jamestown,Building,89
+2018,2017,Nov,Jamestown,Electrical,32
+2018,2017,Nov,Jamestown,Other,35
+2018,2017,Nov,Jamestown,Plumbing/Mechanical/Gas,86
+2018,2017,Nov,Oak Ridge,Building,100
+2018,2017,Nov,Oak Ridge,Electrical,60
+2018,2017,Nov,Oak Ridge,Other,27
+2018,2017,Nov,Oak Ridge,Plumbing/Mechanical/Gas,80
+2018,2017,Nov,Pleasant Garden,Building,15
+2018,2017,Nov,Pleasant Garden,Electrical,8
+2018,2017,Nov,Pleasant Garden,Other,3
+2018,2017,Nov,Pleasant Garden,Plumbing/Mechanical/Gas,9
+2018,2017,Nov,PTIA,Building,5
+2018,2017,Nov,PTIA,Electrical,8
+2018,2017,Nov,PTIA,Other,1
+2018,2017,Nov,PTIA,Plumbing/Mechanical/Gas,27
+2018,2017,Nov,Sedalia,Electrical,4
+2018,2017,Nov,Sedalia,Other,4
+2018,2017,Nov,Sedalia,Plumbing/Mechanical/Gas,2
+2018,2017,Nov,Stokesdale,Building,107
+2018,2017,Nov,Stokesdale,Electrical,63
+2018,2017,Nov,Stokesdale,Other,17
+2018,2017,Nov,Stokesdale,Plumbing/Mechanical/Gas,82
+2018,2017,Nov,Summerfield,Building,82
+2018,2017,Nov,Summerfield,Electrical,75
+2018,2017,Nov,Summerfield,Other,24
+2018,2017,Nov,Summerfield,Plumbing/Mechanical/Gas,110
+2018,2017,Nov,Whitsett,Building,4
+2018,2017,Nov,Whitsett,Electrical,5
+2018,2017,Nov,Whitsett,Other,4
+2018,2017,Nov,Whitsett,Plumbing/Mechanical/Gas,8
+2018,2017,Dec,Greensboro,Other,1
+2018,2017,Dec,Guilford County,Building,532
+2018,2017,Dec,Guilford County,Electrical,439
+2018,2017,Dec,Guilford County,Other,401
+2018,2017,Dec,Guilford County,Plumbing/Mechanical/Gas,598
+2018,2017,Dec,Jamestown,Building,64
+2018,2017,Dec,Jamestown,Electrical,31
+2018,2017,Dec,Jamestown,Other,19
+2018,2017,Dec,Jamestown,Plumbing/Mechanical/Gas,69
+2018,2017,Dec,Oak Ridge,Building,74
+2018,2017,Dec,Oak Ridge,Electrical,62
+2018,2017,Dec,Oak Ridge,Other,26
+2018,2017,Dec,Oak Ridge,Plumbing/Mechanical/Gas,144
+2018,2017,Dec,Pleasant Garden,Building,12
+2018,2017,Dec,Pleasant Garden,Electrical,11
+2018,2017,Dec,Pleasant Garden,Plumbing/Mechanical/Gas,18
+2018,2017,Dec,PTIA,Building,3
+2018,2017,Dec,PTIA,Electrical,5
+2018,2017,Dec,PTIA,Plumbing/Mechanical/Gas,9
+2018,2017,Dec,Sedalia,Other,4
+2018,2017,Dec,Stokesdale,Building,73
+2018,2017,Dec,Stokesdale,Electrical,41
+2018,2017,Dec,Stokesdale,Other,24
+2018,2017,Dec,Stokesdale,Plumbing/Mechanical/Gas,104
+2018,2017,Dec,Summerfield,Building,95
+2018,2017,Dec,Summerfield,Electrical,89
+2018,2017,Dec,Summerfield,Other,31
+2018,2017,Dec,Summerfield,Plumbing/Mechanical/Gas,96
+2018,2017,Dec,Whitsett,Building,7
+2018,2017,Dec,Whitsett,Electrical,6
+2018,2017,Dec,Whitsett,Other,2
+2018,2017,Dec,Whitsett,Plumbing/Mechanical/Gas,4
+2018,2018,Jan,Guilford County,Building,391
+2018,2018,Jan,Guilford County,Electrical,472
+2018,2018,Jan,Guilford County,Other,406
+2018,2018,Jan,Guilford County,Plumbing/Mechanical/Gas,465
+2018,2018,Jan,Jamestown,Building,32
+2018,2018,Jan,Jamestown,Electrical,33
+2018,2018,Jan,Jamestown,Other,11
+2018,2018,Jan,Jamestown,Plumbing/Mechanical/Gas,45
+2018,2018,Jan,Oak Ridge,Building,84
+2018,2018,Jan,Oak Ridge,Electrical,77
+2018,2018,Jan,Oak Ridge,Other,41
+2018,2018,Jan,Oak Ridge,Plumbing/Mechanical/Gas,99
+2018,2018,Jan,Pleasant Garden,Building,17
+2018,2018,Jan,Pleasant Garden,Electrical,10
+2018,2018,Jan,Pleasant Garden,Other,6
+2018,2018,Jan,Pleasant Garden,Plumbing/Mechanical/Gas,12
+2018,2018,Jan,PTIA,Building,3
+2018,2018,Jan,PTIA,Electrical,11
+2018,2018,Jan,PTIA,Other,2
+2018,2018,Jan,PTIA,Plumbing/Mechanical/Gas,4
+2018,2018,Jan,Sedalia,Other,4
+2018,2018,Jan,Stokesdale,Building,59
+2018,2018,Jan,Stokesdale,Electrical,59
+2018,2018,Jan,Stokesdale,Other,21
+2018,2018,Jan,Stokesdale,Plumbing/Mechanical/Gas,58
+2018,2018,Jan,Summerfield,Building,48
+2018,2018,Jan,Summerfield,Electrical,60
+2018,2018,Jan,Summerfield,Other,36
+2018,2018,Jan,Summerfield,Plumbing/Mechanical/Gas,68
+2018,2018,Jan,Whitsett,Building,5
+2018,2018,Jan,Whitsett,Electrical,1
+2018,2018,Jan,Whitsett,Other,2
+2018,2018,Jan,Whitsett,Plumbing/Mechanical/Gas,1
+2018,2018,Feb,Guilford County,Building,593
+2018,2018,Feb,Guilford County,Electrical,447
+2018,2018,Feb,Guilford County,Other,477
+2018,2018,Feb,Guilford County,Plumbing/Mechanical/Gas,653
+2018,2018,Feb,Jamestown,Building,44
+2018,2018,Feb,Jamestown,Electrical,31
+2018,2018,Feb,Jamestown,Other,13
+2018,2018,Feb,Jamestown,Plumbing/Mechanical/Gas,69
+2018,2018,Feb,Oak Ridge,Building,141
+2018,2018,Feb,Oak Ridge,Electrical,90
+2018,2018,Feb,Oak Ridge,Other,34
+2018,2018,Feb,Oak Ridge,Plumbing/Mechanical/Gas,136
+2018,2018,Feb,Pleasant Garden,Building,11
+2018,2018,Feb,Pleasant Garden,Electrical,13
+2018,2018,Feb,Pleasant Garden,Other,1
+2018,2018,Feb,Pleasant Garden,Plumbing/Mechanical/Gas,28
+2018,2018,Feb,PTIA,Electrical,2
+2018,2018,Feb,PTIA,Other,1
+2018,2018,Feb,Sedalia,Other,3
+2018,2018,Feb,Stokesdale,Building,57
+2018,2018,Feb,Stokesdale,Electrical,55
+2018,2018,Feb,Stokesdale,Other,14
+2018,2018,Feb,Stokesdale,Plumbing/Mechanical/Gas,74
+2018,2018,Feb,Summerfield,Building,86
+2018,2018,Feb,Summerfield,Electrical,72
+2018,2018,Feb,Summerfield,Other,32
+2018,2018,Feb,Summerfield,Plumbing/Mechanical/Gas,96
+2018,2018,Feb,Whitsett,Building,1
+2018,2018,Feb,Whitsett,Electrical,2
+2018,2018,Feb,Whitsett,Other,3
+2018,2018,Mar,Guilford County,Building,648
+2018,2018,Mar,Guilford County,Electrical,506
+2018,2018,Mar,Guilford County,Other,493
+2018,2018,Mar,Guilford County,Plumbing/Mechanical/Gas,594
+2018,2018,Mar,Jamestown,Building,53
+2018,2018,Mar,Jamestown,Electrical,31
+2018,2018,Mar,Jamestown,Other,9
+2018,2018,Mar,Jamestown,Plumbing/Mechanical/Gas,55
+2018,2018,Mar,Oak Ridge,Building,66
+2018,2018,Mar,Oak Ridge,Electrical,85
+2018,2018,Mar,Oak Ridge,Other,28
+2018,2018,Mar,Oak Ridge,Plumbing/Mechanical/Gas,97
+2018,2018,Mar,Pleasant Garden,Building,15
+2018,2018,Mar,Pleasant Garden,Electrical,23
+2018,2018,Mar,Pleasant Garden,Other,2
+2018,2018,Mar,Pleasant Garden,Plumbing/Mechanical/Gas,18
+2018,2018,Mar,PTIA,Electrical,1
+2018,2018,Mar,Sedalia,Electrical,2
+2018,2018,Mar,Sedalia,Other,3
+2018,2018,Mar,Stokesdale,Building,68
+2018,2018,Mar,Stokesdale,Electrical,70
+2018,2018,Mar,Stokesdale,Other,24
+2018,2018,Mar,Stokesdale,Plumbing/Mechanical/Gas,72
+2018,2018,Mar,Summerfield,Building,104
+2018,2018,Mar,Summerfield,Electrical,111
+2018,2018,Mar,Summerfield,Other,48
+2018,2018,Mar,Summerfield,Plumbing/Mechanical/Gas,105
+2018,2018,Mar,Whitsett,Building,2
+2018,2018,Mar,Whitsett,Electrical,5
+2018,2018,Mar,Whitsett,Other,4
+2018,2018,Mar,Whitsett,Plumbing/Mechanical/Gas,6
+2018,2018,Apr,Greensboro,Other,1
+2018,2018,Apr,Guilford County,Building,704
+2018,2018,Apr,Guilford County,Electrical,551
+2018,2018,Apr,Guilford County,Other,499
+2018,2018,Apr,Guilford County,Plumbing/Mechanical/Gas,572
+2018,2018,Apr,Jamestown,Building,53
+2018,2018,Apr,Jamestown,Electrical,23
+2018,2018,Apr,Jamestown,Other,9
+2018,2018,Apr,Jamestown,Plumbing/Mechanical/Gas,55
+2018,2018,Apr,Oak Ridge,Building,114
+2018,2018,Apr,Oak Ridge,Electrical,88
+2018,2018,Apr,Oak Ridge,Other,33
+2018,2018,Apr,Oak Ridge,Plumbing/Mechanical/Gas,121
+2018,2018,Apr,Pleasant Garden,Building,23
+2018,2018,Apr,Pleasant Garden,Electrical,19
+2018,2018,Apr,Pleasant Garden,Other,1
+2018,2018,Apr,Pleasant Garden,Plumbing/Mechanical/Gas,14
+2018,2018,Apr,PTIA,Electrical,5
+2018,2018,Apr,Sedalia,Electrical,8
+2018,2018,Apr,Sedalia,Other,3
+2018,2018,Apr,Stokesdale,Building,42
+2018,2018,Apr,Stokesdale,Electrical,47
+2018,2018,Apr,Stokesdale,Other,29
+2018,2018,Apr,Stokesdale,Plumbing/Mechanical/Gas,87
+2018,2018,Apr,Summerfield,Building,129
+2018,2018,Apr,Summerfield,Electrical,112
+2018,2018,Apr,Summerfield,Other,49
+2018,2018,Apr,Summerfield,Plumbing/Mechanical/Gas,147
+2018,2018,Apr,Whitsett,Building,4
+2018,2018,Apr,Whitsett,Electrical,7
+2018,2018,Apr,Whitsett,Other,4
+2018,2018,Apr,Whitsett,Plumbing/Mechanical/Gas,3
+2018,2018,May,Greensboro,Other,1
+2018,2018,May,Guilford County,Building,659
+2018,2018,May,Guilford County,Electrical,564
+2018,2018,May,Guilford County,Other,436
+2018,2018,May,Guilford County,Plumbing/Mechanical/Gas,623
+2018,2018,May,Jamestown,Building,52
+2018,2018,May,Jamestown,Electrical,52
+2018,2018,May,Jamestown,Other,11
+2018,2018,May,Jamestown,Plumbing/Mechanical/Gas,43
+2018,2018,May,Oak Ridge,Building,103
+2018,2018,May,Oak Ridge,Electrical,93
+2018,2018,May,Oak Ridge,Other,22
+2018,2018,May,Oak Ridge,Plumbing/Mechanical/Gas,119
+2018,2018,May,Pleasant Garden,Building,15
+2018,2018,May,Pleasant Garden,Electrical,17
+2018,2018,May,Pleasant Garden,Plumbing/Mechanical/Gas,18
+2018,2018,May,PTIA,Electrical,3
+2018,2018,May,Sedalia,Building,2
+2018,2018,May,Sedalia,Electrical,7
+2018,2018,May,Sedalia,Other,1
+2018,2018,May,Sedalia,Plumbing/Mechanical/Gas,1
+2018,2018,May,Stokesdale,Building,78
+2018,2018,May,Stokesdale,Electrical,48
+2018,2018,May,Stokesdale,Other,21
+2018,2018,May,Stokesdale,Plumbing/Mechanical/Gas,62
+2018,2018,May,Summerfield,Building,125
+2018,2018,May,Summerfield,Electrical,84
+2018,2018,May,Summerfield,Other,20
+2018,2018,May,Summerfield,Plumbing/Mechanical/Gas,149
+2018,2018,May,Whitsett,Building,7
+2018,2018,May,Whitsett,Electrical,4
+2018,2018,May,Whitsett,Other,4
+2018,2018,May,Whitsett,Plumbing/Mechanical/Gas,13
+2019,2018,Jun,Guilford County,Building,777
+2019,2018,Jun,Guilford County,Electrical,631
+2019,2018,Jun,Guilford County,Other,427
+2019,2018,Jun,Guilford County,Plumbing/Mechanical/Gas,704
+2019,2018,Jun,Jamestown,Building,78
+2019,2018,Jun,Jamestown,Electrical,67
+2019,2018,Jun,Jamestown,Other,18
+2019,2018,Jun,Jamestown,Plumbing/Mechanical/Gas,64
+2019,2018,Jun,Oak Ridge,Building,136
+2019,2018,Jun,Oak Ridge,Electrical,105
+2019,2018,Jun,Oak Ridge,Other,12
+2019,2018,Jun,Oak Ridge,Plumbing/Mechanical/Gas,150
+2019,2018,Jun,Pleasant Garden,Building,22
+2019,2018,Jun,Pleasant Garden,Electrical,26
+2019,2018,Jun,Pleasant Garden,Plumbing/Mechanical/Gas,26
+2019,2018,Jun,PTIA,Electrical,2
+2019,2018,Jun,Sedalia,Building,3
+2019,2018,Jun,Sedalia,Electrical,9
+2019,2018,Jun,Sedalia,Plumbing/Mechanical/Gas,2
+2019,2018,Jun,Stokesdale,Building,67
+2019,2018,Jun,Stokesdale,Electrical,61
+2019,2018,Jun,Stokesdale,Other,16
+2019,2018,Jun,Stokesdale,Plumbing/Mechanical/Gas,57
+2019,2018,Jun,Summerfield,Building,151
+2019,2018,Jun,Summerfield,Electrical,112
+2019,2018,Jun,Summerfield,Other,29
+2019,2018,Jun,Summerfield,Plumbing/Mechanical/Gas,130
+2019,2018,Jun,Whitsett,Building,8
+2019,2018,Jun,Whitsett,Electrical,5
+2019,2018,Jun,Whitsett,Other,2
+2019,2018,Jun,Whitsett,Plumbing/Mechanical/Gas,7
+2019,2018,Jul,Guilford County,Building,720
+2019,2018,Jul,Guilford County,Electrical,607
+2019,2018,Jul,Guilford County,Other,398
+2019,2018,Jul,Guilford County,Plumbing/Mechanical/Gas,732
+2019,2018,Jul,Jamestown,Building,63
+2019,2018,Jul,Jamestown,Electrical,53
+2019,2018,Jul,Jamestown,Other,8
+2019,2018,Jul,Jamestown,Plumbing/Mechanical/Gas,49
+2019,2018,Jul,Oak Ridge,Building,93
+2019,2018,Jul,Oak Ridge,Electrical,72
+2019,2018,Jul,Oak Ridge,Other,20
+2019,2018,Jul,Oak Ridge,Plumbing/Mechanical/Gas,92
+2019,2018,Jul,Pleasant Garden,Building,33
+2019,2018,Jul,Pleasant Garden,Electrical,25
+2019,2018,Jul,Pleasant Garden,Plumbing/Mechanical/Gas,29
+2019,2018,Jul,Sedalia,Building,4
+2019,2018,Jul,Sedalia,Electrical,4
+2019,2018,Jul,Stokesdale,Building,114
+2019,2018,Jul,Stokesdale,Electrical,65
+2019,2018,Jul,Stokesdale,Other,27
+2019,2018,Jul,Stokesdale,Plumbing/Mechanical/Gas,84
+2019,2018,Jul,Summerfield,Building,137
+2019,2018,Jul,Summerfield,Electrical,112
+2019,2018,Jul,Summerfield,Other,16
+2019,2018,Jul,Summerfield,Plumbing/Mechanical/Gas,147
+2019,2018,Aug,Guilford County,Building,895
+2019,2018,Aug,Guilford County,Electrical,587
+2019,2018,Aug,Guilford County,Other,472
+2019,2018,Aug,Guilford County,Plumbing/Mechanical/Gas,861
+2019,2018,Aug,Jamestown,Building,70
+2019,2018,Aug,Jamestown,Electrical,84
+2019,2018,Aug,Jamestown,Other,50
+2019,2018,Aug,Jamestown,Plumbing/Mechanical/Gas,81
+2019,2018,Aug,Oak Ridge,Building,80
+2019,2018,Aug,Oak Ridge,Electrical,83
+2019,2018,Aug,Oak Ridge,Other,47
+2019,2018,Aug,Oak Ridge,Plumbing/Mechanical/Gas,124
+2019,2018,Aug,Pleasant Garden,Building,28
+2019,2018,Aug,Pleasant Garden,Electrical,20
+2019,2018,Aug,Pleasant Garden,Plumbing/Mechanical/Gas,14
+2019,2018,Aug,PTIA,Building,1
+2019,2018,Aug,PTIA,Electrical,3
+2019,2018,Aug,Sedalia,Electrical,2
+2019,2018,Aug,Sedalia,Plumbing/Mechanical/Gas,5
+2019,2018,Aug,Stokesdale,Building,119
+2019,2018,Aug,Stokesdale,Electrical,80
+2019,2018,Aug,Stokesdale,Other,34
+2019,2018,Aug,Stokesdale,Plumbing/Mechanical/Gas,99
+2019,2018,Aug,Summerfield,Building,116
+2019,2018,Aug,Summerfield,Electrical,112
+2019,2018,Aug,Summerfield,Other,24
+2019,2018,Aug,Summerfield,Plumbing/Mechanical/Gas,110
+2019,2018,Aug,Whitsett,Building,1
+2019,2018,Aug,Whitsett,Electrical,3
+2019,2018,Aug,Whitsett,Plumbing/Mechanical/Gas,5
+2019,2018,Sep,Greensboro,Other,2
+2019,2018,Sep,Guilford County,Building,508
+2019,2018,Sep,Guilford County,Electrical,481
+2019,2018,Sep,Guilford County,Other,420
+2019,2018,Sep,Guilford County,Plumbing/Mechanical/Gas,639
+2019,2018,Sep,Jamestown,Building,25
+2019,2018,Sep,Jamestown,Electrical,50
+2019,2018,Sep,Jamestown,Other,15
+2019,2018,Sep,Jamestown,Plumbing/Mechanical/Gas,44
+2019,2018,Sep,Oak Ridge,Building,98
+2019,2018,Sep,Oak Ridge,Electrical,68
+2019,2018,Sep,Oak Ridge,Other,35
+2019,2018,Sep,Oak Ridge,Plumbing/Mechanical/Gas,98
+2019,2018,Sep,Pleasant Garden,Building,17
+2019,2018,Sep,Pleasant Garden,Electrical,12
+2019,2018,Sep,Pleasant Garden,Plumbing/Mechanical/Gas,6
+2019,2018,Sep,PTIA,Building,2
+2019,2018,Sep,PTIA,Electrical,2
+2019,2018,Sep,PTIA,Other,1
+2019,2018,Sep,PTIA,Plumbing/Mechanical/Gas,2
+2019,2018,Sep,Stokesdale,Building,86
+2019,2018,Sep,Stokesdale,Electrical,71
+2019,2018,Sep,Stokesdale,Other,39
+2019,2018,Sep,Stokesdale,Plumbing/Mechanical/Gas,109
+2019,2018,Sep,Summerfield,Building,96
+2019,2018,Sep,Summerfield,Electrical,94
+2019,2018,Sep,Summerfield,Other,27
+2019,2018,Sep,Summerfield,Plumbing/Mechanical/Gas,128
+2019,2018,Sep,Whitsett,Building,1
+2019,2018,Sep,Whitsett,Electrical,1
+2019,2018,Oct,Guilford County,Building,726
+2019,2018,Oct,Guilford County,Electrical,678
+2019,2018,Oct,Guilford County,Other,476
+2019,2018,Oct,Guilford County,Plumbing/Mechanical/Gas,929
+2019,2018,Oct,Jamestown,Building,42
+2019,2018,Oct,Jamestown,Electrical,27
+2019,2018,Oct,Jamestown,Other,9
+2019,2018,Oct,Jamestown,Plumbing/Mechanical/Gas,48
+2019,2018,Oct,Oak Ridge,Building,114
+2019,2018,Oct,Oak Ridge,Electrical,93
+2019,2018,Oct,Oak Ridge,Other,34
+2019,2018,Oct,Oak Ridge,Plumbing/Mechanical/Gas,123
+2019,2018,Oct,Pleasant Garden,Building,18
+2019,2018,Oct,Pleasant Garden,Electrical,16
+2019,2018,Oct,Pleasant Garden,Plumbing/Mechanical/Gas,20
+2019,2018,Oct,PTIA,Building,6
+2019,2018,Oct,PTIA,Electrical,6
+2019,2018,Oct,PTIA,Other,2
+2019,2018,Oct,PTIA,Plumbing/Mechanical/Gas,6
+2019,2018,Oct,Sedalia,Building,5
+2019,2018,Oct,Sedalia,Electrical,6
+2019,2018,Oct,Sedalia,Plumbing/Mechanical/Gas,4
+2019,2018,Oct,Stokesdale,Building,93
+2019,2018,Oct,Stokesdale,Electrical,64
+2019,2018,Oct,Stokesdale,Other,23
+2019,2018,Oct,Stokesdale,Plumbing/Mechanical/Gas,91
+2019,2018,Oct,Summerfield,Building,105
+2019,2018,Oct,Summerfield,Electrical,76
+2019,2018,Oct,Summerfield,Other,24
+2019,2018,Oct,Summerfield,Plumbing/Mechanical/Gas,164
+2019,2018,Oct,Whitsett,Other,2
+2019,2018,Oct,Whitsett,Plumbing/Mechanical/Gas,4
+2019,2018,Nov,Greensboro,Other,2
+2019,2018,Nov,Guilford County,Building,658
+2019,2018,Nov,Guilford County,Electrical,534
+2019,2018,Nov,Guilford County,Other,355
+2019,2018,Nov,Guilford County,Plumbing/Mechanical/Gas,683
+2019,2018,Nov,Jamestown,Building,41
+2019,2018,Nov,Jamestown,Electrical,32
+2019,2018,Nov,Jamestown,Other,12
+2019,2018,Nov,Jamestown,Plumbing/Mechanical/Gas,35
+2019,2018,Nov,Oak Ridge,Building,91
+2019,2018,Nov,Oak Ridge,Electrical,81
+2019,2018,Nov,Oak Ridge,Other,34
+2019,2018,Nov,Oak Ridge,Plumbing/Mechanical/Gas,94
+2019,2018,Nov,Pleasant Garden,Building,19
+2019,2018,Nov,Pleasant Garden,Electrical,14
+2019,2018,Nov,Pleasant Garden,Plumbing/Mechanical/Gas,22
+2019,2018,Nov,PTIA,Building,2
+2019,2018,Nov,Sedalia,Building,2
+2019,2018,Nov,Sedalia,Electrical,3
+2019,2018,Nov,Sedalia,Plumbing/Mechanical/Gas,6
+2019,2018,Nov,Stokesdale,Building,74
+2019,2018,Nov,Stokesdale,Electrical,74
+2019,2018,Nov,Stokesdale,Other,26
+2019,2018,Nov,Stokesdale,Plumbing/Mechanical/Gas,127
+2019,2018,Nov,Summerfield,Building,97
+2019,2018,Nov,Summerfield,Electrical,95
+2019,2018,Nov,Summerfield,Other,30
+2019,2018,Nov,Summerfield,Plumbing/Mechanical/Gas,100
+2019,2018,Nov,Whitsett,Electrical,1
+2019,2018,Dec,Guilford County,Building,459
+2019,2018,Dec,Guilford County,Electrical,459
+2019,2018,Dec,Guilford County,Other,248
+2019,2018,Dec,Guilford County,Plumbing/Mechanical/Gas,571
+2019,2018,Dec,Jamestown,Building,33
+2019,2018,Dec,Jamestown,Electrical,27
+2019,2018,Dec,Jamestown,Other,10
+2019,2018,Dec,Jamestown,Plumbing/Mechanical/Gas,37
+2019,2018,Dec,Oak Ridge,Building,49
+2019,2018,Dec,Oak Ridge,Electrical,56
+2019,2018,Dec,Oak Ridge,Other,19
+2019,2018,Dec,Oak Ridge,Plumbing/Mechanical/Gas,61
+2019,2018,Dec,Pleasant Garden,Building,17
+2019,2018,Dec,Pleasant Garden,Electrical,11
+2019,2018,Dec,Pleasant Garden,Plumbing/Mechanical/Gas,5
+2019,2018,Dec,PTIA,Electrical,2
+2019,2018,Dec,PTIA,Plumbing/Mechanical/Gas,2
+2019,2018,Dec,Sedalia,Building,3
+2019,2018,Dec,Sedalia,Electrical,3
+2019,2018,Dec,Sedalia,Plumbing/Mechanical/Gas,2
+2019,2018,Dec,Stokesdale,Building,35
+2019,2018,Dec,Stokesdale,Electrical,32
+2019,2018,Dec,Stokesdale,Other,16
+2019,2018,Dec,Stokesdale,Plumbing/Mechanical/Gas,62
+2019,2018,Dec,Summerfield,Building,47
+2019,2018,Dec,Summerfield,Electrical,43
+2019,2018,Dec,Summerfield,Other,22
+2019,2018,Dec,Summerfield,Plumbing/Mechanical/Gas,74
+2019,2018,Dec,Whitsett,Electrical,2
+2019,2018,Dec,Whitsett,Plumbing/Mechanical/Gas,4
+2019,2019,Jan,Greensboro,Other,1
+2019,2019,Jan,Guilford County,Building,591
+2019,2019,Jan,Guilford County,Electrical,679
+2019,2019,Jan,Guilford County,Other,443
+2019,2019,Jan,Guilford County,Plumbing/Mechanical/Gas,949
+2019,2019,Jan,Jamestown,Building,39
+2019,2019,Jan,Jamestown,Electrical,48
+2019,2019,Jan,Jamestown,Other,16
+2019,2019,Jan,Jamestown,Plumbing/Mechanical/Gas,55
+2019,2019,Jan,Oak Ridge,Building,102
+2019,2019,Jan,Oak Ridge,Electrical,79
+2019,2019,Jan,Oak Ridge,Other,32
+2019,2019,Jan,Oak Ridge,Plumbing/Mechanical/Gas,118
+2019,2019,Jan,Pleasant Garden,Building,24
+2019,2019,Jan,Pleasant Garden,Electrical,10
+2019,2019,Jan,Pleasant Garden,Other,1
+2019,2019,Jan,Pleasant Garden,Plumbing/Mechanical/Gas,12
+2019,2019,Jan,PTIA,Building,4
+2019,2019,Jan,PTIA,Electrical,10
+2019,2019,Jan,Sedalia,Building,1
+2019,2019,Jan,Sedalia,Electrical,2
+2019,2019,Jan,Stokesdale,Building,60
+2019,2019,Jan,Stokesdale,Electrical,54
+2019,2019,Jan,Stokesdale,Other,36
+2019,2019,Jan,Stokesdale,Plumbing/Mechanical/Gas,50
+2019,2019,Jan,Summerfield,Building,88
+2019,2019,Jan,Summerfield,Electrical,88
+2019,2019,Jan,Summerfield,Other,43
+2019,2019,Jan,Summerfield,Plumbing/Mechanical/Gas,130
+2019,2019,Jan,Whitsett,Building,1
+2019,2019,Jan,Whitsett,Electrical,2
+2019,2019,Jan,Whitsett,Plumbing/Mechanical/Gas,1
+2019,2019,Feb,Guilford County,Building,512
+2019,2019,Feb,Guilford County,Electrical,687
+2019,2019,Feb,Guilford County,Other,439
+2019,2019,Feb,Guilford County,Plumbing/Mechanical/Gas,887
+2019,2019,Feb,Jamestown,Building,47
+2019,2019,Feb,Jamestown,Electrical,36
+2019,2019,Feb,Jamestown,Other,11
+2019,2019,Feb,Jamestown,Plumbing/Mechanical/Gas,52
+2019,2019,Feb,Oak Ridge,Building,89
+2019,2019,Feb,Oak Ridge,Electrical,99
+2019,2019,Feb,Oak Ridge,Other,22
+2019,2019,Feb,Oak Ridge,Plumbing/Mechanical/Gas,104
+2019,2019,Feb,Pleasant Garden,Building,13
+2019,2019,Feb,Pleasant Garden,Electrical,24
+2019,2019,Feb,Pleasant Garden,Other,2
+2019,2019,Feb,Pleasant Garden,Plumbing/Mechanical/Gas,25
+2019,2019,Feb,PTIA,Building,1
+2019,2019,Feb,PTIA,Electrical,1
+2019,2019,Feb,Sedalia,Building,11
+2019,2019,Feb,Sedalia,Electrical,4
+2019,2019,Feb,Sedalia,Plumbing/Mechanical/Gas,12
+2019,2019,Feb,Stokesdale,Building,58
+2019,2019,Feb,Stokesdale,Electrical,56
+2019,2019,Feb,Stokesdale,Other,11
+2019,2019,Feb,Stokesdale,Plumbing/Mechanical/Gas,107
+2019,2019,Feb,Summerfield,Building,59
+2019,2019,Feb,Summerfield,Electrical,114
+2019,2019,Feb,Summerfield,Other,20
+2019,2019,Feb,Summerfield,Plumbing/Mechanical/Gas,114
+2019,2019,Feb,Whitsett,Building,2
+2019,2019,Mar,Greensboro,Other,1
+2019,2019,Mar,Guilford County,Building,567
+2019,2019,Mar,Guilford County,Electrical,718
+2019,2019,Mar,Guilford County,Other,455
+2019,2019,Mar,Guilford County,Plumbing/Mechanical/Gas,944
+2019,2019,Mar,Jamestown,Building,58
+2019,2019,Mar,Jamestown,Electrical,59
+2019,2019,Mar,Jamestown,Other,11
+2019,2019,Mar,Jamestown,Plumbing/Mechanical/Gas,72
+2019,2019,Mar,Oak Ridge,Building,100
+2019,2019,Mar,Oak Ridge,Electrical,95
+2019,2019,Mar,Oak Ridge,Other,43
+2019,2019,Mar,Oak Ridge,Plumbing/Mechanical/Gas,111
+2019,2019,Mar,Pleasant Garden,Building,12
+2019,2019,Mar,Pleasant Garden,Electrical,22
+2019,2019,Mar,Pleasant Garden,Other,5
+2019,2019,Mar,Pleasant Garden,Plumbing/Mechanical/Gas,20
+2019,2019,Mar,PTIA,Building,6
+2019,2019,Mar,PTIA,Other,1
+2019,2019,Mar,PTIA,Plumbing/Mechanical/Gas,1
+2019,2019,Mar,Sedalia,Electrical,2
+2019,2019,Mar,Sedalia,Plumbing/Mechanical/Gas,2
+2019,2019,Mar,Stokesdale,Building,59
+2019,2019,Mar,Stokesdale,Electrical,52
+2019,2019,Mar,Stokesdale,Other,23
+2019,2019,Mar,Stokesdale,Plumbing/Mechanical/Gas,68
+2019,2019,Mar,Summerfield,Building,53
+2019,2019,Mar,Summerfield,Electrical,72
+2019,2019,Mar,Summerfield,Other,20
+2019,2019,Mar,Summerfield,Plumbing/Mechanical/Gas,114
+2019,2019,Mar,Whitsett,Building,1
+2019,2019,Apr,Guilford County,Building,698
+2019,2019,Apr,Guilford County,Electrical,742
+2019,2019,Apr,Guilford County,Other,456
+2019,2019,Apr,Guilford County,Plumbing/Mechanical/Gas,963
+2019,2019,Apr,Jamestown,Building,84
+2019,2019,Apr,Jamestown,Electrical,48
+2019,2019,Apr,Jamestown,Other,12
+2019,2019,Apr,Jamestown,Plumbing/Mechanical/Gas,61
+2019,2019,Apr,Oak Ridge,Building,91
+2019,2019,Apr,Oak Ridge,Electrical,101
+2019,2019,Apr,Oak Ridge,Other,31
+2019,2019,Apr,Oak Ridge,Plumbing/Mechanical/Gas,160
+2019,2019,Apr,Pleasant Garden,Building,21
+2019,2019,Apr,Pleasant Garden,Electrical,24
+2019,2019,Apr,Pleasant Garden,Other,5
+2019,2019,Apr,Pleasant Garden,Plumbing/Mechanical/Gas,29
+2019,2019,Apr,PTIA,Building,1
+2019,2019,Apr,PTIA,Electrical,2
+2019,2019,Apr,PTIA,Plumbing/Mechanical/Gas,2
+2019,2019,Apr,Sedalia,Electrical,7
+2019,2019,Apr,Sedalia,Plumbing/Mechanical/Gas,2
+2019,2019,Apr,Stokesdale,Building,84
+2019,2019,Apr,Stokesdale,Electrical,65
+2019,2019,Apr,Stokesdale,Other,25
+2019,2019,Apr,Stokesdale,Plumbing/Mechanical/Gas,86
+2019,2019,Apr,Summerfield,Building,78
+2019,2019,Apr,Summerfield,Electrical,109
+2019,2019,Apr,Summerfield,Other,27
+2019,2019,Apr,Summerfield,Plumbing/Mechanical/Gas,104
+2019,2019,Apr,Whitsett,Building,1
+2019,2019,May,Guilford County,Building,842
+2019,2019,May,Guilford County,Electrical,709
+2019,2019,May,Guilford County,Other,563
+2019,2019,May,Guilford County,Plumbing/Mechanical/Gas,991
+2019,2019,May,Jamestown,Building,37
+2019,2019,May,Jamestown,Electrical,38
+2019,2019,May,Jamestown,Other,10
+2019,2019,May,Jamestown,Plumbing/Mechanical/Gas,48
+2019,2019,May,Oak Ridge,Building,109
+2019,2019,May,Oak Ridge,Electrical,82
+2019,2019,May,Oak Ridge,Other,28
+2019,2019,May,Oak Ridge,Plumbing/Mechanical/Gas,126
+2019,2019,May,Pleasant Garden,Building,33
+2019,2019,May,Pleasant Garden,Electrical,33
+2019,2019,May,Pleasant Garden,Other,4
+2019,2019,May,Pleasant Garden,Plumbing/Mechanical/Gas,22
+2019,2019,May,PTIA,Electrical,3
+2019,2019,May,Sedalia,Building,12
+2019,2019,May,Sedalia,Electrical,3
+2019,2019,May,Sedalia,Plumbing/Mechanical/Gas,1
+2019,2019,May,Stokesdale,Building,109
+2019,2019,May,Stokesdale,Electrical,79
+2019,2019,May,Stokesdale,Other,13
+2019,2019,May,Stokesdale,Plumbing/Mechanical/Gas,112
+2019,2019,May,Summerfield,Building,88
+2019,2019,May,Summerfield,Electrical,120
+2019,2019,May,Summerfield,Other,15
+2019,2019,May,Summerfield,Plumbing/Mechanical/Gas,120
+2019,2019,May,Whitsett,Building,1
+2019,2019,May,Whitsett,Electrical,2
+2019,2019,May,Whitsett,Plumbing/Mechanical/Gas,1
+2020,2019,Jun,Guilford County,Building,575
+2020,2019,Jun,Guilford County,Electrical,712
+2020,2019,Jun,Guilford County,Other,495
+2020,2019,Jun,Guilford County,Plumbing/Mechanical/Gas,1008
+2020,2019,Jun,Jamestown,Building,39
+2020,2019,Jun,Jamestown,Electrical,38
+2020,2019,Jun,Jamestown,Other,16
+2020,2019,Jun,Jamestown,Plumbing/Mechanical/Gas,91
+2020,2019,Jun,Oak Ridge,Building,86
+2020,2019,Jun,Oak Ridge,Electrical,88
+2020,2019,Jun,Oak Ridge,Other,37
+2020,2019,Jun,Oak Ridge,Plumbing/Mechanical/Gas,140
+2020,2019,Jun,Pleasant Garden,Building,30
+2020,2019,Jun,Pleasant Garden,Electrical,24
+2020,2019,Jun,Pleasant Garden,Other,9
+2020,2019,Jun,Pleasant Garden,Plumbing/Mechanical/Gas,11
+2020,2019,Jun,PTIA,Building,1
+2020,2019,Jun,PTIA,Other,1
+2020,2019,Jun,PTIA,Plumbing/Mechanical/Gas,1
+2020,2019,Jun,Sedalia,Building,5
+2020,2019,Jun,Sedalia,Electrical,9
+2020,2019,Jun,Sedalia,Other,1
+2020,2019,Jun,Sedalia,Plumbing/Mechanical/Gas,18
+2020,2019,Jun,Stokesdale,Building,88
+2020,2019,Jun,Stokesdale,Electrical,67
+2020,2019,Jun,Stokesdale,Other,21
+2020,2019,Jun,Stokesdale,Plumbing/Mechanical/Gas,107
+2020,2019,Jun,Summerfield,Building,67
+2020,2019,Jun,Summerfield,Electrical,95
+2020,2019,Jun,Summerfield,Other,11
+2020,2019,Jun,Summerfield,Plumbing/Mechanical/Gas,92
+2020,2019,Jun,Whitsett,Building,1
+2020,2019,Jul,Guilford County,Building,682
+2020,2019,Jul,Guilford County,Electrical,845
+2020,2019,Jul,Guilford County,Other,473
+2020,2019,Jul,Guilford County,Plumbing/Mechanical/Gas,996
+2020,2019,Jul,Jamestown,Building,41
+2020,2019,Jul,Jamestown,Electrical,65
+2020,2019,Jul,Jamestown,Other,15
+2020,2019,Jul,Jamestown,Plumbing/Mechanical/Gas,73
+2020,2019,Jul,Oak Ridge,Building,125
+2020,2019,Jul,Oak Ridge,Electrical,101
+2020,2019,Jul,Oak Ridge,Other,25
+2020,2019,Jul,Oak Ridge,Plumbing/Mechanical/Gas,148
+2020,2019,Jul,Pleasant Garden,Building,30
+2020,2019,Jul,Pleasant Garden,Electrical,22
+2020,2019,Jul,Pleasant Garden,Other,5
+2020,2019,Jul,Pleasant Garden,Plumbing/Mechanical/Gas,29
+2020,2019,Jul,PTIA,Building,2
+2020,2019,Jul,PTIA,Electrical,5
+2020,2019,Jul,PTIA,Plumbing/Mechanical/Gas,2
+2020,2019,Jul,Sedalia,Building,4
+2020,2019,Jul,Sedalia,Electrical,3
+2020,2019,Jul,Sedalia,Plumbing/Mechanical/Gas,8
+2020,2019,Jul,Stokesdale,Building,96
+2020,2019,Jul,Stokesdale,Electrical,98
+2020,2019,Jul,Stokesdale,Other,23
+2020,2019,Jul,Stokesdale,Plumbing/Mechanical/Gas,142
+2020,2019,Jul,Summerfield,Building,105
+2020,2019,Jul,Summerfield,Electrical,85
+2020,2019,Jul,Summerfield,Other,18
+2020,2019,Jul,Summerfield,Plumbing/Mechanical/Gas,122
+2020,2019,Jul,Whitsett,Electrical,2
+2020,2019,Aug,Guilford County,Building,586
+2020,2019,Aug,Guilford County,Electrical,765
+2020,2019,Aug,Guilford County,Other,585
+2020,2019,Aug,Guilford County,Plumbing/Mechanical/Gas,961
+2020,2019,Aug,Jamestown,Building,72
+2020,2019,Aug,Jamestown,Electrical,66
+2020,2019,Aug,Jamestown,Other,13
+2020,2019,Aug,Jamestown,Plumbing/Mechanical/Gas,69
+2020,2019,Aug,Oak Ridge,Building,131
+2020,2019,Aug,Oak Ridge,Electrical,125
+2020,2019,Aug,Oak Ridge,Other,38
+2020,2019,Aug,Oak Ridge,Plumbing/Mechanical/Gas,179
+2020,2019,Aug,Pleasant Garden,Building,29
+2020,2019,Aug,Pleasant Garden,Electrical,15
+2020,2019,Aug,Pleasant Garden,Other,3
+2020,2019,Aug,Pleasant Garden,Plumbing/Mechanical/Gas,17
+2020,2019,Aug,PTIA,Building,4
+2020,2019,Aug,PTIA,Electrical,5
+2020,2019,Aug,PTIA,Other,1
+2020,2019,Aug,Sedalia,Building,4
+2020,2019,Aug,Sedalia,Plumbing/Mechanical/Gas,2
+2020,2019,Aug,Stokesdale,Building,115
+2020,2019,Aug,Stokesdale,Electrical,97
+2020,2019,Aug,Stokesdale,Other,22
+2020,2019,Aug,Stokesdale,Plumbing/Mechanical/Gas,150
+2020,2019,Aug,Summerfield,Building,87
+2020,2019,Aug,Summerfield,Electrical,115
+2020,2019,Aug,Summerfield,Other,25
+2020,2019,Aug,Summerfield,Plumbing/Mechanical/Gas,133
+2020,2019,Aug,Whitsett,Electrical,3
+2020,2019,Aug,Whitsett,Plumbing/Mechanical/Gas,2
+2020,2019,Sep,Greensboro,Other,1
+2020,2019,Sep,Guilford County,Building,553
+2020,2019,Sep,Guilford County,Electrical,667
+2020,2019,Sep,Guilford County,Other,478
+2020,2019,Sep,Guilford County,Plumbing/Mechanical/Gas,964
+2020,2019,Sep,Jamestown,Building,35
+2020,2019,Sep,Jamestown,Electrical,49
+2020,2019,Sep,Jamestown,Other,13
+2020,2019,Sep,Jamestown,Plumbing/Mechanical/Gas,78
+2020,2019,Sep,Oak Ridge,Building,119
+2020,2019,Sep,Oak Ridge,Electrical,111
+2020,2019,Sep,Oak Ridge,Other,35
+2020,2019,Sep,Oak Ridge,Plumbing/Mechanical/Gas,160
+2020,2019,Sep,Pleasant Garden,Building,27
+2020,2019,Sep,Pleasant Garden,Electrical,17
+2020,2019,Sep,Pleasant Garden,Other,3
+2020,2019,Sep,Pleasant Garden,Plumbing/Mechanical/Gas,13
+2020,2019,Sep,PTIA,Building,1
+2020,2019,Sep,PTIA,Electrical,3
+2020,2019,Sep,Sedalia,Electrical,3
+2020,2019,Sep,Sedalia,Plumbing/Mechanical/Gas,8
+2020,2019,Sep,Stokesdale,Building,86
+2020,2019,Sep,Stokesdale,Electrical,101
+2020,2019,Sep,Stokesdale,Other,21
+2020,2019,Sep,Stokesdale,Plumbing/Mechanical/Gas,101
+2020,2019,Sep,Summerfield,Building,73
+2020,2019,Sep,Summerfield,Electrical,86
+2020,2019,Sep,Summerfield,Other,15
+2020,2019,Sep,Summerfield,Plumbing/Mechanical/Gas,104
+2020,2019,Sep,Whitsett,Electrical,5
+2020,2019,Sep,Whitsett,Plumbing/Mechanical/Gas,5
+2020,2019,Oct,Greensboro,Other,2
+2020,2019,Oct,Guilford County,Building,540
+2020,2019,Oct,Guilford County,Electrical,786
+2020,2019,Oct,Guilford County,Other,391
+2020,2019,Oct,Guilford County,Plumbing/Mechanical/Gas,969
+2020,2019,Oct,Jamestown,Building,79
+2020,2019,Oct,Jamestown,Electrical,44
+2020,2019,Oct,Jamestown,Other,20
+2020,2019,Oct,Jamestown,Plumbing/Mechanical/Gas,101
+2020,2019,Oct,Oak Ridge,Building,124
+2020,2019,Oct,Oak Ridge,Electrical,124
+2020,2019,Oct,Oak Ridge,Other,31
+2020,2019,Oct,Oak Ridge,Plumbing/Mechanical/Gas,180
+2020,2019,Oct,Pleasant Garden,Building,39
+2020,2019,Oct,Pleasant Garden,Electrical,19
+2020,2019,Oct,Pleasant Garden,Other,10
+2020,2019,Oct,Pleasant Garden,Plumbing/Mechanical/Gas,38
+2020,2019,Oct,PTIA,Building,2
+2020,2019,Oct,PTIA,Electrical,1
+2020,2019,Oct,Sedalia,Building,6
+2020,2019,Oct,Sedalia,Electrical,8
+2020,2019,Oct,Sedalia,Plumbing/Mechanical/Gas,10
+2020,2019,Oct,Stokesdale,Building,82
+2020,2019,Oct,Stokesdale,Electrical,75
+2020,2019,Oct,Stokesdale,Other,11
+2020,2019,Oct,Stokesdale,Plumbing/Mechanical/Gas,136
+2020,2019,Oct,Summerfield,Building,80
+2020,2019,Oct,Summerfield,Electrical,92
+2020,2019,Oct,Summerfield,Other,21
+2020,2019,Oct,Summerfield,Plumbing/Mechanical/Gas,87
+2020,2019,Oct,Whitsett,Electrical,2
+2020,2019,Oct,Whitsett,Other,1
+2020,2019,Oct,Whitsett,Plumbing/Mechanical/Gas,6
+2020,2019,Nov,Greensboro,Other,3
+2020,2019,Nov,Guilford County,Building,512
+2020,2019,Nov,Guilford County,Electrical,633
+2020,2019,Nov,Guilford County,Other,236
+2020,2019,Nov,Guilford County,Plumbing/Mechanical/Gas,736
+2020,2019,Nov,Jamestown,Building,36
+2020,2019,Nov,Jamestown,Electrical,46
+2020,2019,Nov,Jamestown,Other,5
+2020,2019,Nov,Jamestown,Plumbing/Mechanical/Gas,72
+2020,2019,Nov,Oak Ridge,Building,132
+2020,2019,Nov,Oak Ridge,Electrical,95
+2020,2019,Nov,Oak Ridge,Other,14
+2020,2019,Nov,Oak Ridge,Plumbing/Mechanical/Gas,149
+2020,2019,Nov,Pleasant Garden,Building,10
+2020,2019,Nov,Pleasant Garden,Electrical,12
+2020,2019,Nov,Pleasant Garden,Other,1
+2020,2019,Nov,Pleasant Garden,Plumbing/Mechanical/Gas,16
+2020,2019,Nov,Sedalia,Building,4
+2020,2019,Nov,Sedalia,Electrical,7
+2020,2019,Nov,Sedalia,Plumbing/Mechanical/Gas,4
+2020,2019,Nov,Stokesdale,Building,71
+2020,2019,Nov,Stokesdale,Electrical,67
+2020,2019,Nov,Stokesdale,Other,10
+2020,2019,Nov,Stokesdale,Plumbing/Mechanical/Gas,75
+2020,2019,Nov,Summerfield,Building,78
+2020,2019,Nov,Summerfield,Electrical,72
+2020,2019,Nov,Summerfield,Other,14
+2020,2019,Nov,Summerfield,Plumbing/Mechanical/Gas,101
+2020,2019,Nov,Whitsett,Building,1
+2020,2019,Nov,Whitsett,Electrical,3
+2020,2019,Nov,Whitsett,Plumbing/Mechanical/Gas,3
