@@ -162,3 +162,61 @@ guil_tracts_sf %>%
 
 ggsave(filename = "med.png", device = "png", path = "maps/",
        width = 10, height = 10, dpi = 320)
+
+################################################################################
+# Median Home Value
+
+mhv <- read_rds("data/median_home_value.rds")
+
+guil_tracts_sf %>%
+  left_join(mhv) %>%
+  ggplot() +
+  geom_sf(aes(fill = survey_year_2017), color = "white", size = 0.3) +
+  scale_fill_viridis_c("Estimate", option = "magma",
+                       direction = -1,
+                       labels = scales::dollar_format()) +
+  labs(title = "Median Home Value by Census Tract",
+       subtitle = "Guilford County, NC",
+       caption = "\nSource: ACS 5 Year Estimates\nAuthor: Jason Jones") +
+  cowplot::theme_map() +
+  theme(text = element_text(family = "Roboto"))
+
+ggsave(filename = "mhv.png", device = "png", path = "maps/",
+       width = 10, height = 10, dpi = 320)
+
+################################################################################
+# Median Earnings
+
+earn <- read_rds("data/median_earnings.rds")
+
+guil_tracts_sf %>%
+  left_join(earn) %>%
+  ggplot() +
+  geom_sf(aes(fill = survey_year_2017), color = "white", size = 0.3) +
+  scale_fill_viridis_c("Estimate", option = "magma",
+                       direction = -1,
+                       labels = scales::dollar_format()) +
+  labs(title = "Median Earnings by Census Tract",
+       subtitle = "Guilford County, NC",
+       caption = "\nSource: ACS 5 Year Estimates\nAuthor: Jason Jones") +
+  cowplot::theme_map() +
+  theme(text = element_text(family = "Roboto"))
+
+ggsave(filename = "earn.png", device = "png", path = "maps/",
+       width = 10, height = 10, dpi = 320)
+
+guil_tracts_sf %>%
+  left_join(earn) %>%
+  mutate(distinction = ifelse(survey_year_2017 > 35000, "Above", "Below")) %>%
+  filter(is.na(distinction) != TRUE) %>%
+  ggplot() +
+  geom_sf(aes(fill = distinction), color = "white", size = 0.3) +
+  scale_fill_manual("Above or Below", values = c("black", "red")) +
+  labs(title = "Median Earnings: Above $35,000",
+       subtitle = "Guilford County, NC",
+       caption = "\nSource: ACS 5 Year Estimates\nAuthor: Jason Jones") +
+  cowplot::theme_map() +
+  theme(text = element_text(family = "Roboto"))
+
+ggsave(filename = "earn_class.png", device = "png", path = "maps/",
+       width = 10, height = 10, dpi = 320)

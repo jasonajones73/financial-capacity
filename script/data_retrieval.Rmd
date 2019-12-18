@@ -215,7 +215,7 @@ targets <- list("med" = med, "mhi" = mhi, "pci" = pci, "pop" = pop, "pov" = pov,
 filenames <- c("medicaid", "median_household_income", "per_capita_income", "population", "poverty", "public_assistance", "median_home_value", "median_earnings")
 
 # MUST BE RUN IN CONSOLE BELOW
-for (i in 1:6) {write_csv(x = targets[[i]], path = paste0("data/", filenames[[i]], ".csv"), na = "", append = FALSE)}
-for (i in 1:6) {write_rds(x = targets[[i]], path = paste0("data/", filenames[[i]], ".rds"))}
+for (i in 1:8) {write_csv(x = targets[[i]], path = paste0("data/", filenames[[i]], ".csv"), na = "", append = FALSE)}
+for (i in 1:8) {write_rds(x = targets[[i]], path = paste0("data/", filenames[[i]], ".rds"))}
 ```
 
