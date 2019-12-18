@@ -25,3 +25,13 @@ Data work for financial capacity project
 ![mhi](https://github.com/jasonajones73/financial-capacity/blob/master/maps/mhi.png)
 
 ![mhi-class](https://github.com/jasonajones73/financial-capacity/blob/master/maps/mhi_class.png)
+
+## Median Earnings
+
+![earn](https://github.com/jasonajones73/financial-capacity/blob/master/maps/earn.png)
+
+![earn-class](https://github.com/jasonajones73/financial-capacity/blob/master/maps/earn_class.png)
+
+## Median Home Value
+
+![mhv](https://github.com/jasonajones73/financial-capacity/blob/master/maps/mhv.png)
