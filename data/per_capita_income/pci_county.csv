@@ -1,0 +1,91 @@
+GEOID,NAME,variable,estimate,moe,label,concept
+37063,"Durham County, North Carolina",B19301_001,34502,1204,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+37067,"Forsyth County, North Carolina",B19301_001,30131,1245,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+37081,"Guilford County, North Carolina",B19301_001,30877,975,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+37119,"Mecklenburg County, North Carolina",B19301_001,38367,911,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+37129,"New Hanover County, North Carolina",B19301_001,32379,1552,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+37183,"Wake County, North Carolina",B19301_001,41022,904,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+45045,"Greenville County, South Carolina",B19301_001,31992,1020,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+45083,"Spartanburg County, South Carolina",B19301_001,26441,1203,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+47065,"Hamilton County, Tennessee",B19301_001,32580,1045,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+37063,"Durham County, North Carolina",B19301A_001,41238,2061,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone
+37067,"Forsyth County, North Carolina",B19301A_001,36066,1806,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone
+37081,"Guilford County, North Carolina",B19301A_001,39901,1758,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone
+37119,"Mecklenburg County, North Carolina",B19301A_001,49573,1559,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone
+37129,"New Hanover County, North Carolina",B19301A_001,35802,1790,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone
+37183,"Wake County, North Carolina",B19301A_001,47908,1402,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone
+45045,"Greenville County, South Carolina",B19301A_001,35807,1341,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone
+45083,"Spartanburg County, South Carolina",B19301A_001,28756,1429,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone
+47065,"Hamilton County, Tennessee",B19301A_001,36605,1446,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone
+37063,"Durham County, North Carolina",B19301B_001,25314,1605,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone
+37067,"Forsyth County, North Carolina",B19301B_001,17926,1157,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone
+37081,"Guilford County, North Carolina",B19301B_001,21075,1413,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone
+37119,"Mecklenburg County, North Carolina",B19301B_001,25980,1360,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone
+37129,"New Hanover County, North Carolina",B19301B_001,17164,3735,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone
+37183,"Wake County, North Carolina",B19301B_001,26805,1421,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone
+45045,"Greenville County, South Carolina",B19301B_001,21530,1877,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone
+45083,"Spartanburg County, South Carolina",B19301B_001,20807,3119,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone
+47065,"Hamilton County, Tennessee",B19301B_001,20519,2001,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone
+37063,"Durham County, North Carolina",B19301C_001,33813,23004,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone
+37067,"Forsyth County, North Carolina",B19301C_001,26980,27966,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone
+37081,"Guilford County, North Carolina",B19301C_001,13045,5075,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone
+37119,"Mecklenburg County, North Carolina",B19301C_001,19957,5865,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone
+37129,"New Hanover County, North Carolina",B19301C_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone
+37183,"Wake County, North Carolina",B19301C_001,31780,16874,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone
+45045,"Greenville County, South Carolina",B19301C_001,19783,8323,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone
+45083,"Spartanburg County, South Carolina",B19301C_001,26037,8719,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone
+47065,"Hamilton County, Tennessee",B19301C_001,31950,11043,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone
+37063,"Durham County, North Carolina",B19301D_001,43127,7133,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone
+37067,"Forsyth County, North Carolina",B19301D_001,39728,18474,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone
+37081,"Guilford County, North Carolina",B19301D_001,23349,3832,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone
+37119,"Mecklenburg County, North Carolina",B19301D_001,39246,4414,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone
+37129,"New Hanover County, North Carolina",B19301D_001,28859,12118,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone
+37183,"Wake County, North Carolina",B19301D_001,44279,3696,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone
+45045,"Greenville County, South Carolina",B19301D_001,42685,20158,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone
+45083,"Spartanburg County, South Carolina",B19301D_001,26191,8468,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone
+47065,"Hamilton County, Tennessee",B19301D_001,27536,10271,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone
+37063,"Durham County, North Carolina",B19301E_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone
+37067,"Forsyth County, North Carolina",B19301E_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone
+37081,"Guilford County, North Carolina",B19301E_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone
+37119,"Mecklenburg County, North Carolina",B19301E_001,23635,23804,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone
+37129,"New Hanover County, North Carolina",B19301E_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone
+37183,"Wake County, North Carolina",B19301E_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone
+45045,"Greenville County, South Carolina",B19301E_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone
+45083,"Spartanburg County, South Carolina",B19301E_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone
+47065,"Hamilton County, Tennessee",B19301E_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone
+37063,"Durham County, North Carolina",B19301F_001,22038,5311,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone
+37067,"Forsyth County, North Carolina",B19301F_001,19847,6338,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone
+37081,"Guilford County, North Carolina",B19301F_001,13772,2878,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone
+37119,"Mecklenburg County, North Carolina",B19301F_001,16149,2563,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone
+37129,"New Hanover County, North Carolina",B19301F_001,10728,4574,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone
+37183,"Wake County, North Carolina",B19301F_001,17363,1998,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone
+45045,"Greenville County, South Carolina",B19301F_001,15325,3326,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone
+45083,"Spartanburg County, South Carolina",B19301F_001,14192,5442,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone
+47065,"Hamilton County, Tennessee",B19301F_001,18146,7652,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone
+37063,"Durham County, North Carolina",B19301G_001,26346,11685,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+37067,"Forsyth County, North Carolina",B19301G_001,11293,3402,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+37081,"Guilford County, North Carolina",B19301G_001,10625,2679,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+37119,"Mecklenburg County, North Carolina",B19301G_001,19473,4316,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+37129,"New Hanover County, North Carolina",B19301G_001,14411,4658,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+37183,"Wake County, North Carolina",B19301G_001,22399,4217,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+45045,"Greenville County, South Carolina",B19301G_001,12141,3254,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+45083,"Spartanburg County, South Carolina",B19301G_001,11469,3684,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+47065,"Hamilton County, Tennessee",B19301G_001,12416,3054,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+37063,"Durham County, North Carolina",B19301H_001,48037,2328,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino"
+37067,"Forsyth County, North Carolina",B19301H_001,39803,1887,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino"
+37081,"Guilford County, North Carolina",B19301H_001,42068,1886,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino"
+37119,"Mecklenburg County, North Carolina",B19301H_001,53519,1624,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino"
+37129,"New Hanover County, North Carolina",B19301H_001,36792,1925,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino"
+37183,"Wake County, North Carolina",B19301H_001,49948,1438,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino"
+45045,"Greenville County, South Carolina",B19301H_001,37032,1383,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino"
+45083,"Spartanburg County, South Carolina",B19301H_001,29649,1465,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino"
+47065,"Hamilton County, Tennessee",B19301H_001,38026,1506,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino"
+37063,"Durham County, North Carolina",B19301I_001,14199,1724,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino
+37067,"Forsyth County, North Carolina",B19301I_001,12564,1290,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino
+37081,"Guilford County, North Carolina",B19301I_001,16256,2306,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino
+37119,"Mecklenburg County, North Carolina",B19301I_001,18554,1410,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino
+37129,"New Hanover County, North Carolina",B19301I_001,13633,4171,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino
+37183,"Wake County, North Carolina",B19301I_001,19175,1442,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino
+45045,"Greenville County, South Carolina",B19301I_001,15014,1691,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino
+45083,"Spartanburg County, South Carolina",B19301I_001,17311,2881,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino
+47065,"Hamilton County, Tennessee",B19301I_001,13810,2195,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino

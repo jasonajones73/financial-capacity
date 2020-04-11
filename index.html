@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+<meta name="viewport" content="width=device-width">
+<meta property="og:title" content="Thematic Mapping of Demographic &amp; Socioeconomic Data" />
+
+
+
+
+<meta name="author" content="Jason Jones" />
+
+<meta name="date" content="2020-04-06" />
+
+<meta name="description" content="Thematic Mapping of Demographic &amp; Socioeconomic Data">
+
+<script id="pandoc-meta" type="application/json">
+{"newpage_html_class":"page-break-after","date":"April 06, 2020","output":{"pagedown::html_paged":{"self_contained":false,"toc":true,"css":["style/jason-default-fonts.css","style/jason-default-page.css","style/jason-default.css"],"front_cover":"img/report_cover.png"}},"author":"Jason Jones","title":"Thematic Mapping of Demographic &amp; Socioeconomic Data","chapter_name":"Section: "}
+</script>
+
+<title>Thematic Mapping of Demographic &amp; Socioeconomic Data</title>
+
+
+<link id="front-cover-1-pagedown-attachment" rel="attachment" href="index_files/front-cover-1-0.9/report_cover.png"/>
+<script src="index_files/paged-0.9/js/config.js"></script>
+<script src="index_files/paged-0.9/js/paged.js"></script>
+<script src="index_files/paged-0.9/js/hooks.js"></script>
+
+
+
+
+<link rel="stylesheet" href="style/jason-default-fonts.css" type="text/css" />
+<link rel="stylesheet" href="style/jason-default-page.css" type="text/css" />
+<link rel="stylesheet" href="style/jason-default.css" type="text/css" />
+
+</head>
+
+<body>
+
+<div class="running-h1-title"></div>
+
+<div class="running-h2-title"></div>
+
+
+
+<div class="front-page">
+<div id="header" class="title-page">
+<h1 class="title">Thematic Mapping of Demographic &amp; Socioeconomic Data</h1>
+<h2 class="author">Jason Jones</h2>
+<h2 class="date">April 06, 2020</h2>
+</div>
+</div>
+
+<div class="front-matter-container">
+<div id="TOC" class="level1 toc front-matter">
+<ul>
+<li><a href="#per-capita-income"><span class="toc-section-number">1</span> Per Capita Income</a><ul>
+<li><a href="#variable-definition"><span class="toc-section-number">1.1</span> Variable Definition</a></li>
+<li><a href="#maps"><span class="toc-section-number">1.2</span> Maps</a></li>
+</ul></li>
+<li><a href="#median-family-income"><span class="toc-section-number">2</span> Median Family Income</a><ul>
+<li><a href="#variable-definition-1"><span class="toc-section-number">2.1</span> Variable Definition</a></li>
+</ul></li>
+<li><a href="#median-value"><span class="toc-section-number">3</span> Median Value</a><ul>
+<li><a href="#variable-definition-2"><span class="toc-section-number">3.1</span> Variable Definition</a></li>
+</ul></li>
+<li><a href="#sex-by-age-by-educational-attainment"><span class="toc-section-number">4</span> Sex by Age by Educational Attainment</a><ul>
+<li><a href="#variable-definition-3"><span class="toc-section-number">4.1</span> Variable Definition</a></li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div class="main">
+<script>
+class RepeatingTableHeaders extends Paged.Handler {
+  constructor(chunker, polisher, caller) {
+    super(chunker, polisher, caller);
+  }
+
+  afterPageLayout(pageElement, page, breakToken, chunker) {
+    // Find all split table elements
+    let tables = pageElement.querySelectorAll("table[data-split-from]");
+
+    tables.forEach((table) => {
+      // Get the reference UUID of the node
+      let ref = table.dataset.ref;
+      // Find the node in the original source
+      let sourceTable = chunker.source.querySelector("[data-ref='" + ref + "']");
+      // Find if there is a header
+      let header = sourceTable.querySelector("thead");
+      if (header) {
+        // Clone the header element
+        let clonedHeader = header.cloneNode(true);
+        // Insert the header at the start of the split table
+        table.insertBefore(clonedHeader, table.firstChild);
+      }
+    });
+
+  }
+}
+
+Paged.registerHandlers(RepeatingTableHeaders);
+</script>
+<div id="per-capita-income" class="section level1 chapter">
+<h1><span class="header-section-number">1</span> Per Capita Income</h1>
+<div id="variable-definition" class="section level2">
+<h2><span class="header-section-number">1.1</span> Variable Definition</h2>
+</div>
+<div id="maps" class="section level2">
+<h2><span class="header-section-number">1.2</span> Maps</h2>
+<p><img src="index_files/figure-html/unnamed-chunk-1-1.png" width="100%" style="display: block; margin: auto;" /></p>
+</div>
+</div>
+<div id="median-family-income" class="section level1 chapter">
+<h1><span class="header-section-number">2</span> Median Family Income</h1>
+<div id="variable-definition-1" class="section level2">
+<h2><span class="header-section-number">2.1</span> Variable Definition</h2>
+</div>
+</div>
+<div id="median-value" class="section level1 chapter">
+<h1><span class="header-section-number">3</span> Median Value</h1>
+<div id="variable-definition-2" class="section level2">
+<h2><span class="header-section-number">3.1</span> Variable Definition</h2>
+</div>
+</div>
+<div id="sex-by-age-by-educational-attainment" class="section level1 chapter">
+<h1><span class="header-section-number">4</span> Sex by Age by Educational Attainment</h1>
+<div id="variable-definition-3" class="section level2">
+<h2><span class="header-section-number">4.1</span> Variable Definition</h2>
+</div>
+</div>
+</div>
+
+
+
+<script>
+// when the page is about to reload via servr, remember the scroll position
+document.addEventListener('servr:reload', function(e) {
+  sessionStorage.setItem('pagedown-scroll', window.scrollY);
+});
+</script>
+</body>
+</html>

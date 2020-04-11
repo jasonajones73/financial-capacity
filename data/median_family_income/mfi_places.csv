@@ -1,0 +1,71 @@
+GEOID,NAME,variable,estimate,moe,label,concept
+3712000,"Charlotte city, North Carolina",B19113_001,76201,2595,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+3719000,"Durham city, North Carolina",B19113_001,76067,4515,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+3728000,"Greensboro city, North Carolina",B19113_001,60233,4978,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+3731400,"High Point city, North Carolina",B19113_001,55379,6445,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+3755000,"Raleigh city, North Carolina",B19113_001,87214,4118,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+3774440,"Wilmington city, North Carolina",B19113_001,66839,6331,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+3775000,"Winston-Salem city, North Carolina",B19113_001,58639,7144,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+3712000,"Charlotte city, North Carolina",B19113A_001,102735,4685,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone Householder
+3719000,"Durham city, North Carolina",B19113A_001,91556,9996,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone Householder
+3728000,"Greensboro city, North Carolina",B19113A_001,81624,8997,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone Householder
+3731400,"High Point city, North Carolina",B19113A_001,70330,7270,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone Householder
+3755000,"Raleigh city, North Carolina",B19113A_001,113819,8555,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone Householder
+3774440,"Wilmington city, North Carolina",B19113A_001,87796,13710,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone Householder
+3775000,"Winston-Salem city, North Carolina",B19113A_001,72670,7186,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone Householder
+3712000,"Charlotte city, North Carolina",B19113B_001,55113,3935,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone Householder
+3719000,"Durham city, North Carolina",B19113B_001,53426,5390,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone Householder
+3728000,"Greensboro city, North Carolina",B19113B_001,40806,4266,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone Householder
+3731400,"High Point city, North Carolina",B19113B_001,43183,6123,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone Householder
+3755000,"Raleigh city, North Carolina",B19113B_001,59431,12767,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone Householder
+3774440,"Wilmington city, North Carolina",B19113B_001,25491,11061,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone Householder
+3775000,"Winston-Salem city, North Carolina",B19113B_001,39574,5568,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone Householder
+3712000,"Charlotte city, North Carolina",B19113C_001,39831,21123,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone Householder
+3719000,"Durham city, North Carolina",B19113C_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone Householder
+3728000,"Greensboro city, North Carolina",B19113C_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone Householder
+3731400,"High Point city, North Carolina",B19113C_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone Householder
+3755000,"Raleigh city, North Carolina",B19113C_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone Householder
+3774440,"Wilmington city, North Carolina",B19113C_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone Householder
+3775000,"Winston-Salem city, North Carolina",B19113C_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone Householder
+3712000,"Charlotte city, North Carolina",B19113D_001,94167,13452,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone Householder
+3719000,"Durham city, North Carolina",B19113D_001,110884,40636,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone Householder
+3728000,"Greensboro city, North Carolina",B19113D_001,34805,24409,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone Householder
+3731400,"High Point city, North Carolina",B19113D_001,56528,6954,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone Householder
+3755000,"Raleigh city, North Carolina",B19113D_001,74389,26736,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone Householder
+3774440,"Wilmington city, North Carolina",B19113D_001,67412,18058,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone Householder
+3775000,"Winston-Salem city, North Carolina",B19113D_001,84591,13583,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone Householder
+3712000,"Charlotte city, North Carolina",B19113E_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone Householder
+3719000,"Durham city, North Carolina",B19113E_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone Householder
+3728000,"Greensboro city, North Carolina",B19113E_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone Householder
+3731400,"High Point city, North Carolina",B19113E_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone Householder
+3755000,"Raleigh city, North Carolina",B19113E_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone Householder
+3774440,"Wilmington city, North Carolina",B19113E_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone Householder
+3775000,"Winston-Salem city, North Carolina",B19113E_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone Householder
+3712000,"Charlotte city, North Carolina",B19113F_001,41752,9030,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone Householder
+3719000,"Durham city, North Carolina",B19113F_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone Householder
+3728000,"Greensboro city, North Carolina",B19113F_001,31465,25973,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone Householder
+3731400,"High Point city, North Carolina",B19113F_001,41973,25404,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone Householder
+3755000,"Raleigh city, North Carolina",B19113F_001,35543,11856,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone Householder
+3774440,"Wilmington city, North Carolina",B19113F_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone Householder
+3775000,"Winston-Salem city, North Carolina",B19113F_001,31315,10231,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone Householder
+3712000,"Charlotte city, North Carolina",B19113G_001,71897,10679,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+3719000,"Durham city, North Carolina",B19113G_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+3728000,"Greensboro city, North Carolina",B19113G_001,36667,9905,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+3731400,"High Point city, North Carolina",B19113G_001,24488,12868,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+3755000,"Raleigh city, North Carolina",B19113G_001,49312,6879,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+3774440,"Wilmington city, North Carolina",B19113G_001,24663,18699,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B19113G_001,41917,20883,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+3712000,"Charlotte city, North Carolina",B19113H_001,111911,6920,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino Householder"
+3719000,"Durham city, North Carolina",B19113H_001,106293,10428,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino Householder"
+3728000,"Greensboro city, North Carolina",B19113H_001,86380,8020,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino Householder"
+3731400,"High Point city, North Carolina",B19113H_001,72648,8385,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino Householder"
+3755000,"Raleigh city, North Carolina",B19113H_001,117941,7549,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino Householder"
+3774440,"Wilmington city, North Carolina",B19113H_001,90424,9801,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino Householder"
+3775000,"Winston-Salem city, North Carolina",B19113H_001,87749,8454,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino Householder"
+3712000,"Charlotte city, North Carolina",B19113I_001,46037,6561,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino Householder
+3719000,"Durham city, North Carolina",B19113I_001,41250,11630,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino Householder
+3728000,"Greensboro city, North Carolina",B19113I_001,41491,14160,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino Householder
+3731400,"High Point city, North Carolina",B19113I_001,40646,6975,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino Householder
+3755000,"Raleigh city, North Carolina",B19113I_001,51137,10025,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino Householder
+3774440,"Wilmington city, North Carolina",B19113I_001,45738,18509,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino Householder
+3775000,"Winston-Salem city, North Carolina",B19113I_001,35794,8040,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino Householder

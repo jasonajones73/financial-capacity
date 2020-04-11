@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# API Key
+/api_key/api_key.R
+
+# System file
+.DS_Store
+

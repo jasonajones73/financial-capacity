@@ -1,0 +1,71 @@
+GEOID,NAME,variable,estimate,moe,label,concept
+3712000,"Charlotte city, North Carolina",B19301_001,37913,1128,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+3719000,"Durham city, North Carolina",B19301_001,33607,1185,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+3728000,"Greensboro city, North Carolina",B19301_001,28947,1687,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+3731400,"High Point city, North Carolina",B19301_001,24947,1877,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+3755000,"Raleigh city, North Carolina",B19301_001,38804,1497,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+3774440,"Wilmington city, North Carolina",B19301_001,30954,2636,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+3775000,"Winston-Salem city, North Carolina",B19301_001,28283,1424,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+3712000,"Charlotte city, North Carolina",B19301A_001,51461,2107,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone
+3719000,"Durham city, North Carolina",B19301A_001,40680,2086,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone
+3728000,"Greensboro city, North Carolina",B19301A_001,39354,3141,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone
+3731400,"High Point city, North Carolina",B19301A_001,31640,2985,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone
+3755000,"Raleigh city, North Carolina",B19301A_001,50092,2323,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone
+3774440,"Wilmington city, North Carolina",B19301A_001,35804,3226,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone
+3775000,"Winston-Salem city, North Carolina",B19301A_001,36970,2465,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone
+3712000,"Charlotte city, North Carolina",B19301B_001,25612,1277,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone
+3719000,"Durham city, North Carolina",B19301B_001,24123,1594,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B19301B_001,20518,1932,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone
+3731400,"High Point city, North Carolina",B19301B_001,19076,2519,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B19301B_001,23580,1555,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B19301B_001,15244,4047,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B19301B_001,17235,1303,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B19301C_001,18839,5936,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B19301C_001,33813,23004,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B19301C_001,16223,11622,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B19301C_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B19301C_001,30273,23948,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B19301C_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B19301C_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B19301D_001,37899,4656,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone
+3719000,"Durham city, North Carolina",B19301D_001,44572,7587,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone
+3728000,"Greensboro city, North Carolina",B19301D_001,19899,3822,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone
+3731400,"High Point city, North Carolina",B19301D_001,22852,6693,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone
+3755000,"Raleigh city, North Carolina",B19301D_001,32897,8107,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone
+3774440,"Wilmington city, North Carolina",B19301D_001,43694,19221,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone
+3775000,"Winston-Salem city, North Carolina",B19301D_001,28234,8854,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone
+3712000,"Charlotte city, North Carolina",B19301E_001,14207,11087,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B19301E_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B19301E_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B19301E_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B19301E_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B19301E_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B19301E_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B19301F_001,16577,2923,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone
+3719000,"Durham city, North Carolina",B19301F_001,23461,6123,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B19301F_001,11323,3749,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone
+3731400,"High Point city, North Carolina",B19301F_001,15754,5065,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B19301F_001,14088,4034,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B19301F_001,14467,11415,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B19301F_001,14028,4099,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B19301G_001,20597,4840,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+3719000,"Durham city, North Carolina",B19301G_001,27581,13069,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+3728000,"Greensboro city, North Carolina",B19301G_001,12246,3957,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+3731400,"High Point city, North Carolina",B19301G_001,11070,4750,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+3755000,"Raleigh city, North Carolina",B19301G_001,22246,5475,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+3774440,"Wilmington city, North Carolina",B19301G_001,12922,6289,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B19301G_001,11007,3457,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+3712000,"Charlotte city, North Carolina",B19301H_001,56490,2220,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B19301H_001,48372,2268,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B19301H_001,42451,3308,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B19301H_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B19301H_001,52261,2412,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B19301H_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B19301H_001,43011,2769,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B19301I_001,18590,1665,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino
+3719000,"Durham city, North Carolina",B19301I_001,14507,1884,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B19301I_001,15854,3134,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino
+3731400,"High Point city, North Carolina",B19301I_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B19301I_001,18595,2634,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B19301I_001,NA,NA,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B19301I_001,11304,1116,Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino

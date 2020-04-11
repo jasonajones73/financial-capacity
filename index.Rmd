@@ -1,0 +1,118 @@
+---
+title: "Thematic Mapping of Demographic & Socioeconomic Data"
+author: "Jason Jones"
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+output:
+  pagedown::html_paged:
+    css: ["style/jason-default-fonts.css", "style/jason-default-page.css", "style/jason-default.css"]
+    toc: true
+    # change to true for a self-contained document, but it'll be a litte slower for Pandoc to render
+    self_contained: false
+    front_cover: "img/report_cover.png"
+chapter_name: "Section:\\ "
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+<script>
+class RepeatingTableHeaders extends Paged.Handler {
+  constructor(chunker, polisher, caller) {
+    super(chunker, polisher, caller);
+  }
+
+  afterPageLayout(pageElement, page, breakToken, chunker) {
+    // Find all split table elements
+    let tables = pageElement.querySelectorAll("table[data-split-from]");
+
+    tables.forEach((table) => {
+      // Get the reference UUID of the node
+      let ref = table.dataset.ref;
+      // Find the node in the original source
+      let sourceTable = chunker.source.querySelector("[data-ref='" + ref + "']");
+      // Find if there is a header
+      let header = sourceTable.querySelector("thead");
+      if (header) {
+        // Clone the header element
+        let clonedHeader = header.cloneNode(true);
+        // Insert the header at the start of the split table
+        table.insertBefore(clonedHeader, table.firstChild);
+      }
+    });
+
+  }
+}
+
+Paged.registerHandlers(RepeatingTableHeaders);
+</script>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, dpi = 320,
+                      out.width = "100%", fig.align = "center")
+
+# Load packages
+library(tidyverse)
+library(sf)
+library(tigris)
+
+# Census geographies
+# guil_sf <- counties(state = 37) %>%
+#   st_as_sf() %>%
+#   filter(NAME == "Guilford")
+# 
+# guil_tracts_sf <- tracts(state = 37, county = 81) %>%
+#   st_as_sf()
+
+# Load data
+pci_county <- read_rds("data/per_capita_income/pci_county.rds")
+pci_places <- read_rds("data/per_capita_income/pci_places.rds")
+pci_sf <- read_rds("data/per_capita_income/pci_sf.rds")
+
+
+
+
+jason_theme <- theme(
+  text = element_text(family = "Roboto Condensed"),
+  panel.background = element_blank(),
+  panel.grid.minor = element_blank(),
+  panel.grid.major.y = element_line(color = "grey"),
+  panel.grid.major.x = element_blank(),
+  axis.ticks = element_line(color = "grey"),
+  axis.title = element_blank(),
+  plot.caption = element_text(hjust = 1)
+  ) 
+```
+
+# Per Capita Income {.chapter}
+
+## Variable Definition
+
+## Maps
+
+```{r}
+pci_sf %>%
+  ggplot() +
+  geom_sf(aes(fill = estimate), color = "black") +
+  scale_fill_distiller("Estimate", palette = "Greens", na.value = "white",
+                       direction = 1, labels = scales::dollar_format()) +
+  theme(legend.position = "left") +
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)",
+       title = "Guilford County: Census Tracts",
+       subtitle = "Per Capita Income") +
+  jason_theme
+```
+
+# Median Family Income {.chapter}
+
+## Variable Definition
+
+# Median Value {.chapter}
+
+## Variable Definition
+
+# Sex by Age by Educational Attainment {.chapter}
+
+## Variable Definition
+
+
+
+

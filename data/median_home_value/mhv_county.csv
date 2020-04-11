@@ -1,0 +1,10 @@
+GEOID,NAME,variable,estimate,moe,label,concept
+37063,"Durham County, North Carolina",B25077_001,233300,7365,Median value (dollars),All Population
+37067,"Forsyth County, North Carolina",B25077_001,163200,4119,Median value (dollars),All Population
+37081,"Guilford County, North Carolina",B25077_001,170300,5412,Median value (dollars),All Population
+37119,"Mecklenburg County, North Carolina",B25077_001,253000,5975,Median value (dollars),All Population
+37129,"New Hanover County, North Carolina",B25077_001,248300,8941,Median value (dollars),All Population
+37183,"Wake County, North Carolina",B25077_001,301900,5619,Median value (dollars),All Population
+45045,"Greenville County, South Carolina",B25077_001,192700,5257,Median value (dollars),All Population
+45083,"Spartanburg County, South Carolina",B25077_001,153300,5516,Median value (dollars),All Population
+47065,"Hamilton County, Tennessee",B25077_001,182100,6943,Median value (dollars),All Population

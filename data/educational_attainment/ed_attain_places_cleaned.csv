@@ -1,0 +1,687 @@
+GEOID,concept,total_pop,label,county,estimate,pct
+3712000,All Population,589220,10th grade,"Charlotte city, North Carolina",8978,0.01523709310614032
+3712000,All Population,589220,11th grade,"Charlotte city, North Carolina",8923,0.015143749363565391
+3712000,All Population,589220,"12th grade, no diploma","Charlotte city, North Carolina",7179,0.01218390414446217
+3712000,All Population,589220,5th and 6th grade,"Charlotte city, North Carolina",11712,0.019877125691592275
+3712000,All Population,589220,7th and 8th grade,"Charlotte city, North Carolina",5567,0.00944808390753878
+3712000,All Population,589220,9th grade,"Charlotte city, North Carolina",7549,0.01281185295814806
+3712000,All Population,589220,Associate's degree,"Charlotte city, North Carolina",45704,0.07756695292081056
+3712000,All Population,589220,Bachelor's degree,"Charlotte city, North Carolina",169840,0.2882454770713825
+3712000,All Population,589220,Doctorate degree,"Charlotte city, North Carolina",6610,0.011218220698550626
+3712000,All Population,589220,High school graduate (includes equivalency),"Charlotte city, North Carolina",99112,0.1682088184379349
+3712000,All Population,589220,Master's degree,"Charlotte city, North Carolina",68361,0.11601948338481383
+3712000,All Population,589220,No schooling completed,"Charlotte city, North Carolina",10216,0.01733817589355419
+3712000,All Population,589220,Nursery to 4th grade,"Charlotte city, North Carolina",4751,0.0080632021995180065
+3712000,All Population,589220,Professional school degree,"Charlotte city, North Carolina",15900,0.026984827398934184
+3712000,All Population,589220,"Some college, 1 or more years, no degree","Charlotte city, North Carolina",91423,0.15515936322595975
+3712000,All Population,589220,"Some college, less than 1 year","Charlotte city, North Carolina",27395,0.046493669597094466
+3712000,All Population,589220,Total Population,"Charlotte city, North Carolina",589220,1
+3719000,All Population,187500,10th grade,"Durham city, North Carolina",1703,0.009082666666666666
+3719000,All Population,187500,11th grade,"Durham city, North Carolina",3190,0.01701333333333333
+3719000,All Population,187500,"12th grade, no diploma","Durham city, North Carolina",1521,0.008112
+3719000,All Population,187500,5th and 6th grade,"Durham city, North Carolina",3057,0.016304
+3719000,All Population,187500,7th and 8th grade,"Durham city, North Carolina",2942,0.015690666666666665
+3719000,All Population,187500,9th grade,"Durham city, North Carolina",2115,0.01128
+3719000,All Population,187500,Associate's degree,"Durham city, North Carolina",13385,0.07138666666666667
+3719000,All Population,187500,Bachelor's degree,"Durham city, North Carolina",48634,0.25938133333333335
+3719000,All Population,187500,Doctorate degree,"Durham city, North Carolina",9356,0.04989866666666667
+3719000,All Population,187500,High school graduate (includes equivalency),"Durham city, North Carolina",34149,0.182128
+3719000,All Population,187500,Master's degree,"Durham city, North Carolina",24661,0.13152533333333333
+3719000,All Population,187500,No schooling completed,"Durham city, North Carolina",2704,0.014421333333333333
+3719000,All Population,187500,Nursery to 4th grade,"Durham city, North Carolina",2165,0.011546666666666667
+3719000,All Population,187500,Professional school degree,"Durham city, North Carolina",8860,0.047253333333333335
+3719000,All Population,187500,"Some college, 1 or more years, no degree","Durham city, North Carolina",22633,0.12070933333333334
+3719000,All Population,187500,"Some college, less than 1 year","Durham city, North Carolina",6425,0.03426666666666667
+3719000,All Population,187500,Total Population,"Durham city, North Carolina",187500,1
+3728000,All Population,193816,10th grade,"Greensboro city, North Carolina",3174,0.016376356957113963
+3728000,All Population,193816,11th grade,"Greensboro city, North Carolina",2951,0.01522578115325876
+3728000,All Population,193816,"12th grade, no diploma","Greensboro city, North Carolina",2719,0.014028769554629133
+3728000,All Population,193816,5th and 6th grade,"Greensboro city, North Carolina",2168,0.011185867007883765
+3728000,All Population,193816,7th and 8th grade,"Greensboro city, North Carolina",1719,0.008869236801915219
+3728000,All Population,193816,9th grade,"Greensboro city, North Carolina",3943,0.020344037643950964
+3728000,All Population,193816,Associate's degree,"Greensboro city, North Carolina",18278,0.09430593965410493
+3728000,All Population,193816,Bachelor's degree,"Greensboro city, North Carolina",48086,0.24810129194700128
+3728000,All Population,193816,Doctorate degree,"Greensboro city, North Carolina",3145,0.01622673050728526
+3728000,All Population,193816,High school graduate (includes equivalency),"Greensboro city, North Carolina",38156,0.1968671317125521
+3728000,All Population,193816,Master's degree,"Greensboro city, North Carolina",20545,0.10600260040450737
+3728000,All Population,193816,No schooling completed,"Greensboro city, North Carolina",2705,0.013956536096091139
+3728000,All Population,193816,Nursery to 4th grade,"Greensboro city, North Carolina",1018,0.005252404342262765
+3728000,All Population,193816,Professional school degree,"Greensboro city, North Carolina",4580,0.023630660007429728
+3728000,All Population,193816,"Some college, 1 or more years, no degree","Greensboro city, North Carolina",30310,0.15638543773475874
+3728000,All Population,193816,"Some college, less than 1 year","Greensboro city, North Carolina",10319,0.053241218475254884
+3728000,All Population,193816,Total Population,"Greensboro city, North Carolina",193816,1
+3731400,All Population,74945,10th grade,"High Point city, North Carolina",1241,0.016558809793848824
+3731400,All Population,74945,11th grade,"High Point city, North Carolina",1936,0.02583227700313563
+3731400,All Population,74945,"12th grade, no diploma","High Point city, North Carolina",1390,0.01854693441857362
+3731400,All Population,74945,5th and 6th grade,"High Point city, North Carolina",997,0.01330308893188338
+3731400,All Population,74945,7th and 8th grade,"High Point city, North Carolina",1761,0.0234972313029555
+3731400,All Population,74945,9th grade,"High Point city, North Carolina",1969,0.026272599906598172
+3731400,All Population,74945,Associate's degree,"High Point city, North Carolina",6011,0.08020548402161586
+3731400,All Population,74945,Bachelor's degree,"High Point city, North Carolina",15341,0.20469677763693375
+3731400,All Population,74945,Doctorate degree,"High Point city, North Carolina",832,0.011101474414570685
+3731400,All Population,74945,High school graduate (includes equivalency),"High Point city, North Carolina",18877,0.25187804389885915
+3731400,All Population,74945,Master's degree,"High Point city, North Carolina",5552,0.07408099272800053
+3731400,All Population,74945,No schooling completed,"High Point city, North Carolina",1682,0.022443124958302755
+3731400,All Population,74945,Nursery to 4th grade,"High Point city, North Carolina",835,0.011141503769430915
+3731400,All Population,74945,Professional school degree,"High Point city, North Carolina",1172,0.015638134632063514
+3731400,All Population,74945,"Some college, 1 or more years, no degree","High Point city, North Carolina",10486,0.13991593835479352
+3731400,All Population,74945,"Some college, less than 1 year","High Point city, North Carolina",4863,0.06488758422843419
+3731400,All Population,74945,Total Population,"High Point city, North Carolina",74945,1
+3755000,All Population,315891,10th grade,"Raleigh city, North Carolina",3517,0.011133587218375958
+3755000,All Population,315891,11th grade,"Raleigh city, North Carolina",4753,0.015046329271805782
+3755000,All Population,315891,"12th grade, no diploma","Raleigh city, North Carolina",2873,0.009094909319986957
+3755000,All Population,315891,5th and 6th grade,"Raleigh city, North Carolina",3051,0.00965839482606342
+3755000,All Population,315891,7th and 8th grade,"Raleigh city, North Carolina",3439,0.010886666603353688
+3755000,All Population,315891,9th grade,"Raleigh city, North Carolina",2820,0.008927129927728235
+3755000,All Population,315891,Associate's degree,"Raleigh city, North Carolina",20682,0.06547195076782815
+3755000,All Population,315891,Bachelor's degree,"Raleigh city, North Carolina",108915,0.344786651091674
+3755000,All Population,315891,Doctorate degree,"Raleigh city, North Carolina",8881,0.028114127974522857
+3755000,All Population,315891,High school graduate (includes equivalency),"Raleigh city, North Carolina",48408,0.15324273246151363
+3755000,All Population,315891,Master's degree,"Raleigh city, North Carolina",39750,0.1258345441940416
+3755000,All Population,315891,No schooling completed,"Raleigh city, North Carolina",2817,0.00891763298099661
+3755000,All Population,315891,Nursery to 4th grade,"Raleigh city, North Carolina",941,0.0029788756248199538
+3755000,All Population,315891,Professional school degree,"Raleigh city, North Carolina",10717,0.03392625937427784
+3755000,All Population,315891,"Some college, 1 or more years, no degree","Raleigh city, North Carolina",39419,0.12478671440465224
+3755000,All Population,315891,"Some college, less than 1 year","Raleigh city, North Carolina",14908,0.047193493958359055
+3755000,All Population,315891,Total Population,"Raleigh city, North Carolina",315891,1
+3774440,All Population,80368,10th grade,"Wilmington city, North Carolina",1413,0.017581624527174995
+3774440,All Population,80368,11th grade,"Wilmington city, North Carolina",357,0.004442066494127016
+3774440,All Population,80368,"12th grade, no diploma","Wilmington city, North Carolina",1326,0.0164991041210432
+3774440,All Population,80368,5th and 6th grade,"Wilmington city, North Carolina",193,0.00240145331475214
+3774440,All Population,80368,7th and 8th grade,"Wilmington city, North Carolina",501,0.006233824407724468
+3774440,All Population,80368,9th grade,"Wilmington city, North Carolina",1255,0.015615667927533347
+3774440,All Population,80368,Associate's degree,"Wilmington city, North Carolina",6370,0.0792604021501095
+3774440,All Population,80368,Bachelor's degree,"Wilmington city, North Carolina",24213,0.3012766275134382
+3774440,All Population,80368,Doctorate degree,"Wilmington city, North Carolina",1260,0.015677881743977704
+3774440,All Population,80368,High school graduate (includes equivalency),"Wilmington city, North Carolina",17661,0.21975164244475412
+3774440,All Population,80368,Master's degree,"Wilmington city, North Carolina",6395,0.07957147123233127
+3774440,All Population,80368,No schooling completed,"Wilmington city, North Carolina",167,0.0020779414692414892
+3774440,All Population,80368,Nursery to 4th grade,"Wilmington city, North Carolina",189,0.0023516822615966553
+3774440,All Population,80368,Professional school degree,"Wilmington city, North Carolina",1510,0.0187885725661955
+3774440,All Population,80368,"Some college, 1 or more years, no degree","Wilmington city, North Carolina",12690,0.15789866613577544
+3774440,All Population,80368,"Some college, less than 1 year","Wilmington city, North Carolina",4868,0.060571371690224966
+3774440,All Population,80368,Total Population,"Wilmington city, North Carolina",80368,1
+3775000,All Population,160647,10th grade,"Winston-Salem city, North Carolina",2488,0.015487372935691298
+3775000,All Population,160647,11th grade,"Winston-Salem city, North Carolina",3834,0.023865991895273487
+3775000,All Population,160647,"12th grade, no diploma","Winston-Salem city, North Carolina",2674,0.016645191008857932
+3775000,All Population,160647,5th and 6th grade,"Winston-Salem city, North Carolina",2515,0.01565544330115097
+3775000,All Population,160647,7th and 8th grade,"Winston-Salem city, North Carolina",3357,0.02089674877215261
+3775000,All Population,160647,9th grade,"Winston-Salem city, North Carolina",1812,0.011279388970849128
+3775000,All Population,160647,Associate's degree,"Winston-Salem city, North Carolina",11778,0.07331602831051934
+3775000,All Population,160647,Bachelor's degree,"Winston-Salem city, North Carolina",32556,0.20265551177426283
+3775000,All Population,160647,Doctorate degree,"Winston-Salem city, North Carolina",2712,0.016881734486171543
+3775000,All Population,160647,High school graduate (includes equivalency),"Winston-Salem city, North Carolina",41062,0.25560390172241
+3775000,All Population,160647,Master's degree,"Winston-Salem city, North Carolina",13678,0.08514320217619999
+3775000,All Population,160647,No schooling completed,"Winston-Salem city, North Carolina",2318,0.014429152116130398
+3775000,All Population,160647,Nursery to 4th grade,"Winston-Salem city, North Carolina",957,0.005957160731292835
+3775000,All Population,160647,Professional school degree,"Winston-Salem city, North Carolina",5754,0.035817662327961304
+3775000,All Population,160647,"Some college, 1 or more years, no degree","Winston-Salem city, North Carolina",25258,0.1572267144733484
+3775000,All Population,160647,"Some college, less than 1 year","Winston-Salem city, North Carolina",7894,0.049138794997727935
+3775000,All Population,160647,Total Population,"Winston-Salem city, North Carolina",160647,1
+3712000,American Indian And Alaska Native Alone,NA,"9th to 12th grade, no diploma","Charlotte city, North Carolina",NA,NA
+3712000,American Indian And Alaska Native Alone,NA,Associate's degree,"Charlotte city, North Carolina",NA,NA
+3712000,American Indian And Alaska Native Alone,NA,Bachelor's degree,"Charlotte city, North Carolina",NA,NA
+3712000,American Indian And Alaska Native Alone,NA,GED or alternative credential,"Charlotte city, North Carolina",NA,NA
+3712000,American Indian And Alaska Native Alone,NA,Graduate or professional degree,"Charlotte city, North Carolina",NA,NA
+3712000,American Indian And Alaska Native Alone,NA,Less than 9th grade,"Charlotte city, North Carolina",NA,NA
+3712000,American Indian And Alaska Native Alone,NA,Regular high school diploma,"Charlotte city, North Carolina",NA,NA
+3712000,American Indian And Alaska Native Alone,NA,"Some college, no degree","Charlotte city, North Carolina",NA,NA
+3712000,American Indian And Alaska Native Alone,NA,Total Population,"Charlotte city, North Carolina",NA,NA
+3719000,American Indian And Alaska Native Alone,NA,"9th to 12th grade, no diploma","Durham city, North Carolina",NA,NA
+3719000,American Indian And Alaska Native Alone,NA,Associate's degree,"Durham city, North Carolina",NA,NA
+3719000,American Indian And Alaska Native Alone,NA,Bachelor's degree,"Durham city, North Carolina",NA,NA
+3719000,American Indian And Alaska Native Alone,NA,GED or alternative credential,"Durham city, North Carolina",NA,NA
+3719000,American Indian And Alaska Native Alone,NA,Graduate or professional degree,"Durham city, North Carolina",NA,NA
+3719000,American Indian And Alaska Native Alone,NA,Less than 9th grade,"Durham city, North Carolina",NA,NA
+3719000,American Indian And Alaska Native Alone,NA,Regular high school diploma,"Durham city, North Carolina",NA,NA
+3719000,American Indian And Alaska Native Alone,NA,"Some college, no degree","Durham city, North Carolina",NA,NA
+3719000,American Indian And Alaska Native Alone,NA,Total Population,"Durham city, North Carolina",NA,NA
+3728000,American Indian And Alaska Native Alone,NA,"9th to 12th grade, no diploma","Greensboro city, North Carolina",NA,NA
+3728000,American Indian And Alaska Native Alone,NA,Associate's degree,"Greensboro city, North Carolina",NA,NA
+3728000,American Indian And Alaska Native Alone,NA,Bachelor's degree,"Greensboro city, North Carolina",NA,NA
+3728000,American Indian And Alaska Native Alone,NA,GED or alternative credential,"Greensboro city, North Carolina",NA,NA
+3728000,American Indian And Alaska Native Alone,NA,Graduate or professional degree,"Greensboro city, North Carolina",NA,NA
+3728000,American Indian And Alaska Native Alone,NA,Less than 9th grade,"Greensboro city, North Carolina",NA,NA
+3728000,American Indian And Alaska Native Alone,NA,Regular high school diploma,"Greensboro city, North Carolina",NA,NA
+3728000,American Indian And Alaska Native Alone,NA,"Some college, no degree","Greensboro city, North Carolina",NA,NA
+3728000,American Indian And Alaska Native Alone,NA,Total Population,"Greensboro city, North Carolina",NA,NA
+3731400,American Indian And Alaska Native Alone,NA,"9th to 12th grade, no diploma","High Point city, North Carolina",NA,NA
+3731400,American Indian And Alaska Native Alone,NA,Associate's degree,"High Point city, North Carolina",NA,NA
+3731400,American Indian And Alaska Native Alone,NA,Bachelor's degree,"High Point city, North Carolina",NA,NA
+3731400,American Indian And Alaska Native Alone,NA,GED or alternative credential,"High Point city, North Carolina",NA,NA
+3731400,American Indian And Alaska Native Alone,NA,Graduate or professional degree,"High Point city, North Carolina",NA,NA
+3731400,American Indian And Alaska Native Alone,NA,Less than 9th grade,"High Point city, North Carolina",NA,NA
+3731400,American Indian And Alaska Native Alone,NA,Regular high school diploma,"High Point city, North Carolina",NA,NA
+3731400,American Indian And Alaska Native Alone,NA,"Some college, no degree","High Point city, North Carolina",NA,NA
+3731400,American Indian And Alaska Native Alone,NA,Total Population,"High Point city, North Carolina",NA,NA
+3755000,American Indian And Alaska Native Alone,NA,"9th to 12th grade, no diploma","Raleigh city, North Carolina",NA,NA
+3755000,American Indian And Alaska Native Alone,NA,Associate's degree,"Raleigh city, North Carolina",NA,NA
+3755000,American Indian And Alaska Native Alone,NA,Bachelor's degree,"Raleigh city, North Carolina",NA,NA
+3755000,American Indian And Alaska Native Alone,NA,GED or alternative credential,"Raleigh city, North Carolina",NA,NA
+3755000,American Indian And Alaska Native Alone,NA,Graduate or professional degree,"Raleigh city, North Carolina",NA,NA
+3755000,American Indian And Alaska Native Alone,NA,Less than 9th grade,"Raleigh city, North Carolina",NA,NA
+3755000,American Indian And Alaska Native Alone,NA,Regular high school diploma,"Raleigh city, North Carolina",NA,NA
+3755000,American Indian And Alaska Native Alone,NA,"Some college, no degree","Raleigh city, North Carolina",NA,NA
+3755000,American Indian And Alaska Native Alone,NA,Total Population,"Raleigh city, North Carolina",NA,NA
+3774440,American Indian And Alaska Native Alone,NA,"9th to 12th grade, no diploma","Wilmington city, North Carolina",NA,NA
+3774440,American Indian And Alaska Native Alone,NA,Associate's degree,"Wilmington city, North Carolina",NA,NA
+3774440,American Indian And Alaska Native Alone,NA,Bachelor's degree,"Wilmington city, North Carolina",NA,NA
+3774440,American Indian And Alaska Native Alone,NA,GED or alternative credential,"Wilmington city, North Carolina",NA,NA
+3774440,American Indian And Alaska Native Alone,NA,Graduate or professional degree,"Wilmington city, North Carolina",NA,NA
+3774440,American Indian And Alaska Native Alone,NA,Less than 9th grade,"Wilmington city, North Carolina",NA,NA
+3774440,American Indian And Alaska Native Alone,NA,Regular high school diploma,"Wilmington city, North Carolina",NA,NA
+3774440,American Indian And Alaska Native Alone,NA,"Some college, no degree","Wilmington city, North Carolina",NA,NA
+3774440,American Indian And Alaska Native Alone,NA,Total Population,"Wilmington city, North Carolina",NA,NA
+3775000,American Indian And Alaska Native Alone,NA,"9th to 12th grade, no diploma","Winston-Salem city, North Carolina",NA,NA
+3775000,American Indian And Alaska Native Alone,NA,Associate's degree,"Winston-Salem city, North Carolina",NA,NA
+3775000,American Indian And Alaska Native Alone,NA,Bachelor's degree,"Winston-Salem city, North Carolina",NA,NA
+3775000,American Indian And Alaska Native Alone,NA,GED or alternative credential,"Winston-Salem city, North Carolina",NA,NA
+3775000,American Indian And Alaska Native Alone,NA,Graduate or professional degree,"Winston-Salem city, North Carolina",NA,NA
+3775000,American Indian And Alaska Native Alone,NA,Less than 9th grade,"Winston-Salem city, North Carolina",NA,NA
+3775000,American Indian And Alaska Native Alone,NA,Regular high school diploma,"Winston-Salem city, North Carolina",NA,NA
+3775000,American Indian And Alaska Native Alone,NA,"Some college, no degree","Winston-Salem city, North Carolina",NA,NA
+3775000,American Indian And Alaska Native Alone,NA,Total Population,"Winston-Salem city, North Carolina",NA,NA
+3712000,Asian Alone,41937,"9th to 12th grade, no diploma","Charlotte city, North Carolina",1942,0.04630755657295467
+3712000,Asian Alone,41937,Associate's degree,"Charlotte city, North Carolina",1632,0.03891551613133987
+3712000,Asian Alone,41937,Bachelor's degree,"Charlotte city, North Carolina",12691,0.3026205975630112
+3712000,Asian Alone,41937,GED or alternative credential,"Charlotte city, North Carolina",394,0.009395044948374943
+3712000,Asian Alone,41937,Graduate or professional degree,"Charlotte city, North Carolina",13422,0.32005150583017383
+3712000,Asian Alone,41937,Less than 9th grade,"Charlotte city, North Carolina",5798,0.13825500154994397
+3712000,Asian Alone,41937,Regular high school diploma,"Charlotte city, North Carolina",2940,0.0701051577366049
+3712000,Asian Alone,41937,"Some college, no degree","Charlotte city, North Carolina",3118,0.07434961966759664
+3712000,Asian Alone,41937,Total Population,"Charlotte city, North Carolina",41937,1
+3719000,Asian Alone,10085,"9th to 12th grade, no diploma","Durham city, North Carolina",326,0.03232523549826475
+3719000,Asian Alone,10085,Associate's degree,"Durham city, North Carolina",584,0.05790778383738225
+3719000,Asian Alone,10085,Bachelor's degree,"Durham city, North Carolina",3129,0.31026276648487855
+3719000,Asian Alone,10085,GED or alternative credential,"Durham city, North Carolina",0,0
+3719000,Asian Alone,10085,Graduate or professional degree,"Durham city, North Carolina",4018,0.3984134853743183
+3719000,Asian Alone,10085,Less than 9th grade,"Durham city, North Carolina",620,0.06147744174516609
+3719000,Asian Alone,10085,Regular high school diploma,"Durham city, North Carolina",501,0.049677739216658405
+3719000,Asian Alone,10085,"Some college, no degree","Durham city, North Carolina",907,0.08993554784333169
+3719000,Asian Alone,10085,Total Population,"Durham city, North Carolina",10085,1
+3728000,Asian Alone,9264,"9th to 12th grade, no diploma","Greensboro city, North Carolina",896,0.09671848013816926
+3728000,Asian Alone,9264,Associate's degree,"Greensboro city, North Carolina",285,0.03076424870466321
+3728000,Asian Alone,9264,Bachelor's degree,"Greensboro city, North Carolina",1449,0.1564119170984456
+3728000,Asian Alone,9264,GED or alternative credential,"Greensboro city, North Carolina",467,0.050410189982728844
+3728000,Asian Alone,9264,Graduate or professional degree,"Greensboro city, North Carolina",1653,0.17843264248704663
+3728000,Asian Alone,9264,Less than 9th grade,"Greensboro city, North Carolina",1308,0.1411917098445596
+3728000,Asian Alone,9264,Regular high school diploma,"Greensboro city, North Carolina",786,0.08484455958549222
+3728000,Asian Alone,9264,"Some college, no degree","Greensboro city, North Carolina",2420,0.26122625215889467
+3728000,Asian Alone,9264,Total Population,"Greensboro city, North Carolina",9264,1
+3731400,Asian Alone,6593,"9th to 12th grade, no diploma","High Point city, North Carolina",346,0.05247990292734719
+3731400,Asian Alone,6593,Associate's degree,"High Point city, North Carolina",416,0.0630972243288336
+3731400,Asian Alone,6593,Bachelor's degree,"High Point city, North Carolina",1822,0.2763537084786895
+3731400,Asian Alone,6593,GED or alternative credential,"High Point city, North Carolina",42,0.006370392840891855
+3731400,Asian Alone,6593,Graduate or professional degree,"High Point city, North Carolina",780,0.11830729561656302
+3731400,Asian Alone,6593,Less than 9th grade,"High Point city, North Carolina",1345,0.2040042469285606
+3731400,Asian Alone,6593,Regular high school diploma,"High Point city, North Carolina",1079,0.1636584256029122
+3731400,Asian Alone,6593,"Some college, no degree","High Point city, North Carolina",763,0.11572880327620204
+3731400,Asian Alone,6593,Total Population,"High Point city, North Carolina",6593,1
+3755000,Asian Alone,15316,"9th to 12th grade, no diploma","Raleigh city, North Carolina",703,0.04589971271872552
+3755000,Asian Alone,15316,Associate's degree,"Raleigh city, North Carolina",488,0.03186210498824758
+3755000,Asian Alone,15316,Bachelor's degree,"Raleigh city, North Carolina",4615,0.30131888221467745
+3755000,Asian Alone,15316,GED or alternative credential,"Raleigh city, North Carolina",159,0.010381300600679029
+3755000,Asian Alone,15316,Graduate or professional degree,"Raleigh city, North Carolina",3837,0.2505223295899713
+3755000,Asian Alone,15316,Less than 9th grade,"Raleigh city, North Carolina",1740,0.11360668581875163
+3755000,Asian Alone,15316,Regular high school diploma,"Raleigh city, North Carolina",1986,0.12966832071036824
+3755000,Asian Alone,15316,"Some college, no degree","Raleigh city, North Carolina",1788,0.11674066335857926
+3755000,Asian Alone,15316,Total Population,"Raleigh city, North Carolina",15316,1
+3774440,Asian Alone,NA,"9th to 12th grade, no diploma","Wilmington city, North Carolina",NA,NA
+3774440,Asian Alone,NA,Associate's degree,"Wilmington city, North Carolina",NA,NA
+3774440,Asian Alone,NA,Bachelor's degree,"Wilmington city, North Carolina",NA,NA
+3774440,Asian Alone,NA,GED or alternative credential,"Wilmington city, North Carolina",NA,NA
+3774440,Asian Alone,NA,Graduate or professional degree,"Wilmington city, North Carolina",NA,NA
+3774440,Asian Alone,NA,Less than 9th grade,"Wilmington city, North Carolina",NA,NA
+3774440,Asian Alone,NA,Regular high school diploma,"Wilmington city, North Carolina",NA,NA
+3774440,Asian Alone,NA,"Some college, no degree","Wilmington city, North Carolina",NA,NA
+3774440,Asian Alone,NA,Total Population,"Wilmington city, North Carolina",NA,NA
+3775000,Asian Alone,NA,"9th to 12th grade, no diploma","Winston-Salem city, North Carolina",NA,NA
+3775000,Asian Alone,NA,Associate's degree,"Winston-Salem city, North Carolina",NA,NA
+3775000,Asian Alone,NA,Bachelor's degree,"Winston-Salem city, North Carolina",NA,NA
+3775000,Asian Alone,NA,GED or alternative credential,"Winston-Salem city, North Carolina",NA,NA
+3775000,Asian Alone,NA,Graduate or professional degree,"Winston-Salem city, North Carolina",NA,NA
+3775000,Asian Alone,NA,Less than 9th grade,"Winston-Salem city, North Carolina",NA,NA
+3775000,Asian Alone,NA,Regular high school diploma,"Winston-Salem city, North Carolina",NA,NA
+3775000,Asian Alone,NA,"Some college, no degree","Winston-Salem city, North Carolina",NA,NA
+3775000,Asian Alone,NA,Total Population,"Winston-Salem city, North Carolina",NA,NA
+3712000,Black Or African American Alone,207027,"9th to 12th grade, no diploma","Charlotte city, North Carolina",15938,0.07698512754375034
+3712000,Black Or African American Alone,207027,Associate's degree,"Charlotte city, North Carolina",20253,0.09782781955976756
+3712000,Black Or African American Alone,207027,Bachelor's degree,"Charlotte city, North Carolina",39705,0.1917865785622165
+3712000,Black Or African American Alone,207027,GED or alternative credential,"Charlotte city, North Carolina",4874,0.023542822916817613
+3712000,Black Or African American Alone,207027,Graduate or professional degree,"Charlotte city, North Carolina",19890,0.09607442507499021
+3712000,Black Or African American Alone,207027,Less than 9th grade,"Charlotte city, North Carolina",3744,0.01808459766117463
+3712000,Black Or African American Alone,207027,Regular high school diploma,"Charlotte city, North Carolina",42223,0.20394924333541037
+3712000,Black Or African American Alone,207027,"Some college, no degree","Charlotte city, North Carolina",60400,0.29174938534587275
+3712000,Black Or African American Alone,207027,Total Population,"Charlotte city, North Carolina",207027,1
+3719000,Black Or African American Alone,68085,"9th to 12th grade, no diploma","Durham city, North Carolina",4467,0.06560916501432033
+3719000,Black Or African American Alone,68085,Associate's degree,"Durham city, North Carolina",6990,0.10266578541528971
+3719000,Black Or African American Alone,68085,Bachelor's degree,"Durham city, North Carolina",12725,0.1868987295292649
+3719000,Black Or African American Alone,68085,GED or alternative credential,"Durham city, North Carolina",2856,0.041947565543071164
+3719000,Black Or African American Alone,68085,Graduate or professional degree,"Durham city, North Carolina",10355,0.15208930013953148
+3719000,Black Or African American Alone,68085,Less than 9th grade,"Durham city, North Carolina",1089,0.01599471249173827
+3719000,Black Or African American Alone,68085,Regular high school diploma,"Durham city, North Carolina",16055,0.23580818095028275
+3719000,Black Or African American Alone,68085,"Some college, no degree","Durham city, North Carolina",13548,0.19898656091650144
+3719000,Black Or African American Alone,68085,Total Population,"Durham city, North Carolina",68085,1
+3728000,Black Or African American Alone,74133,"9th to 12th grade, no diploma","Greensboro city, North Carolina",6737,0.09087720718168697
+3728000,Black Or African American Alone,74133,Associate's degree,"Greensboro city, North Carolina",7537,0.10166862261071317
+3728000,Black Or African American Alone,74133,Bachelor's degree,"Greensboro city, North Carolina",12966,0.17490186556594228
+3728000,Black Or African American Alone,74133,GED or alternative credential,"Greensboro city, North Carolina",2606,0.03515303576005288
+3728000,Black Or African American Alone,74133,Graduate or professional degree,"Greensboro city, North Carolina",7780,0.10494651504727989
+3728000,Black Or African American Alone,74133,Less than 9th grade,"Greensboro city, North Carolina",1164,0.015701509449233136
+3728000,Black Or African American Alone,74133,Regular high school diploma,"Greensboro city, North Carolina",16426,0.22157473729648064
+3728000,Black Or African American Alone,74133,"Some college, no degree","Greensboro city, North Carolina",18917,0.255176507088611
+3728000,Black Or African American Alone,74133,Total Population,"Greensboro city, North Carolina",74133,1
+3731400,Black Or African American Alone,25270,"9th to 12th grade, no diploma","High Point city, North Carolina",3143,0.12437673130193906
+3731400,Black Or African American Alone,25270,Associate's degree,"High Point city, North Carolina",2215,0.08765334388603087
+3731400,Black Or African American Alone,25270,Bachelor's degree,"High Point city, North Carolina",2560,0.10130589631974674
+3731400,Black Or African American Alone,25270,GED or alternative credential,"High Point city, North Carolina",1421,0.05623268698060942
+3731400,Black Or African American Alone,25270,Graduate or professional degree,"High Point city, North Carolina",2122,0.08397309062129006
+3731400,Black Or African American Alone,25270,Less than 9th grade,"High Point city, North Carolina",2117,0.08377522754254056
+3731400,Black Or African American Alone,25270,Regular high school diploma,"High Point city, North Carolina",6533,0.2585278986941037
+3731400,Black Or African American Alone,25270,"Some college, no degree","High Point city, North Carolina",5159,0.2041551246537396
+3731400,Black Or African American Alone,25270,Total Population,"High Point city, North Carolina",25270,1
+3755000,Black Or African American Alone,87233,"9th to 12th grade, no diploma","Raleigh city, North Carolina",7477,0.08571297559409856
+3755000,Black Or African American Alone,87233,Associate's degree,"Raleigh city, North Carolina",6050,0.06935448740728853
+3755000,Black Or African American Alone,87233,Bachelor's degree,"Raleigh city, North Carolina",18440,0.2113878921967604
+3755000,Black Or African American Alone,87233,GED or alternative credential,"Raleigh city, North Carolina",2611,0.029931333325690965
+3755000,Black Or African American Alone,87233,Graduate or professional degree,"Raleigh city, North Carolina",9705,0.11125376864260085
+3755000,Black Or African American Alone,87233,Less than 9th grade,"Raleigh city, North Carolina",1878,0.021528549975353365
+3755000,Black Or African American Alone,87233,Regular high school diploma,"Raleigh city, North Carolina",19243,0.2205931241617278
+3755000,Black Or African American Alone,87233,"Some college, no degree","Raleigh city, North Carolina",21829,0.25023786869647957
+3755000,Black Or African American Alone,87233,Total Population,"Raleigh city, North Carolina",87233,1
+3774440,Black Or African American Alone,15142,"9th to 12th grade, no diploma","Wilmington city, North Carolina",1464,0.09668471800290583
+3774440,Black Or African American Alone,15142,Associate's degree,"Wilmington city, North Carolina",661,0.043653414344208163
+3774440,Black Or African American Alone,15142,Bachelor's degree,"Wilmington city, North Carolina",2432,0.1606128648791441
+3774440,Black Or African American Alone,15142,GED or alternative credential,"Wilmington city, North Carolina",594,0.03922863558314622
+3774440,Black Or African American Alone,15142,Graduate or professional degree,"Wilmington city, North Carolina",449,0.029652621846519615
+3774440,Black Or African American Alone,15142,Less than 9th grade,"Wilmington city, North Carolina",143,0.0094439307885352
+3774440,Black Or African American Alone,15142,Regular high school diploma,"Wilmington city, North Carolina",5243,0.34625544842160877
+3774440,Black Or African American Alone,15142,"Some college, no degree","Wilmington city, North Carolina",4156,0.2744683661339321
+3774440,Black Or African American Alone,15142,Total Population,"Wilmington city, North Carolina",15142,1
+3775000,Black Or African American Alone,53573,"9th to 12th grade, no diploma","Winston-Salem city, North Carolina",5455,0.10182367983872473
+3775000,Black Or African American Alone,53573,Associate's degree,"Winston-Salem city, North Carolina",4509,0.08416553114441977
+3775000,Black Or African American Alone,53573,Bachelor's degree,"Winston-Salem city, North Carolina",6436,0.12013514270248073
+3775000,Black Or African American Alone,53573,GED or alternative credential,"Winston-Salem city, North Carolina",887,0.016556847665801802
+3775000,Black Or African American Alone,53573,Graduate or professional degree,"Winston-Salem city, North Carolina",3150,0.05879827525059265
+3775000,Black Or African American Alone,53573,Less than 9th grade,"Winston-Salem city, North Carolina",2318,0.04326806413678532
+3775000,Black Or African American Alone,53573,Regular high school diploma,"Winston-Salem city, North Carolina",18568,0.3465924999533347
+3775000,Black Or African American Alone,53573,"Some college, no degree","Winston-Salem city, North Carolina",12250,0.22865995930786032
+3775000,Black Or African American Alone,53573,Total Population,"Winston-Salem city, North Carolina",53573,1
+3712000,Hispanic Or Latino,68807,"9th to 12th grade, no diploma","Charlotte city, North Carolina",8121,0.11802578226052582
+3712000,Hispanic Or Latino,68807,Associate's degree,"Charlotte city, North Carolina",3392,0.04929730986672867
+3712000,Hispanic Or Latino,68807,Bachelor's degree,"Charlotte city, North Carolina",8600,0.12498728327059747
+3712000,Hispanic Or Latino,68807,GED or alternative credential,"Charlotte city, North Carolina",900,0.01308006452831834
+3712000,Hispanic Or Latino,68807,Graduate or professional degree,"Charlotte city, North Carolina",2551,0.03707471623526676
+3712000,Hispanic Or Latino,68807,Less than 9th grade,"Charlotte city, North Carolina",19147,0.2782711061374569
+3712000,Hispanic Or Latino,68807,Regular high school diploma,"Charlotte city, North Carolina",15469,0.22481724243172932
+3712000,Hispanic Or Latino,68807,"Some college, no degree","Charlotte city, North Carolina",10627,0.15444649526937665
+3712000,Hispanic Or Latino,68807,Total Population,"Charlotte city, North Carolina",68807,1
+3719000,Hispanic Or Latino,20037,"9th to 12th grade, no diploma","Durham city, North Carolina",1885,0.0940759594749713
+3719000,Hispanic Or Latino,20037,Associate's degree,"Durham city, North Carolina",409,0.02041223736088237
+3719000,Hispanic Or Latino,20037,Bachelor's degree,"Durham city, North Carolina",1594,0.07955282726955133
+3719000,Hispanic Or Latino,20037,GED or alternative credential,"Durham city, North Carolina",142,0.007086889254878475
+3719000,Hispanic Or Latino,20037,Graduate or professional degree,"Durham city, North Carolina",1112,0.05549732993961172
+3719000,Hispanic Or Latino,20037,Less than 9th grade,"Durham city, North Carolina",7764,0.38748315616110196
+3719000,Hispanic Or Latino,20037,Regular high school diploma,"Durham city, North Carolina",5050,0.2520337375854669
+3719000,Hispanic Or Latino,20037,"Some college, no degree","Durham city, North Carolina",2081,0.10385786295353595
+3719000,Hispanic Or Latino,20037,Total Population,"Durham city, North Carolina",20037,1
+3728000,Hispanic Or Latino,12758,"9th to 12th grade, no diploma","Greensboro city, North Carolina",1526,0.11961122432983226
+3728000,Hispanic Or Latino,12758,Associate's degree,"Greensboro city, North Carolina",964,0.07556043266969745
+3728000,Hispanic Or Latino,12758,Bachelor's degree,"Greensboro city, North Carolina",1501,0.11765166954068036
+3728000,Hispanic Or Latino,12758,GED or alternative credential,"Greensboro city, North Carolina",197,0.015441291738517009
+3728000,Hispanic Or Latino,12758,Graduate or professional degree,"Greensboro city, North Carolina",573,0.04491299576736166
+3728000,Hispanic Or Latino,12758,Less than 9th grade,"Greensboro city, North Carolina",3949,0.30953127449443485
+3728000,Hispanic Or Latino,12758,Regular high school diploma,"Greensboro city, North Carolina",2270,0.17792757485499294
+3728000,Hispanic Or Latino,12758,"Some college, no degree","Greensboro city, North Carolina",1778,0.13936353660448347
+3728000,Hispanic Or Latino,12758,Total Population,"Greensboro city, North Carolina",12758,1
+3731400,Hispanic Or Latino,5770,"9th to 12th grade, no diploma","High Point city, North Carolina",826,0.14315424610051994
+3731400,Hispanic Or Latino,5770,Associate's degree,"High Point city, North Carolina",270,0.04679376083188908
+3731400,Hispanic Or Latino,5770,Bachelor's degree,"High Point city, North Carolina",1029,0.1783362218370884
+3731400,Hispanic Or Latino,5770,GED or alternative credential,"High Point city, North Carolina",453,0.07850953206239168
+3731400,Hispanic Or Latino,5770,Graduate or professional degree,"High Point city, North Carolina",226,0.03916811091854419
+3731400,Hispanic Or Latino,5770,Less than 9th grade,"High Point city, North Carolina",1025,0.17764298093587522
+3731400,Hispanic Or Latino,5770,Regular high school diploma,"High Point city, North Carolina",1074,0.18613518197573656
+3731400,Hispanic Or Latino,5770,"Some college, no degree","High Point city, North Carolina",867,0.15025996533795494
+3731400,Hispanic Or Latino,5770,Total Population,"High Point city, North Carolina",5770,1
+3755000,Hispanic Or Latino,26246,"9th to 12th grade, no diploma","Raleigh city, North Carolina",3224,0.12283776575478168
+3755000,Hispanic Or Latino,26246,Associate's degree,"Raleigh city, North Carolina",1354,0.05158881353349082
+3755000,Hispanic Or Latino,26246,Bachelor's degree,"Raleigh city, North Carolina",4900,0.1866951154461632
+3755000,Hispanic Or Latino,26246,GED or alternative credential,"Raleigh city, North Carolina",1667,0.0635144402956641
+3755000,Hispanic Or Latino,26246,Graduate or professional degree,"Raleigh city, North Carolina",2670,0.10172978739617465
+3755000,Hispanic Or Latino,26246,Less than 9th grade,"Raleigh city, North Carolina",5817,0.22163377276537377
+3755000,Hispanic Or Latino,26246,Regular high school diploma,"Raleigh city, North Carolina",3457,0.1317153089994666
+3755000,Hispanic Or Latino,26246,"Some college, no degree","Raleigh city, North Carolina",3157,0.12028499580888516
+3755000,Hispanic Or Latino,26246,Total Population,"Raleigh city, North Carolina",26246,1
+3774440,Hispanic Or Latino,NA,"9th to 12th grade, no diploma","Wilmington city, North Carolina",NA,NA
+3774440,Hispanic Or Latino,NA,Associate's degree,"Wilmington city, North Carolina",NA,NA
+3774440,Hispanic Or Latino,NA,Bachelor's degree,"Wilmington city, North Carolina",NA,NA
+3774440,Hispanic Or Latino,NA,GED or alternative credential,"Wilmington city, North Carolina",NA,NA
+3774440,Hispanic Or Latino,NA,Graduate or professional degree,"Wilmington city, North Carolina",NA,NA
+3774440,Hispanic Or Latino,NA,Less than 9th grade,"Wilmington city, North Carolina",NA,NA
+3774440,Hispanic Or Latino,NA,Regular high school diploma,"Wilmington city, North Carolina",NA,NA
+3774440,Hispanic Or Latino,NA,"Some college, no degree","Wilmington city, North Carolina",NA,NA
+3774440,Hispanic Or Latino,NA,Total Population,"Wilmington city, North Carolina",NA,NA
+3775000,Hispanic Or Latino,17492,"9th to 12th grade, no diploma","Winston-Salem city, North Carolina",2076,0.11868282643494169
+3775000,Hispanic Or Latino,17492,Associate's degree,"Winston-Salem city, North Carolina",842,0.04813629087582895
+3775000,Hispanic Or Latino,17492,Bachelor's degree,"Winston-Salem city, North Carolina",2057,0.11759661559570089
+3775000,Hispanic Or Latino,17492,GED or alternative credential,"Winston-Salem city, North Carolina",365,0.020866681911731078
+3775000,Hispanic Or Latino,17492,Graduate or professional degree,"Winston-Salem city, North Carolina",134,0.007660644866224559
+3775000,Hispanic Or Latino,17492,Less than 9th grade,"Winston-Salem city, North Carolina",5639,0.3223759432883604
+3775000,Hispanic Or Latino,17492,Regular high school diploma,"Winston-Salem city, North Carolina",4579,0.2617768122570318
+3775000,Hispanic Or Latino,17492,"Some college, no degree","Winston-Salem city, North Carolina",1800,0.10290418477018065
+3775000,Hispanic Or Latino,17492,Total Population,"Winston-Salem city, North Carolina",17492,1
+3712000,Native Hawaiian And Other Pacific Islander Alone,NA,"9th to 12th grade, no diploma","Charlotte city, North Carolina",NA,NA
+3712000,Native Hawaiian And Other Pacific Islander Alone,NA,Associate's degree,"Charlotte city, North Carolina",NA,NA
+3712000,Native Hawaiian And Other Pacific Islander Alone,NA,Bachelor's degree,"Charlotte city, North Carolina",NA,NA
+3712000,Native Hawaiian And Other Pacific Islander Alone,NA,GED or alternative credential,"Charlotte city, North Carolina",NA,NA
+3712000,Native Hawaiian And Other Pacific Islander Alone,NA,Graduate or professional degree,"Charlotte city, North Carolina",NA,NA
+3712000,Native Hawaiian And Other Pacific Islander Alone,NA,Less than 9th grade,"Charlotte city, North Carolina",NA,NA
+3712000,Native Hawaiian And Other Pacific Islander Alone,NA,Regular high school diploma,"Charlotte city, North Carolina",NA,NA
+3712000,Native Hawaiian And Other Pacific Islander Alone,NA,"Some college, no degree","Charlotte city, North Carolina",NA,NA
+3712000,Native Hawaiian And Other Pacific Islander Alone,NA,Total Population,"Charlotte city, North Carolina",NA,NA
+3719000,Native Hawaiian And Other Pacific Islander Alone,NA,"9th to 12th grade, no diploma","Durham city, North Carolina",NA,NA
+3719000,Native Hawaiian And Other Pacific Islander Alone,NA,Associate's degree,"Durham city, North Carolina",NA,NA
+3719000,Native Hawaiian And Other Pacific Islander Alone,NA,Bachelor's degree,"Durham city, North Carolina",NA,NA
+3719000,Native Hawaiian And Other Pacific Islander Alone,NA,GED or alternative credential,"Durham city, North Carolina",NA,NA
+3719000,Native Hawaiian And Other Pacific Islander Alone,NA,Graduate or professional degree,"Durham city, North Carolina",NA,NA
+3719000,Native Hawaiian And Other Pacific Islander Alone,NA,Less than 9th grade,"Durham city, North Carolina",NA,NA
+3719000,Native Hawaiian And Other Pacific Islander Alone,NA,Regular high school diploma,"Durham city, North Carolina",NA,NA
+3719000,Native Hawaiian And Other Pacific Islander Alone,NA,"Some college, no degree","Durham city, North Carolina",NA,NA
+3719000,Native Hawaiian And Other Pacific Islander Alone,NA,Total Population,"Durham city, North Carolina",NA,NA
+3728000,Native Hawaiian And Other Pacific Islander Alone,NA,"9th to 12th grade, no diploma","Greensboro city, North Carolina",NA,NA
+3728000,Native Hawaiian And Other Pacific Islander Alone,NA,Associate's degree,"Greensboro city, North Carolina",NA,NA
+3728000,Native Hawaiian And Other Pacific Islander Alone,NA,Bachelor's degree,"Greensboro city, North Carolina",NA,NA
+3728000,Native Hawaiian And Other Pacific Islander Alone,NA,GED or alternative credential,"Greensboro city, North Carolina",NA,NA
+3728000,Native Hawaiian And Other Pacific Islander Alone,NA,Graduate or professional degree,"Greensboro city, North Carolina",NA,NA
+3728000,Native Hawaiian And Other Pacific Islander Alone,NA,Less than 9th grade,"Greensboro city, North Carolina",NA,NA
+3728000,Native Hawaiian And Other Pacific Islander Alone,NA,Regular high school diploma,"Greensboro city, North Carolina",NA,NA
+3728000,Native Hawaiian And Other Pacific Islander Alone,NA,"Some college, no degree","Greensboro city, North Carolina",NA,NA
+3728000,Native Hawaiian And Other Pacific Islander Alone,NA,Total Population,"Greensboro city, North Carolina",NA,NA
+3731400,Native Hawaiian And Other Pacific Islander Alone,NA,"9th to 12th grade, no diploma","High Point city, North Carolina",NA,NA
+3731400,Native Hawaiian And Other Pacific Islander Alone,NA,Associate's degree,"High Point city, North Carolina",NA,NA
+3731400,Native Hawaiian And Other Pacific Islander Alone,NA,Bachelor's degree,"High Point city, North Carolina",NA,NA
+3731400,Native Hawaiian And Other Pacific Islander Alone,NA,GED or alternative credential,"High Point city, North Carolina",NA,NA
+3731400,Native Hawaiian And Other Pacific Islander Alone,NA,Graduate or professional degree,"High Point city, North Carolina",NA,NA
+3731400,Native Hawaiian And Other Pacific Islander Alone,NA,Less than 9th grade,"High Point city, North Carolina",NA,NA
+3731400,Native Hawaiian And Other Pacific Islander Alone,NA,Regular high school diploma,"High Point city, North Carolina",NA,NA
+3731400,Native Hawaiian And Other Pacific Islander Alone,NA,"Some college, no degree","High Point city, North Carolina",NA,NA
+3731400,Native Hawaiian And Other Pacific Islander Alone,NA,Total Population,"High Point city, North Carolina",NA,NA
+3755000,Native Hawaiian And Other Pacific Islander Alone,NA,"9th to 12th grade, no diploma","Raleigh city, North Carolina",NA,NA
+3755000,Native Hawaiian And Other Pacific Islander Alone,NA,Associate's degree,"Raleigh city, North Carolina",NA,NA
+3755000,Native Hawaiian And Other Pacific Islander Alone,NA,Bachelor's degree,"Raleigh city, North Carolina",NA,NA
+3755000,Native Hawaiian And Other Pacific Islander Alone,NA,GED or alternative credential,"Raleigh city, North Carolina",NA,NA
+3755000,Native Hawaiian And Other Pacific Islander Alone,NA,Graduate or professional degree,"Raleigh city, North Carolina",NA,NA
+3755000,Native Hawaiian And Other Pacific Islander Alone,NA,Less than 9th grade,"Raleigh city, North Carolina",NA,NA
+3755000,Native Hawaiian And Other Pacific Islander Alone,NA,Regular high school diploma,"Raleigh city, North Carolina",NA,NA
+3755000,Native Hawaiian And Other Pacific Islander Alone,NA,"Some college, no degree","Raleigh city, North Carolina",NA,NA
+3755000,Native Hawaiian And Other Pacific Islander Alone,NA,Total Population,"Raleigh city, North Carolina",NA,NA
+3774440,Native Hawaiian And Other Pacific Islander Alone,NA,"9th to 12th grade, no diploma","Wilmington city, North Carolina",NA,NA
+3774440,Native Hawaiian And Other Pacific Islander Alone,NA,Associate's degree,"Wilmington city, North Carolina",NA,NA
+3774440,Native Hawaiian And Other Pacific Islander Alone,NA,Bachelor's degree,"Wilmington city, North Carolina",NA,NA
+3774440,Native Hawaiian And Other Pacific Islander Alone,NA,GED or alternative credential,"Wilmington city, North Carolina",NA,NA
+3774440,Native Hawaiian And Other Pacific Islander Alone,NA,Graduate or professional degree,"Wilmington city, North Carolina",NA,NA
+3774440,Native Hawaiian And Other Pacific Islander Alone,NA,Less than 9th grade,"Wilmington city, North Carolina",NA,NA
+3774440,Native Hawaiian And Other Pacific Islander Alone,NA,Regular high school diploma,"Wilmington city, North Carolina",NA,NA
+3774440,Native Hawaiian And Other Pacific Islander Alone,NA,"Some college, no degree","Wilmington city, North Carolina",NA,NA
+3774440,Native Hawaiian And Other Pacific Islander Alone,NA,Total Population,"Wilmington city, North Carolina",NA,NA
+3775000,Native Hawaiian And Other Pacific Islander Alone,NA,"9th to 12th grade, no diploma","Winston-Salem city, North Carolina",NA,NA
+3775000,Native Hawaiian And Other Pacific Islander Alone,NA,Associate's degree,"Winston-Salem city, North Carolina",NA,NA
+3775000,Native Hawaiian And Other Pacific Islander Alone,NA,Bachelor's degree,"Winston-Salem city, North Carolina",NA,NA
+3775000,Native Hawaiian And Other Pacific Islander Alone,NA,GED or alternative credential,"Winston-Salem city, North Carolina",NA,NA
+3775000,Native Hawaiian And Other Pacific Islander Alone,NA,Graduate or professional degree,"Winston-Salem city, North Carolina",NA,NA
+3775000,Native Hawaiian And Other Pacific Islander Alone,NA,Less than 9th grade,"Winston-Salem city, North Carolina",NA,NA
+3775000,Native Hawaiian And Other Pacific Islander Alone,NA,Regular high school diploma,"Winston-Salem city, North Carolina",NA,NA
+3775000,Native Hawaiian And Other Pacific Islander Alone,NA,"Some college, no degree","Winston-Salem city, North Carolina",NA,NA
+3775000,Native Hawaiian And Other Pacific Islander Alone,NA,Total Population,"Winston-Salem city, North Carolina",NA,NA
+3712000,Some Other Race Alone,30860,"9th to 12th grade, no diploma","Charlotte city, North Carolina",3049,0.09880103694102398
+3712000,Some Other Race Alone,30860,Associate's degree,"Charlotte city, North Carolina",1239,0.04014906027219702
+3712000,Some Other Race Alone,30860,Bachelor's degree,"Charlotte city, North Carolina",3026,0.09805573558003888
+3712000,Some Other Race Alone,30860,GED or alternative credential,"Charlotte city, North Carolina",482,0.015618924173687621
+3712000,Some Other Race Alone,30860,Graduate or professional degree,"Charlotte city, North Carolina",903,0.029261179520414776
+3712000,Some Other Race Alone,30860,Less than 9th grade,"Charlotte city, North Carolina",11298,0.3661049902786779
+3712000,Some Other Race Alone,30860,Regular high school diploma,"Charlotte city, North Carolina",7222,0.2340246273493195
+3712000,Some Other Race Alone,30860,"Some college, no degree","Charlotte city, North Carolina",3641,0.11798444588464031
+3712000,Some Other Race Alone,30860,Total Population,"Charlotte city, North Carolina",30860,1
+3719000,Some Other Race Alone,NA,"9th to 12th grade, no diploma","Durham city, North Carolina",NA,NA
+3719000,Some Other Race Alone,NA,Associate's degree,"Durham city, North Carolina",NA,NA
+3719000,Some Other Race Alone,NA,Bachelor's degree,"Durham city, North Carolina",NA,NA
+3719000,Some Other Race Alone,NA,GED or alternative credential,"Durham city, North Carolina",NA,NA
+3719000,Some Other Race Alone,NA,Graduate or professional degree,"Durham city, North Carolina",NA,NA
+3719000,Some Other Race Alone,NA,Less than 9th grade,"Durham city, North Carolina",NA,NA
+3719000,Some Other Race Alone,NA,Regular high school diploma,"Durham city, North Carolina",NA,NA
+3719000,Some Other Race Alone,NA,"Some college, no degree","Durham city, North Carolina",NA,NA
+3719000,Some Other Race Alone,NA,Total Population,"Durham city, North Carolina",NA,NA
+3728000,Some Other Race Alone,NA,"9th to 12th grade, no diploma","Greensboro city, North Carolina",NA,NA
+3728000,Some Other Race Alone,NA,Associate's degree,"Greensboro city, North Carolina",NA,NA
+3728000,Some Other Race Alone,NA,Bachelor's degree,"Greensboro city, North Carolina",NA,NA
+3728000,Some Other Race Alone,NA,GED or alternative credential,"Greensboro city, North Carolina",NA,NA
+3728000,Some Other Race Alone,NA,Graduate or professional degree,"Greensboro city, North Carolina",NA,NA
+3728000,Some Other Race Alone,NA,Less than 9th grade,"Greensboro city, North Carolina",NA,NA
+3728000,Some Other Race Alone,NA,Regular high school diploma,"Greensboro city, North Carolina",NA,NA
+3728000,Some Other Race Alone,NA,"Some college, no degree","Greensboro city, North Carolina",NA,NA
+3728000,Some Other Race Alone,NA,Total Population,"Greensboro city, North Carolina",NA,NA
+3731400,Some Other Race Alone,NA,"9th to 12th grade, no diploma","High Point city, North Carolina",NA,NA
+3731400,Some Other Race Alone,NA,Associate's degree,"High Point city, North Carolina",NA,NA
+3731400,Some Other Race Alone,NA,Bachelor's degree,"High Point city, North Carolina",NA,NA
+3731400,Some Other Race Alone,NA,GED or alternative credential,"High Point city, North Carolina",NA,NA
+3731400,Some Other Race Alone,NA,Graduate or professional degree,"High Point city, North Carolina",NA,NA
+3731400,Some Other Race Alone,NA,Less than 9th grade,"High Point city, North Carolina",NA,NA
+3731400,Some Other Race Alone,NA,Regular high school diploma,"High Point city, North Carolina",NA,NA
+3731400,Some Other Race Alone,NA,"Some college, no degree","High Point city, North Carolina",NA,NA
+3731400,Some Other Race Alone,NA,Total Population,"High Point city, North Carolina",NA,NA
+3755000,Some Other Race Alone,NA,"9th to 12th grade, no diploma","Raleigh city, North Carolina",NA,NA
+3755000,Some Other Race Alone,NA,Associate's degree,"Raleigh city, North Carolina",NA,NA
+3755000,Some Other Race Alone,NA,Bachelor's degree,"Raleigh city, North Carolina",NA,NA
+3755000,Some Other Race Alone,NA,GED or alternative credential,"Raleigh city, North Carolina",NA,NA
+3755000,Some Other Race Alone,NA,Graduate or professional degree,"Raleigh city, North Carolina",NA,NA
+3755000,Some Other Race Alone,NA,Less than 9th grade,"Raleigh city, North Carolina",NA,NA
+3755000,Some Other Race Alone,NA,Regular high school diploma,"Raleigh city, North Carolina",NA,NA
+3755000,Some Other Race Alone,NA,"Some college, no degree","Raleigh city, North Carolina",NA,NA
+3755000,Some Other Race Alone,NA,Total Population,"Raleigh city, North Carolina",NA,NA
+3774440,Some Other Race Alone,NA,"9th to 12th grade, no diploma","Wilmington city, North Carolina",NA,NA
+3774440,Some Other Race Alone,NA,Associate's degree,"Wilmington city, North Carolina",NA,NA
+3774440,Some Other Race Alone,NA,Bachelor's degree,"Wilmington city, North Carolina",NA,NA
+3774440,Some Other Race Alone,NA,GED or alternative credential,"Wilmington city, North Carolina",NA,NA
+3774440,Some Other Race Alone,NA,Graduate or professional degree,"Wilmington city, North Carolina",NA,NA
+3774440,Some Other Race Alone,NA,Less than 9th grade,"Wilmington city, North Carolina",NA,NA
+3774440,Some Other Race Alone,NA,Regular high school diploma,"Wilmington city, North Carolina",NA,NA
+3774440,Some Other Race Alone,NA,"Some college, no degree","Wilmington city, North Carolina",NA,NA
+3774440,Some Other Race Alone,NA,Total Population,"Wilmington city, North Carolina",NA,NA
+3775000,Some Other Race Alone,4014,"9th to 12th grade, no diploma","Winston-Salem city, North Carolina",473,0.11783756851021425
+3775000,Some Other Race Alone,4014,Associate's degree,"Winston-Salem city, North Carolina",98,0.024414549078226207
+3775000,Some Other Race Alone,4014,Bachelor's degree,"Winston-Salem city, North Carolina",501,0.12481315396113603
+3775000,Some Other Race Alone,4014,GED or alternative credential,"Winston-Salem city, North Carolina",48,0.01195814648729447
+3775000,Some Other Race Alone,4014,Graduate or professional degree,"Winston-Salem city, North Carolina",0,0
+3775000,Some Other Race Alone,4014,Less than 9th grade,"Winston-Salem city, North Carolina",1159,0.2887394120577977
+3775000,Some Other Race Alone,4014,Regular high school diploma,"Winston-Salem city, North Carolina",842,0.20976581963129048
+3775000,Some Other Race Alone,4014,"Some college, no degree","Winston-Salem city, North Carolina",893,0.22247135027404086
+3775000,Some Other Race Alone,4014,Total Population,"Winston-Salem city, North Carolina",4014,1
+3712000,Two Or More Races,9538,"9th to 12th grade, no diploma","Charlotte city, North Carolina",742,0.07779408681065213
+3712000,Two Or More Races,9538,Associate's degree,"Charlotte city, North Carolina",1070,0.11218284755713986
+3712000,Two Or More Races,9538,Bachelor's degree,"Charlotte city, North Carolina",3078,0.32270916334661354
+3712000,Two Or More Races,9538,GED or alternative credential,"Charlotte city, North Carolina",277,0.029041727825539945
+3712000,Two Or More Races,9538,Graduate or professional degree,"Charlotte city, North Carolina",1324,0.13881316837911511
+3712000,Two Or More Races,9538,Less than 9th grade,"Charlotte city, North Carolina",82,0.008597190186621933
+3712000,Two Or More Races,9538,Regular high school diploma,"Charlotte city, North Carolina",1090,0.1142797232124135
+3712000,Two Or More Races,9538,"Some college, no degree","Charlotte city, North Carolina",1875,0.19658209268190396
+3712000,Two Or More Races,9538,Total Population,"Charlotte city, North Carolina",9538,1
+3719000,Two Or More Races,NA,"9th to 12th grade, no diploma","Durham city, North Carolina",NA,NA
+3719000,Two Or More Races,NA,Associate's degree,"Durham city, North Carolina",NA,NA
+3719000,Two Or More Races,NA,Bachelor's degree,"Durham city, North Carolina",NA,NA
+3719000,Two Or More Races,NA,GED or alternative credential,"Durham city, North Carolina",NA,NA
+3719000,Two Or More Races,NA,Graduate or professional degree,"Durham city, North Carolina",NA,NA
+3719000,Two Or More Races,NA,Less than 9th grade,"Durham city, North Carolina",NA,NA
+3719000,Two Or More Races,NA,Regular high school diploma,"Durham city, North Carolina",NA,NA
+3719000,Two Or More Races,NA,"Some college, no degree","Durham city, North Carolina",NA,NA
+3719000,Two Or More Races,NA,Total Population,"Durham city, North Carolina",NA,NA
+3728000,Two Or More Races,NA,"9th to 12th grade, no diploma","Greensboro city, North Carolina",NA,NA
+3728000,Two Or More Races,NA,Associate's degree,"Greensboro city, North Carolina",NA,NA
+3728000,Two Or More Races,NA,Bachelor's degree,"Greensboro city, North Carolina",NA,NA
+3728000,Two Or More Races,NA,GED or alternative credential,"Greensboro city, North Carolina",NA,NA
+3728000,Two Or More Races,NA,Graduate or professional degree,"Greensboro city, North Carolina",NA,NA
+3728000,Two Or More Races,NA,Less than 9th grade,"Greensboro city, North Carolina",NA,NA
+3728000,Two Or More Races,NA,Regular high school diploma,"Greensboro city, North Carolina",NA,NA
+3728000,Two Or More Races,NA,"Some college, no degree","Greensboro city, North Carolina",NA,NA
+3728000,Two Or More Races,NA,Total Population,"Greensboro city, North Carolina",NA,NA
+3731400,Two Or More Races,NA,"9th to 12th grade, no diploma","High Point city, North Carolina",NA,NA
+3731400,Two Or More Races,NA,Associate's degree,"High Point city, North Carolina",NA,NA
+3731400,Two Or More Races,NA,Bachelor's degree,"High Point city, North Carolina",NA,NA
+3731400,Two Or More Races,NA,GED or alternative credential,"High Point city, North Carolina",NA,NA
+3731400,Two Or More Races,NA,Graduate or professional degree,"High Point city, North Carolina",NA,NA
+3731400,Two Or More Races,NA,Less than 9th grade,"High Point city, North Carolina",NA,NA
+3731400,Two Or More Races,NA,Regular high school diploma,"High Point city, North Carolina",NA,NA
+3731400,Two Or More Races,NA,"Some college, no degree","High Point city, North Carolina",NA,NA
+3731400,Two Or More Races,NA,Total Population,"High Point city, North Carolina",NA,NA
+3755000,Two Or More Races,NA,"9th to 12th grade, no diploma","Raleigh city, North Carolina",NA,NA
+3755000,Two Or More Races,NA,Associate's degree,"Raleigh city, North Carolina",NA,NA
+3755000,Two Or More Races,NA,Bachelor's degree,"Raleigh city, North Carolina",NA,NA
+3755000,Two Or More Races,NA,GED or alternative credential,"Raleigh city, North Carolina",NA,NA
+3755000,Two Or More Races,NA,Graduate or professional degree,"Raleigh city, North Carolina",NA,NA
+3755000,Two Or More Races,NA,Less than 9th grade,"Raleigh city, North Carolina",NA,NA
+3755000,Two Or More Races,NA,Regular high school diploma,"Raleigh city, North Carolina",NA,NA
+3755000,Two Or More Races,NA,"Some college, no degree","Raleigh city, North Carolina",NA,NA
+3755000,Two Or More Races,NA,Total Population,"Raleigh city, North Carolina",NA,NA
+3774440,Two Or More Races,NA,"9th to 12th grade, no diploma","Wilmington city, North Carolina",NA,NA
+3774440,Two Or More Races,NA,Associate's degree,"Wilmington city, North Carolina",NA,NA
+3774440,Two Or More Races,NA,Bachelor's degree,"Wilmington city, North Carolina",NA,NA
+3774440,Two Or More Races,NA,GED or alternative credential,"Wilmington city, North Carolina",NA,NA
+3774440,Two Or More Races,NA,Graduate or professional degree,"Wilmington city, North Carolina",NA,NA
+3774440,Two Or More Races,NA,Less than 9th grade,"Wilmington city, North Carolina",NA,NA
+3774440,Two Or More Races,NA,Regular high school diploma,"Wilmington city, North Carolina",NA,NA
+3774440,Two Or More Races,NA,"Some college, no degree","Wilmington city, North Carolina",NA,NA
+3774440,Two Or More Races,NA,Total Population,"Wilmington city, North Carolina",NA,NA
+3775000,Two Or More Races,NA,"9th to 12th grade, no diploma","Winston-Salem city, North Carolina",NA,NA
+3775000,Two Or More Races,NA,Associate's degree,"Winston-Salem city, North Carolina",NA,NA
+3775000,Two Or More Races,NA,Bachelor's degree,"Winston-Salem city, North Carolina",NA,NA
+3775000,Two Or More Races,NA,GED or alternative credential,"Winston-Salem city, North Carolina",NA,NA
+3775000,Two Or More Races,NA,Graduate or professional degree,"Winston-Salem city, North Carolina",NA,NA
+3775000,Two Or More Races,NA,Less than 9th grade,"Winston-Salem city, North Carolina",NA,NA
+3775000,Two Or More Races,NA,Regular high school diploma,"Winston-Salem city, North Carolina",NA,NA
+3775000,Two Or More Races,NA,"Some college, no degree","Winston-Salem city, North Carolina",NA,NA
+3775000,Two Or More Races,NA,Total Population,"Winston-Salem city, North Carolina",NA,NA
+3712000,White Alone,296854,"9th to 12th grade, no diploma","Charlotte city, North Carolina",10326,0.03478477635470635
+3712000,White Alone,296854,Associate's degree,"Charlotte city, North Carolina",21268,0.07164464686344128
+3712000,White Alone,296854,Bachelor's degree,"Charlotte city, North Carolina",110999,0.37391781818671804
+3712000,White Alone,296854,GED or alternative credential,"Charlotte city, North Carolina",4180,0.014080996045193934
+3712000,White Alone,296854,Graduate or professional degree,"Charlotte city, North Carolina",55260,0.18615211518120017
+3712000,White Alone,296854,Less than 9th grade,"Charlotte city, North Carolina",10757,0.03623666853065817
+3712000,White Alone,296854,Regular high school diploma,"Charlotte city, North Carolina",34939,0.11769758871364375
+3712000,White Alone,296854,"Some college, no degree","Charlotte city, North Carolina",49125,0.16548539012443828
+3712000,White Alone,296854,Total Population,"Charlotte city, North Carolina",296854,1
+3719000,White Alone,98513,"9th to 12th grade, no diploma","Durham city, North Carolina",2443,0.024798757524387646
+3719000,White Alone,98513,Associate's degree,"Durham city, North Carolina",5605,0.05689604417691066
+3719000,White Alone,98513,Bachelor's degree,"Durham city, North Carolina",30168,0.306233695045324
+3719000,White Alone,98513,GED or alternative credential,"Durham city, North Carolina",1480,0.015023397927177124
+3719000,White Alone,98513,Graduate or professional degree,"Durham city, North Carolina",27402,0.27815618243277535
+3719000,White Alone,98513,Less than 9th grade,"Durham city, North Carolina",7180,0.07288378183589983
+3719000,White Alone,98513,Regular high school diploma,"Durham city, North Carolina",10989,0.11154872960929015
+3719000,White Alone,98513,"Some college, no degree","Durham city, North Carolina",13246,0.13445941144823526
+3719000,White Alone,98513,Total Population,"Durham city, North Carolina",98513,1
+3728000,White Alone,102731,"9th to 12th grade, no diploma","Greensboro city, North Carolina",4052,0.03944281667656306
+3728000,White Alone,102731,Associate's degree,"Greensboro city, North Carolina",9139,0.08896048904420283
+3728000,White Alone,102731,Bachelor's degree,"Greensboro city, North Carolina",33019,0.32141223194556656
+3728000,White Alone,102731,GED or alternative credential,"Greensboro city, North Carolina",2563,0.024948652305535817
+3728000,White Alone,102731,Graduate or professional degree,"Greensboro city, North Carolina",18624,0.18128899747885255
+3728000,White Alone,102731,Less than 9th grade,"Greensboro city, North Carolina",3651,0.03553941848127634
+3728000,White Alone,102731,Regular high school diploma,"Greensboro city, North Carolina",13167,0.12816968587865396
+3728000,White Alone,102731,"Some college, no degree","Greensboro city, North Carolina",18516,0.1802377081893489
+3728000,White Alone,102731,Total Population,"Greensboro city, North Carolina",102731,1
+3731400,White Alone,37832,"9th to 12th grade, no diploma","High Point city, North Carolina",2355,0.06224888982871643
+3731400,White Alone,37832,Associate's degree,"High Point city, North Carolina",2804,0.0741171495030662
+3731400,White Alone,37832,Bachelor's degree,"High Point city, North Carolina",10517,0.2779921759357158
+3731400,White Alone,37832,GED or alternative credential,"High Point city, North Carolina",1427,0.03771939099175301
+3731400,White Alone,37832,Graduate or professional degree,"High Point city, North Carolina",4546,0.12016282512159018
+3731400,White Alone,37832,Less than 9th grade,"High Point city, North Carolina",1004,0.02653838020723197
+3731400,White Alone,37832,Regular high school diploma,"High Point city, North Carolina",7690,0.20326707549164727
+3731400,White Alone,37832,"Some college, no degree","High Point city, North Carolina",7489,0.19795411292027912
+3731400,White Alone,37832,Total Population,"High Point city, North Carolina",37832,1
+3755000,White Alone,192220,"9th to 12th grade, no diploma","Raleigh city, North Carolina",4308,0.02241181978982416
+3755000,White Alone,192220,Associate's degree,"Raleigh city, North Carolina",13309,0.06923837269795026
+3755000,White Alone,192220,Bachelor's degree,"Raleigh city, North Carolina",80568,0.4191447299968786
+3755000,White Alone,192220,GED or alternative credential,"Raleigh city, North Carolina",2561,0.013323275413588596
+3755000,White Alone,192220,Graduate or professional degree,"Raleigh city, North Carolina",44194,0.2299136406201228
+3755000,White Alone,192220,Less than 9th grade,"Raleigh city, North Carolina",2022,0.010519196753719696
+3755000,White Alone,192220,Regular high school diploma,"Raleigh city, North Carolina",17666,0.09190510872958069
+3755000,White Alone,192220,"Some college, no degree","Raleigh city, North Carolina",27592,0.14354385599833525
+3755000,White Alone,192220,Total Population,"Raleigh city, North Carolina",192220,1
+3774440,White Alone,62360,"9th to 12th grade, no diploma","Wilmington city, North Carolina",2629,0.042158434894162926
+3774440,White Alone,62360,Associate's degree,"Wilmington city, North Carolina",5451,0.08741180243745991
+3774440,White Alone,62360,Bachelor's degree,"Wilmington city, North Carolina",20796,0.33348300192431046
+3774440,White Alone,62360,GED or alternative credential,"Wilmington city, North Carolina",2006,0.032168056446440024
+3774440,White Alone,62360,Graduate or professional degree,"Wilmington city, North Carolina",8227,0.13192751763951252
+3774440,White Alone,62360,Less than 9th grade,"Wilmington city, North Carolina",662,0.010615779345734445
+3774440,White Alone,62360,Regular high school diploma,"Wilmington city, North Carolina",9592,0.15381654906991662
+3774440,White Alone,62360,"Some college, no degree","Wilmington city, North Carolina",12997,0.20841885824246312
+3774440,White Alone,62360,Total Population,"Wilmington city, North Carolina",62360,1
+3775000,White Alone,94676,"9th to 12th grade, no diploma","Winston-Salem city, North Carolina",3891,0.04109806075457349
+3775000,White Alone,94676,Associate's degree,"Winston-Salem city, North Carolina",6927,0.07316532172884363
+3775000,White Alone,94676,Bachelor's degree,"Winston-Salem city, North Carolina",23640,0.2496936921711944
+3775000,White Alone,94676,GED or alternative credential,"Winston-Salem city, North Carolina",2697,0.028486628078921796
+3775000,White Alone,94676,Graduate or professional degree,"Winston-Salem city, North Carolina",17459,0.184407875279902
+3775000,White Alone,94676,Less than 9th grade,"Winston-Salem city, North Carolina",4778,0.05046685538045545
+3775000,White Alone,94676,Regular high school diploma,"Winston-Salem city, North Carolina",16686,0.1762431872913938
+3775000,White Alone,94676,"Some college, no degree","Winston-Salem city, North Carolina",18598,0.19643837931471544
+3775000,White Alone,94676,Total Population,"Winston-Salem city, North Carolina",94676,1
+3712000,"White Alone, Not Hispanic Or Latino",264327,"9th to 12th grade, no diploma","Charlotte city, North Carolina",5968,0.022578094557120537
+3712000,"White Alone, Not Hispanic Or Latino",264327,Associate's degree,"Charlotte city, North Carolina",19716,0.07458942900271255
+3712000,"White Alone, Not Hispanic Or Latino",264327,Bachelor's degree,"Charlotte city, North Carolina",105742,0.40004237175922247
+3712000,"White Alone, Not Hispanic Or Latino",264327,GED or alternative credential,"Charlotte city, North Carolina",3814,0.014429097292368923
+3712000,"White Alone, Not Hispanic Or Latino",264327,Graduate or professional degree,"Charlotte city, North Carolina",53856,0.2037476307755167
+3712000,"White Alone, Not Hispanic Or Latino",264327,Less than 9th grade,"Charlotte city, North Carolina",3298,0.012476969813904747
+3712000,"White Alone, Not Hispanic Or Latino",264327,Regular high school diploma,"Charlotte city, North Carolina",27923,0.10563809221154101
+3712000,"White Alone, Not Hispanic Or Latino",264327,"Some college, no degree","Charlotte city, North Carolina",44010,0.16649831458761308
+3712000,"White Alone, Not Hispanic Or Latino",264327,Total Population,"Charlotte city, North Carolina",264327,1
+3719000,"White Alone, Not Hispanic Or Latino",84614,"9th to 12th grade, no diploma","Durham city, North Carolina",1241,0.014666603635332214
+3719000,"White Alone, Not Hispanic Or Latino",84614,Associate's degree,"Durham city, North Carolina",5384,0.06363013212943484
+3719000,"White Alone, Not Hispanic Or Latino",84614,Bachelor's degree,"Durham city, North Carolina",29397,0.3474247760417898
+3719000,"White Alone, Not Hispanic Or Latino",84614,GED or alternative credential,"Durham city, North Carolina",1473,0.017408466684000284
+3719000,"White Alone, Not Hispanic Or Latino",84614,Graduate or professional degree,"Durham city, North Carolina",26605,0.3144278724560947
+3719000,"White Alone, Not Hispanic Or Latino",84614,Less than 9th grade,"Durham city, North Carolina",905,0.010695629564847424
+3719000,"White Alone, Not Hispanic Or Latino",84614,Regular high school diploma,"Durham city, North Carolina",7373,0.08713688042167962
+3719000,"White Alone, Not Hispanic Or Latino",84614,"Some college, no degree","Durham city, North Carolina",12236,0.1446096390668211
+3719000,"White Alone, Not Hispanic Or Latino",84614,Total Population,"Durham city, North Carolina",84614,1
+3728000,"White Alone, Not Hispanic Or Latino",93273,"9th to 12th grade, no diploma","Greensboro city, North Carolina",2791,0.02992291445541582
+3728000,"White Alone, Not Hispanic Or Latino",93273,Associate's degree,"Greensboro city, North Carolina",8340,0.08941494323116014
+3728000,"White Alone, Not Hispanic Or Latino",93273,Bachelor's degree,"Greensboro city, North Carolina",31641,0.3392300022514554
+3728000,"White Alone, Not Hispanic Or Latino",93273,GED or alternative credential,"Greensboro city, North Carolina",2438,0.02613832513160293
+3728000,"White Alone, Not Hispanic Or Latino",93273,Graduate or professional degree,"Greensboro city, North Carolina",18173,0.19483666227096802
+3728000,"White Alone, Not Hispanic Or Latino",93273,Less than 9th grade,"Greensboro city, North Carolina",954,0.010228040268888103
+3728000,"White Alone, Not Hispanic Or Latino",93273,Regular high school diploma,"Greensboro city, North Carolina",11944,0.12805420646918186
+3728000,"White Alone, Not Hispanic Or Latino",93273,"Some college, no degree","Greensboro city, North Carolina",16992,0.1821749059213277
+3728000,"White Alone, Not Hispanic Or Latino",93273,Total Population,"Greensboro city, North Carolina",93273,1
+3731400,"White Alone, Not Hispanic Or Latino",35439,"9th to 12th grade, no diploma","High Point city, North Carolina",1961,0.05533451846835407
+3731400,"White Alone, Not Hispanic Or Latino",35439,Associate's degree,"High Point city, North Carolina",2758,0.07782386636191767
+3731400,"White Alone, Not Hispanic Or Latino",35439,Bachelor's degree,"High Point city, North Carolina",9944,0.28059482491040943
+3731400,"White Alone, Not Hispanic Or Latino",35439,GED or alternative credential,"High Point city, North Carolina",1159,0.032704083072321456
+3731400,"White Alone, Not Hispanic Or Latino",35439,Graduate or professional degree,"High Point city, North Carolina",4419,0.12469313468212986
+3731400,"White Alone, Not Hispanic Or Latino",35439,Less than 9th grade,"High Point city, North Carolina",815,0.0229972629024521
+3731400,"White Alone, Not Hispanic Or Latino",35439,Regular high school diploma,"High Point city, North Carolina",7029,0.1983408109709642
+3731400,"White Alone, Not Hispanic Or Latino",35439,"Some college, no degree","High Point city, North Carolina",7354,0.2075114986314512
+3731400,"White Alone, Not Hispanic Or Latino",35439,Total Population,"High Point city, North Carolina",35439,1
+3755000,"White Alone, Not Hispanic Or Latino",181284,"9th to 12th grade, no diploma","Raleigh city, North Carolina",3364,0.018556519052977647
+3755000,"White Alone, Not Hispanic Or Latino",181284,Associate's degree,"Raleigh city, North Carolina",12381,0.06829615410074799
+3755000,"White Alone, Not Hispanic Or Latino",181284,Bachelor's degree,"Raleigh city, North Carolina",77689,0.428548575715452
+3755000,"White Alone, Not Hispanic Or Latino",181284,GED or alternative credential,"Raleigh city, North Carolina",1921,0.010596632907482183
+3755000,"White Alone, Not Hispanic Or Latino",181284,Graduate or professional degree,"Raleigh city, North Carolina",42601,0.23499591800710487
+3755000,"White Alone, Not Hispanic Or Latino",181284,Less than 9th grade,"Raleigh city, North Carolina",778,0.004291608746497208
+3755000,"White Alone, Not Hispanic Or Latino",181284,Regular high school diploma,"Raleigh city, North Carolina",16479,0.09090156880916131
+3755000,"White Alone, Not Hispanic Or Latino",181284,"Some college, no degree","Raleigh city, North Carolina",26071,0.14381302266057677
+3755000,"White Alone, Not Hispanic Or Latino",181284,Total Population,"Raleigh city, North Carolina",181284,1
+3774440,"White Alone, Not Hispanic Or Latino",58844,"9th to 12th grade, no diploma","Wilmington city, North Carolina",2492,0.04234926245666508
+3774440,"White Alone, Not Hispanic Or Latino",58844,Associate's degree,"Wilmington city, North Carolina",5386,0.09153014750866699
+3774440,"White Alone, Not Hispanic Or Latino",58844,Bachelor's degree,"Wilmington city, North Carolina",20326,0.34542179321596084
+3774440,"White Alone, Not Hispanic Or Latino",58844,GED or alternative credential,"Wilmington city, North Carolina",1597,0.02713955543470872
+3774440,"White Alone, Not Hispanic Or Latino",58844,Graduate or professional degree,"Wilmington city, North Carolina",8147,0.138450819114948
+3774440,"White Alone, Not Hispanic Or Latino",58844,Less than 9th grade,"Wilmington city, North Carolina",532,0.009040853782883556
+3774440,"White Alone, Not Hispanic Or Latino",58844,Regular high school diploma,"Wilmington city, North Carolina",8035,0.1365474814764462
+3774440,"White Alone, Not Hispanic Or Latino",58844,"Some college, no degree","Wilmington city, North Carolina",12329,0.2095200870097206
+3774440,"White Alone, Not Hispanic Or Latino",58844,Total Population,"Wilmington city, North Carolina",58844,1
+3775000,"White Alone, Not Hispanic Or Latino",82862,"9th to 12th grade, no diploma","Winston-Salem city, North Carolina",2556,0.030846467620863606
+3775000,"White Alone, Not Hispanic Or Latino",82862,Associate's degree,"Winston-Salem city, North Carolina",6183,0.07461803963215949
+3775000,"White Alone, Not Hispanic Or Latino",82862,Bachelor's degree,"Winston-Salem city, North Carolina",22302,0.2691462914242958
+3775000,"White Alone, Not Hispanic Or Latino",82862,GED or alternative credential,"Winston-Salem city, North Carolina",2454,0.02961550529796529
+3775000,"White Alone, Not Hispanic Or Latino",82862,Graduate or professional degree,"Winston-Salem city, North Carolina",17325,0.20908257102169872
+3775000,"White Alone, Not Hispanic Or Latino",82862,Less than 9th grade,"Winston-Salem city, North Carolina",1217,0.014687070068306341
+3775000,"White Alone, Not Hispanic Or Latino",82862,Regular high school diploma,"Winston-Salem city, North Carolina",13420,0.16195602326760156
+3775000,"White Alone, Not Hispanic Or Latino",82862,"Some college, no degree","Winston-Salem city, North Carolina",17405,0.21004803166710917
+3775000,"White Alone, Not Hispanic Or Latino",82862,Total Population,"Winston-Salem city, North Carolina",82862,1

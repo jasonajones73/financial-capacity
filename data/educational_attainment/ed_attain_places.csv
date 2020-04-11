@@ -1,0 +1,1443 @@
+GEOID,NAME,variable,estimate,moe,label,concept
+3712000,"Charlotte city, North Carolina",B15002_001,589220,4083,Total,All Population
+3719000,"Durham city, North Carolina",B15002_001,187500,1562,Total,All Population
+3728000,"Greensboro city, North Carolina",B15002_001,193816,3862,Total,All Population
+3731400,"High Point city, North Carolina",B15002_001,74945,3319,Total,All Population
+3755000,"Raleigh city, North Carolina",B15002_001,315891,4810,Total,All Population
+3774440,"Wilmington city, North Carolina",B15002_001,80368,2640,Total,All Population
+3775000,"Winston-Salem city, North Carolina",B15002_001,160647,2241,Total,All Population
+3712000,"Charlotte city, North Carolina",B15002_002,278413,2815,Total!!Male,NA
+3719000,"Durham city, North Carolina",B15002_002,86415,1566,Total!!Male,NA
+3728000,"Greensboro city, North Carolina",B15002_002,89130,2600,Total!!Male,NA
+3731400,"High Point city, North Carolina",B15002_002,34211,2291,Total!!Male,NA
+3755000,"Raleigh city, North Carolina",B15002_002,149803,4110,Total!!Male,NA
+3774440,"Wilmington city, North Carolina",B15002_002,37636,2151,Total!!Male,NA
+3775000,"Winston-Salem city, North Carolina",B15002_002,74013,1640,Total!!Male,NA
+3712000,"Charlotte city, North Carolina",B15002_003,5444,1503,Total!!Male!!No schooling completed,NA
+3719000,"Durham city, North Carolina",B15002_003,1456,820,Total!!Male!!No schooling completed,NA
+3728000,"Greensboro city, North Carolina",B15002_003,906,565,Total!!Male!!No schooling completed,NA
+3731400,"High Point city, North Carolina",B15002_003,632,382,Total!!Male!!No schooling completed,NA
+3755000,"Raleigh city, North Carolina",B15002_003,1368,568,Total!!Male!!No schooling completed,NA
+3774440,"Wilmington city, North Carolina",B15002_003,73,124,Total!!Male!!No schooling completed,NA
+3775000,"Winston-Salem city, North Carolina",B15002_003,1667,690,Total!!Male!!No schooling completed,NA
+3712000,"Charlotte city, North Carolina",B15002_004,2310,1002,Total!!Male!!Nursery to 4th grade,NA
+3719000,"Durham city, North Carolina",B15002_004,1728,916,Total!!Male!!Nursery to 4th grade,NA
+3728000,"Greensboro city, North Carolina",B15002_004,696,727,Total!!Male!!Nursery to 4th grade,NA
+3731400,"High Point city, North Carolina",B15002_004,162,216,Total!!Male!!Nursery to 4th grade,NA
+3755000,"Raleigh city, North Carolina",B15002_004,626,471,Total!!Male!!Nursery to 4th grade,NA
+3774440,"Wilmington city, North Carolina",B15002_004,189,226,Total!!Male!!Nursery to 4th grade,NA
+3775000,"Winston-Salem city, North Carolina",B15002_004,499,311,Total!!Male!!Nursery to 4th grade,NA
+3712000,"Charlotte city, North Carolina",B15002_005,6908,1438,Total!!Male!!5th and 6th grade,NA
+3719000,"Durham city, North Carolina",B15002_005,1191,757,Total!!Male!!5th and 6th grade,NA
+3728000,"Greensboro city, North Carolina",B15002_005,1326,982,Total!!Male!!5th and 6th grade,NA
+3731400,"High Point city, North Carolina",B15002_005,609,475,Total!!Male!!5th and 6th grade,NA
+3755000,"Raleigh city, North Carolina",B15002_005,2031,969,Total!!Male!!5th and 6th grade,NA
+3774440,"Wilmington city, North Carolina",B15002_005,96,141,Total!!Male!!5th and 6th grade,NA
+3775000,"Winston-Salem city, North Carolina",B15002_005,1614,975,Total!!Male!!5th and 6th grade,NA
+3712000,"Charlotte city, North Carolina",B15002_006,3267,997,Total!!Male!!7th and 8th grade,NA
+3719000,"Durham city, North Carolina",B15002_006,2356,956,Total!!Male!!7th and 8th grade,NA
+3728000,"Greensboro city, North Carolina",B15002_006,1038,605,Total!!Male!!7th and 8th grade,NA
+3731400,"High Point city, North Carolina",B15002_006,818,660,Total!!Male!!7th and 8th grade,NA
+3755000,"Raleigh city, North Carolina",B15002_006,1917,1051,Total!!Male!!7th and 8th grade,NA
+3774440,"Wilmington city, North Carolina",B15002_006,218,248,Total!!Male!!7th and 8th grade,NA
+3775000,"Winston-Salem city, North Carolina",B15002_006,2250,971,Total!!Male!!7th and 8th grade,NA
+3712000,"Charlotte city, North Carolina",B15002_007,3909,1390,Total!!Male!!9th grade,NA
+3719000,"Durham city, North Carolina",B15002_007,1072,648,Total!!Male!!9th grade,NA
+3728000,"Greensboro city, North Carolina",B15002_007,2190,1025,Total!!Male!!9th grade,NA
+3731400,"High Point city, North Carolina",B15002_007,1001,588,Total!!Male!!9th grade,NA
+3755000,"Raleigh city, North Carolina",B15002_007,653,414,Total!!Male!!9th grade,NA
+3774440,"Wilmington city, North Carolina",B15002_007,601,471,Total!!Male!!9th grade,NA
+3775000,"Winston-Salem city, North Carolina",B15002_007,761,593,Total!!Male!!9th grade,NA
+3712000,"Charlotte city, North Carolina",B15002_008,4889,1645,Total!!Male!!10th grade,NA
+3719000,"Durham city, North Carolina",B15002_008,952,638,Total!!Male!!10th grade,NA
+3728000,"Greensboro city, North Carolina",B15002_008,1540,776,Total!!Male!!10th grade,NA
+3731400,"High Point city, North Carolina",B15002_008,460,286,Total!!Male!!10th grade,NA
+3755000,"Raleigh city, North Carolina",B15002_008,1509,655,Total!!Male!!10th grade,NA
+3774440,"Wilmington city, North Carolina",B15002_008,782,531,Total!!Male!!10th grade,NA
+3775000,"Winston-Salem city, North Carolina",B15002_008,1462,681,Total!!Male!!10th grade,NA
+3712000,"Charlotte city, North Carolina",B15002_009,5113,1626,Total!!Male!!11th grade,NA
+3719000,"Durham city, North Carolina",B15002_009,1261,744,Total!!Male!!11th grade,NA
+3728000,"Greensboro city, North Carolina",B15002_009,1717,644,Total!!Male!!11th grade,NA
+3731400,"High Point city, North Carolina",B15002_009,848,606,Total!!Male!!11th grade,NA
+3755000,"Raleigh city, North Carolina",B15002_009,2841,1691,Total!!Male!!11th grade,NA
+3774440,"Wilmington city, North Carolina",B15002_009,218,272,Total!!Male!!11th grade,NA
+3775000,"Winston-Salem city, North Carolina",B15002_009,1850,838,Total!!Male!!11th grade,NA
+3712000,"Charlotte city, North Carolina",B15002_010,3658,1009,"Total!!Male!!12th grade, no diploma",NA
+3719000,"Durham city, North Carolina",B15002_010,793,477,"Total!!Male!!12th grade, no diploma",NA
+3728000,"Greensboro city, North Carolina",B15002_010,981,571,"Total!!Male!!12th grade, no diploma",NA
+3731400,"High Point city, North Carolina",B15002_010,655,381,"Total!!Male!!12th grade, no diploma",NA
+3755000,"Raleigh city, North Carolina",B15002_010,1225,494,"Total!!Male!!12th grade, no diploma",NA
+3774440,"Wilmington city, North Carolina",B15002_010,737,414,"Total!!Male!!12th grade, no diploma",NA
+3775000,"Winston-Salem city, North Carolina",B15002_010,1615,814,"Total!!Male!!12th grade, no diploma",NA
+3712000,"Charlotte city, North Carolina",B15002_011,48582,3214,Total!!Male!!High school graduate (includes equivalency),NA
+3719000,"Durham city, North Carolina",B15002_011,16121,2239,Total!!Male!!High school graduate (includes equivalency),NA
+3728000,"Greensboro city, North Carolina",B15002_011,18124,2555,Total!!Male!!High school graduate (includes equivalency),NA
+3731400,"High Point city, North Carolina",B15002_011,8768,1389,Total!!Male!!High school graduate (includes equivalency),NA
+3755000,"Raleigh city, North Carolina",B15002_011,23060,2603,Total!!Male!!High school graduate (includes equivalency),NA
+3774440,"Wilmington city, North Carolina",B15002_011,8167,1944,Total!!Male!!High school graduate (includes equivalency),NA
+3775000,"Winston-Salem city, North Carolina",B15002_011,17758,2255,Total!!Male!!High school graduate (includes equivalency),NA
+3712000,"Charlotte city, North Carolina",B15002_012,12709,1669,"Total!!Male!!Some college, less than 1 year",NA
+3719000,"Durham city, North Carolina",B15002_012,2796,906,"Total!!Male!!Some college, less than 1 year",NA
+3728000,"Greensboro city, North Carolina",B15002_012,6131,1479,"Total!!Male!!Some college, less than 1 year",NA
+3731400,"High Point city, North Carolina",B15002_012,1994,829,"Total!!Male!!Some college, less than 1 year",NA
+3755000,"Raleigh city, North Carolina",B15002_012,6613,1558,"Total!!Male!!Some college, less than 1 year",NA
+3774440,"Wilmington city, North Carolina",B15002_012,2201,793,"Total!!Male!!Some college, less than 1 year",NA
+3775000,"Winston-Salem city, North Carolina",B15002_012,4040,1044,"Total!!Male!!Some college, less than 1 year",NA
+3712000,"Charlotte city, North Carolina",B15002_013,39739,3409,"Total!!Male!!Some college, 1 or more years, no degree",NA
+3719000,"Durham city, North Carolina",B15002_013,11706,1937,"Total!!Male!!Some college, 1 or more years, no degree",NA
+3728000,"Greensboro city, North Carolina",B15002_013,14446,1795,"Total!!Male!!Some college, 1 or more years, no degree",NA
+3731400,"High Point city, North Carolina",B15002_013,4544,1223,"Total!!Male!!Some college, 1 or more years, no degree",NA
+3755000,"Raleigh city, North Carolina",B15002_013,19241,2418,"Total!!Male!!Some college, 1 or more years, no degree",NA
+3774440,"Wilmington city, North Carolina",B15002_013,5891,1694,"Total!!Male!!Some college, 1 or more years, no degree",NA
+3775000,"Winston-Salem city, North Carolina",B15002_013,11763,1731,"Total!!Male!!Some college, 1 or more years, no degree",NA
+3712000,"Charlotte city, North Carolina",B15002_014,17506,2282,Total!!Male!!Associate's degree,NA
+3719000,"Durham city, North Carolina",B15002_014,4548,1099,Total!!Male!!Associate's degree,NA
+3728000,"Greensboro city, North Carolina",B15002_014,7873,1589,Total!!Male!!Associate's degree,NA
+3731400,"High Point city, North Carolina",B15002_014,3507,924,Total!!Male!!Associate's degree,NA
+3755000,"Raleigh city, North Carolina",B15002_014,9992,1944,Total!!Male!!Associate's degree,NA
+3774440,"Wilmington city, North Carolina",B15002_014,2732,1018,Total!!Male!!Associate's degree,NA
+3775000,"Winston-Salem city, North Carolina",B15002_014,4358,782,Total!!Male!!Associate's degree,NA
+3712000,"Charlotte city, North Carolina",B15002_015,79855,4000,Total!!Male!!Bachelor's degree,NA
+3719000,"Durham city, North Carolina",B15002_015,21889,2483,Total!!Male!!Bachelor's degree,NA
+3728000,"Greensboro city, North Carolina",B15002_015,19224,2084,Total!!Male!!Bachelor's degree,NA
+3731400,"High Point city, North Carolina",B15002_015,6508,1275,Total!!Male!!Bachelor's degree,NA
+3755000,"Raleigh city, North Carolina",B15002_015,50165,3812,Total!!Male!!Bachelor's degree,NA
+3774440,"Wilmington city, North Carolina",B15002_015,11600,1783,Total!!Male!!Bachelor's degree,NA
+3775000,"Winston-Salem city, North Carolina",B15002_015,13903,1819,Total!!Male!!Bachelor's degree,NA
+3712000,"Charlotte city, North Carolina",B15002_016,30739,2922,Total!!Male!!Master's degree,NA
+3719000,"Durham city, North Carolina",B15002_016,8476,1367,Total!!Male!!Master's degree,NA
+3728000,"Greensboro city, North Carolina",B15002_016,8933,1496,Total!!Male!!Master's degree,NA
+3731400,"High Point city, North Carolina",B15002_016,2492,772,Total!!Male!!Master's degree,NA
+3755000,"Raleigh city, North Carolina",B15002_016,16369,1902,Total!!Male!!Master's degree,NA
+3774440,"Wilmington city, North Carolina",B15002_016,2720,838,Total!!Male!!Master's degree,NA
+3775000,"Winston-Salem city, North Carolina",B15002_016,5303,957,Total!!Male!!Master's degree,NA
+3712000,"Charlotte city, North Carolina",B15002_017,9641,1616,Total!!Male!!Professional school degree,NA
+3719000,"Durham city, North Carolina",B15002_017,4970,1057,Total!!Male!!Professional school degree,NA
+3728000,"Greensboro city, North Carolina",B15002_017,2351,709,Total!!Male!!Professional school degree,NA
+3731400,"High Point city, North Carolina",B15002_017,752,615,Total!!Male!!Professional school degree,NA
+3755000,"Raleigh city, North Carolina",B15002_017,6815,1468,Total!!Male!!Professional school degree,NA
+3774440,"Wilmington city, North Carolina",B15002_017,695,511,Total!!Male!!Professional school degree,NA
+3775000,"Winston-Salem city, North Carolina",B15002_017,3586,771,Total!!Male!!Professional school degree,NA
+3712000,"Charlotte city, North Carolina",B15002_018,4144,864,Total!!Male!!Doctorate degree,NA
+3719000,"Durham city, North Carolina",B15002_018,5100,1028,Total!!Male!!Doctorate degree,NA
+3728000,"Greensboro city, North Carolina",B15002_018,1654,549,Total!!Male!!Doctorate degree,NA
+3731400,"High Point city, North Carolina",B15002_018,461,357,Total!!Male!!Doctorate degree,NA
+3755000,"Raleigh city, North Carolina",B15002_018,5378,1256,Total!!Male!!Doctorate degree,NA
+3774440,"Wilmington city, North Carolina",B15002_018,716,373,Total!!Male!!Doctorate degree,NA
+3775000,"Winston-Salem city, North Carolina",B15002_018,1584,496,Total!!Male!!Doctorate degree,NA
+3712000,"Charlotte city, North Carolina",B15002_019,310807,2697,Total!!Female,NA
+3719000,"Durham city, North Carolina",B15002_019,101085,1629,Total!!Female,NA
+3728000,"Greensboro city, North Carolina",B15002_019,104686,2651,Total!!Female,NA
+3731400,"High Point city, North Carolina",B15002_019,40734,2138,Total!!Female,NA
+3755000,"Raleigh city, North Carolina",B15002_019,166088,3852,Total!!Female,NA
+3774440,"Wilmington city, North Carolina",B15002_019,42732,2331,Total!!Female,NA
+3775000,"Winston-Salem city, North Carolina",B15002_019,86634,2055,Total!!Female,NA
+3712000,"Charlotte city, North Carolina",B15002_020,4772,1517,Total!!Female!!No schooling completed,NA
+3719000,"Durham city, North Carolina",B15002_020,1248,648,Total!!Female!!No schooling completed,NA
+3728000,"Greensboro city, North Carolina",B15002_020,1799,788,Total!!Female!!No schooling completed,NA
+3731400,"High Point city, North Carolina",B15002_020,1050,634,Total!!Female!!No schooling completed,NA
+3755000,"Raleigh city, North Carolina",B15002_020,1449,639,Total!!Female!!No schooling completed,NA
+3774440,"Wilmington city, North Carolina",B15002_020,94,155,Total!!Female!!No schooling completed,NA
+3775000,"Winston-Salem city, North Carolina",B15002_020,651,360,Total!!Female!!No schooling completed,NA
+3712000,"Charlotte city, North Carolina",B15002_021,2441,953,Total!!Female!!Nursery to 4th grade,NA
+3719000,"Durham city, North Carolina",B15002_021,437,398,Total!!Female!!Nursery to 4th grade,NA
+3728000,"Greensboro city, North Carolina",B15002_021,322,372,Total!!Female!!Nursery to 4th grade,NA
+3731400,"High Point city, North Carolina",B15002_021,673,547,Total!!Female!!Nursery to 4th grade,NA
+3755000,"Raleigh city, North Carolina",B15002_021,315,314,Total!!Female!!Nursery to 4th grade,NA
+3774440,"Wilmington city, North Carolina",B15002_021,0,210,Total!!Female!!Nursery to 4th grade,NA
+3775000,"Winston-Salem city, North Carolina",B15002_021,458,434,Total!!Female!!Nursery to 4th grade,NA
+3712000,"Charlotte city, North Carolina",B15002_022,4804,1456,Total!!Female!!5th and 6th grade,NA
+3719000,"Durham city, North Carolina",B15002_022,1866,842,Total!!Female!!5th and 6th grade,NA
+3728000,"Greensboro city, North Carolina",B15002_022,842,514,Total!!Female!!5th and 6th grade,NA
+3731400,"High Point city, North Carolina",B15002_022,388,297,Total!!Female!!5th and 6th grade,NA
+3755000,"Raleigh city, North Carolina",B15002_022,1020,666,Total!!Female!!5th and 6th grade,NA
+3774440,"Wilmington city, North Carolina",B15002_022,97,141,Total!!Female!!5th and 6th grade,NA
+3775000,"Winston-Salem city, North Carolina",B15002_022,901,523,Total!!Female!!5th and 6th grade,NA
+3712000,"Charlotte city, North Carolina",B15002_023,2300,1009,Total!!Female!!7th and 8th grade,NA
+3719000,"Durham city, North Carolina",B15002_023,586,444,Total!!Female!!7th and 8th grade,NA
+3728000,"Greensboro city, North Carolina",B15002_023,681,564,Total!!Female!!7th and 8th grade,NA
+3731400,"High Point city, North Carolina",B15002_023,943,515,Total!!Female!!7th and 8th grade,NA
+3755000,"Raleigh city, North Carolina",B15002_023,1522,762,Total!!Female!!7th and 8th grade,NA
+3774440,"Wilmington city, North Carolina",B15002_023,283,289,Total!!Female!!7th and 8th grade,NA
+3775000,"Winston-Salem city, North Carolina",B15002_023,1107,531,Total!!Female!!7th and 8th grade,NA
+3712000,"Charlotte city, North Carolina",B15002_024,3640,1253,Total!!Female!!9th grade,NA
+3719000,"Durham city, North Carolina",B15002_024,1043,506,Total!!Female!!9th grade,NA
+3728000,"Greensboro city, North Carolina",B15002_024,1753,961,Total!!Female!!9th grade,NA
+3731400,"High Point city, North Carolina",B15002_024,968,520,Total!!Female!!9th grade,NA
+3755000,"Raleigh city, North Carolina",B15002_024,2167,884,Total!!Female!!9th grade,NA
+3774440,"Wilmington city, North Carolina",B15002_024,654,508,Total!!Female!!9th grade,NA
+3775000,"Winston-Salem city, North Carolina",B15002_024,1051,675,Total!!Female!!9th grade,NA
+3712000,"Charlotte city, North Carolina",B15002_025,4089,1140,Total!!Female!!10th grade,NA
+3719000,"Durham city, North Carolina",B15002_025,751,423,Total!!Female!!10th grade,NA
+3728000,"Greensboro city, North Carolina",B15002_025,1634,886,Total!!Female!!10th grade,NA
+3731400,"High Point city, North Carolina",B15002_025,781,461,Total!!Female!!10th grade,NA
+3755000,"Raleigh city, North Carolina",B15002_025,2008,832,Total!!Female!!10th grade,NA
+3774440,"Wilmington city, North Carolina",B15002_025,631,410,Total!!Female!!10th grade,NA
+3775000,"Winston-Salem city, North Carolina",B15002_025,1026,536,Total!!Female!!10th grade,NA
+3712000,"Charlotte city, North Carolina",B15002_026,3810,1019,Total!!Female!!11th grade,NA
+3719000,"Durham city, North Carolina",B15002_026,1929,931,Total!!Female!!11th grade,NA
+3728000,"Greensboro city, North Carolina",B15002_026,1234,635,Total!!Female!!11th grade,NA
+3731400,"High Point city, North Carolina",B15002_026,1088,610,Total!!Female!!11th grade,NA
+3755000,"Raleigh city, North Carolina",B15002_026,1912,905,Total!!Female!!11th grade,NA
+3774440,"Wilmington city, North Carolina",B15002_026,139,152,Total!!Female!!11th grade,NA
+3775000,"Winston-Salem city, North Carolina",B15002_026,1984,1005,Total!!Female!!11th grade,NA
+3712000,"Charlotte city, North Carolina",B15002_027,3521,1037,"Total!!Female!!12th grade, no diploma",NA
+3719000,"Durham city, North Carolina",B15002_027,728,501,"Total!!Female!!12th grade, no diploma",NA
+3728000,"Greensboro city, North Carolina",B15002_027,1738,828,"Total!!Female!!12th grade, no diploma",NA
+3731400,"High Point city, North Carolina",B15002_027,735,480,"Total!!Female!!12th grade, no diploma",NA
+3755000,"Raleigh city, North Carolina",B15002_027,1648,927,"Total!!Female!!12th grade, no diploma",NA
+3774440,"Wilmington city, North Carolina",B15002_027,589,441,"Total!!Female!!12th grade, no diploma",NA
+3775000,"Winston-Salem city, North Carolina",B15002_027,1059,455,"Total!!Female!!12th grade, no diploma",NA
+3712000,"Charlotte city, North Carolina",B15002_028,50530,4124,Total!!Female!!High school graduate (includes equivalency),NA
+3719000,"Durham city, North Carolina",B15002_028,18028,2788,Total!!Female!!High school graduate (includes equivalency),NA
+3728000,"Greensboro city, North Carolina",B15002_028,20032,2343,Total!!Female!!High school graduate (includes equivalency),NA
+3731400,"High Point city, North Carolina",B15002_028,10109,1694,Total!!Female!!High school graduate (includes equivalency),NA
+3755000,"Raleigh city, North Carolina",B15002_028,25348,3169,Total!!Female!!High school graduate (includes equivalency),NA
+3774440,"Wilmington city, North Carolina",B15002_028,9494,1872,Total!!Female!!High school graduate (includes equivalency),NA
+3775000,"Winston-Salem city, North Carolina",B15002_028,23304,2836,Total!!Female!!High school graduate (includes equivalency),NA
+3712000,"Charlotte city, North Carolina",B15002_029,14686,2075,"Total!!Female!!Some college, less than 1 year",NA
+3719000,"Durham city, North Carolina",B15002_029,3629,1174,"Total!!Female!!Some college, less than 1 year",NA
+3728000,"Greensboro city, North Carolina",B15002_029,4188,977,"Total!!Female!!Some college, less than 1 year",NA
+3731400,"High Point city, North Carolina",B15002_029,2869,787,"Total!!Female!!Some college, less than 1 year",NA
+3755000,"Raleigh city, North Carolina",B15002_029,8295,1779,"Total!!Female!!Some college, less than 1 year",NA
+3774440,"Wilmington city, North Carolina",B15002_029,2667,849,"Total!!Female!!Some college, less than 1 year",NA
+3775000,"Winston-Salem city, North Carolina",B15002_029,3854,930,"Total!!Female!!Some college, less than 1 year",NA
+3712000,"Charlotte city, North Carolina",B15002_030,51684,3790,"Total!!Female!!Some college, 1 or more years, no degree",NA
+3719000,"Durham city, North Carolina",B15002_030,10927,1990,"Total!!Female!!Some college, 1 or more years, no degree",NA
+3728000,"Greensboro city, North Carolina",B15002_030,15864,2451,"Total!!Female!!Some college, 1 or more years, no degree",NA
+3731400,"High Point city, North Carolina",B15002_030,5942,1267,"Total!!Female!!Some college, 1 or more years, no degree",NA
+3755000,"Raleigh city, North Carolina",B15002_030,20178,2744,"Total!!Female!!Some college, 1 or more years, no degree",NA
+3774440,"Wilmington city, North Carolina",B15002_030,6799,1282,"Total!!Female!!Some college, 1 or more years, no degree",NA
+3775000,"Winston-Salem city, North Carolina",B15002_030,13495,2172,"Total!!Female!!Some college, 1 or more years, no degree",NA
+3712000,"Charlotte city, North Carolina",B15002_031,28198,2854,Total!!Female!!Associate's degree,NA
+3719000,"Durham city, North Carolina",B15002_031,8837,2007,Total!!Female!!Associate's degree,NA
+3728000,"Greensboro city, North Carolina",B15002_031,10405,1859,Total!!Female!!Associate's degree,NA
+3731400,"High Point city, North Carolina",B15002_031,2504,659,Total!!Female!!Associate's degree,NA
+3755000,"Raleigh city, North Carolina",B15002_031,10690,1705,Total!!Female!!Associate's degree,NA
+3774440,"Wilmington city, North Carolina",B15002_031,3638,940,Total!!Female!!Associate's degree,NA
+3775000,"Winston-Salem city, North Carolina",B15002_031,7420,1488,Total!!Female!!Associate's degree,NA
+3712000,"Charlotte city, North Carolina",B15002_032,89985,5303,Total!!Female!!Bachelor's degree,NA
+3719000,"Durham city, North Carolina",B15002_032,26745,2215,Total!!Female!!Bachelor's degree,NA
+3728000,"Greensboro city, North Carolina",B15002_032,28862,2579,Total!!Female!!Bachelor's degree,NA
+3731400,"High Point city, North Carolina",B15002_032,8833,1318,Total!!Female!!Bachelor's degree,NA
+3755000,"Raleigh city, North Carolina",B15002_032,58750,5186,Total!!Female!!Bachelor's degree,NA
+3774440,"Wilmington city, North Carolina",B15002_032,12613,2131,Total!!Female!!Bachelor's degree,NA
+3775000,"Winston-Salem city, North Carolina",B15002_032,18653,2038,Total!!Female!!Bachelor's degree,NA
+3712000,"Charlotte city, North Carolina",B15002_033,37622,3012,Total!!Female!!Master's degree,NA
+3719000,"Durham city, North Carolina",B15002_033,16185,2045,Total!!Female!!Master's degree,NA
+3728000,"Greensboro city, North Carolina",B15002_033,11612,1648,Total!!Female!!Master's degree,NA
+3731400,"High Point city, North Carolina",B15002_033,3060,836,Total!!Female!!Master's degree,NA
+3755000,"Raleigh city, North Carolina",B15002_033,23381,2447,Total!!Female!!Master's degree,NA
+3774440,"Wilmington city, North Carolina",B15002_033,3675,895,Total!!Female!!Master's degree,NA
+3775000,"Winston-Salem city, North Carolina",B15002_033,8375,1194,Total!!Female!!Master's degree,NA
+3712000,"Charlotte city, North Carolina",B15002_034,6259,1107,Total!!Female!!Professional school degree,NA
+3719000,"Durham city, North Carolina",B15002_034,3890,901,Total!!Female!!Professional school degree,NA
+3728000,"Greensboro city, North Carolina",B15002_034,2229,871,Total!!Female!!Professional school degree,NA
+3731400,"High Point city, North Carolina",B15002_034,420,310,Total!!Female!!Professional school degree,NA
+3755000,"Raleigh city, North Carolina",B15002_034,3902,897,Total!!Female!!Professional school degree,NA
+3774440,"Wilmington city, North Carolina",B15002_034,815,439,Total!!Female!!Professional school degree,NA
+3775000,"Winston-Salem city, North Carolina",B15002_034,2168,658,Total!!Female!!Professional school degree,NA
+3712000,"Charlotte city, North Carolina",B15002_035,2466,654,Total!!Female!!Doctorate degree,NA
+3719000,"Durham city, North Carolina",B15002_035,4256,1039,Total!!Female!!Doctorate degree,NA
+3728000,"Greensboro city, North Carolina",B15002_035,1491,574,Total!!Female!!Doctorate degree,NA
+3731400,"High Point city, North Carolina",B15002_035,371,313,Total!!Female!!Doctorate degree,NA
+3755000,"Raleigh city, North Carolina",B15002_035,3503,1117,Total!!Female!!Doctorate degree,NA
+3774440,"Wilmington city, North Carolina",B15002_035,544,444,Total!!Female!!Doctorate degree,NA
+3775000,"Winston-Salem city, North Carolina",B15002_035,1128,453,Total!!Female!!Doctorate degree,NA
+3712000,"Charlotte city, North Carolina",B15002A_001,296854,5937,Total,White Alone
+3719000,"Durham city, North Carolina",B15002A_001,98513,3018,Total,White Alone
+3728000,"Greensboro city, North Carolina",B15002A_001,102731,4264,Total,White Alone
+3731400,"High Point city, North Carolina",B15002A_001,37832,3357,Total,White Alone
+3755000,"Raleigh city, North Carolina",B15002A_001,192220,5985,Total,White Alone
+3774440,"Wilmington city, North Carolina",B15002A_001,62360,2262,Total,White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_001,94676,3381,Total,White Alone
+3712000,"Charlotte city, North Carolina",B15002A_002,145842,3509,Total!!Male,White Alone
+3719000,"Durham city, North Carolina",B15002A_002,47029,2110,Total!!Male,White Alone
+3728000,"Greensboro city, North Carolina",B15002A_002,49259,2415,Total!!Male,White Alone
+3731400,"High Point city, North Carolina",B15002A_002,17159,1733,Total!!Male,White Alone
+3755000,"Raleigh city, North Carolina",B15002A_002,93018,3676,Total!!Male,White Alone
+3774440,"Wilmington city, North Carolina",B15002A_002,30238,1900,Total!!Male,White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_002,44284,1865,Total!!Male,White Alone
+3712000,"Charlotte city, North Carolina",B15002A_003,6058,1368,Total!!Male!!Less than 9th grade,White Alone
+3719000,"Durham city, North Carolina",B15002A_003,4505,1284,Total!!Male!!Less than 9th grade,White Alone
+3728000,"Greensboro city, North Carolina",B15002A_003,2422,1060,Total!!Male!!Less than 9th grade,White Alone
+3731400,"High Point city, North Carolina",B15002A_003,514,307,Total!!Male!!Less than 9th grade,White Alone
+3755000,"Raleigh city, North Carolina",B15002A_003,1097,542,Total!!Male!!Less than 9th grade,White Alone
+3774440,"Wilmington city, North Carolina",B15002A_003,285,275,Total!!Male!!Less than 9th grade,White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_003,3457,1106,Total!!Male!!Less than 9th grade,White Alone
+3712000,"Charlotte city, North Carolina",B15002A_004,5782,1829,"Total!!Male!!9th to 12th grade, no diploma",White Alone
+3719000,"Durham city, North Carolina",B15002A_004,1198,642,"Total!!Male!!9th to 12th grade, no diploma",White Alone
+3728000,"Greensboro city, North Carolina",B15002A_004,2146,902,"Total!!Male!!9th to 12th grade, no diploma",White Alone
+3731400,"High Point city, North Carolina",B15002A_004,813,433,"Total!!Male!!9th to 12th grade, no diploma",White Alone
+3755000,"Raleigh city, North Carolina",B15002A_004,1749,668,"Total!!Male!!9th to 12th grade, no diploma",White Alone
+3774440,"Wilmington city, North Carolina",B15002A_004,1529,587,"Total!!Male!!9th to 12th grade, no diploma",White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_004,1687,660,"Total!!Male!!9th to 12th grade, no diploma",White Alone
+3712000,"Charlotte city, North Carolina",B15002A_005,14870,1741,Total!!Male!!Regular high school diploma,White Alone
+3719000,"Durham city, North Carolina",B15002A_005,4463,1304,Total!!Male!!Regular high school diploma,White Alone
+3728000,"Greensboro city, North Carolina",B15002A_005,5769,1180,Total!!Male!!Regular high school diploma,White Alone
+3731400,"High Point city, North Carolina",B15002A_005,3460,914,Total!!Male!!Regular high school diploma,White Alone
+3755000,"Raleigh city, North Carolina",B15002A_005,7569,1562,Total!!Male!!Regular high school diploma,White Alone
+3774440,"Wilmington city, North Carolina",B15002A_005,4332,1637,Total!!Male!!Regular high school diploma,White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_005,6352,1484,Total!!Male!!Regular high school diploma,White Alone
+3712000,"Charlotte city, North Carolina",B15002A_006,2495,849,Total!!Male!!GED or alternative credential,White Alone
+3719000,"Durham city, North Carolina",B15002A_006,762,428,Total!!Male!!GED or alternative credential,White Alone
+3728000,"Greensboro city, North Carolina",B15002A_006,2022,694,Total!!Male!!GED or alternative credential,White Alone
+3731400,"High Point city, North Carolina",B15002A_006,351,239,Total!!Male!!GED or alternative credential,White Alone
+3755000,"Raleigh city, North Carolina",B15002A_006,1104,459,Total!!Male!!GED or alternative credential,White Alone
+3774440,"Wilmington city, North Carolina",B15002A_006,948,564,Total!!Male!!GED or alternative credential,White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_006,1368,500,Total!!Male!!GED or alternative credential,White Alone
+3712000,"Charlotte city, North Carolina",B15002A_007,22508,2327,"Total!!Male!!Some college, no degree",White Alone
+3719000,"Durham city, North Carolina",B15002A_007,7024,978,"Total!!Male!!Some college, no degree",White Alone
+3728000,"Greensboro city, North Carolina",B15002A_007,9237,1343,"Total!!Male!!Some college, no degree",White Alone
+3731400,"High Point city, North Carolina",B15002A_007,3534,711,"Total!!Male!!Some college, no degree",White Alone
+3755000,"Raleigh city, North Carolina",B15002A_007,14405,2043,"Total!!Male!!Some college, no degree",White Alone
+3774440,"Wilmington city, North Carolina",B15002A_007,6459,1671,"Total!!Male!!Some college, no degree",White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_007,8950,1433,"Total!!Male!!Some college, no degree",White Alone
+3712000,"Charlotte city, North Carolina",B15002A_008,9074,1516,Total!!Male!!Associate's degree,White Alone
+3719000,"Durham city, North Carolina",B15002A_008,2827,902,Total!!Male!!Associate's degree,White Alone
+3728000,"Greensboro city, North Carolina",B15002A_008,4085,1066,Total!!Male!!Associate's degree,White Alone
+3731400,"High Point city, North Carolina",B15002A_008,1307,426,Total!!Male!!Associate's degree,White Alone
+3755000,"Raleigh city, North Carolina",B15002A_008,6357,1566,Total!!Male!!Associate's degree,White Alone
+3774440,"Wilmington city, North Carolina",B15002A_008,2396,883,Total!!Male!!Associate's degree,White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_008,3216,652,Total!!Male!!Associate's degree,White Alone
+3712000,"Charlotte city, North Carolina",B15002A_009,55446,2784,Total!!Male!!Bachelor's degree,White Alone
+3719000,"Durham city, North Carolina",B15002A_009,13158,1602,Total!!Male!!Bachelor's degree,White Alone
+3728000,"Greensboro city, North Carolina",B15002A_009,14723,1550,Total!!Male!!Bachelor's degree,White Alone
+3731400,"High Point city, North Carolina",B15002A_009,4637,999,Total!!Male!!Bachelor's degree,White Alone
+3755000,"Raleigh city, North Carolina",B15002A_009,39570,3456,Total!!Male!!Bachelor's degree,White Alone
+3774440,"Wilmington city, North Carolina",B15002A_009,10720,1610,Total!!Male!!Bachelor's degree,White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_009,10493,1358,Total!!Male!!Bachelor's degree,White Alone
+3712000,"Charlotte city, North Carolina",B15002A_010,29609,2338,Total!!Male!!Graduate or professional degree,White Alone
+3719000,"Durham city, North Carolina",B15002A_010,13092,1541,Total!!Male!!Graduate or professional degree,White Alone
+3728000,"Greensboro city, North Carolina",B15002A_010,8855,1347,Total!!Male!!Graduate or professional degree,White Alone
+3731400,"High Point city, North Carolina",B15002A_010,2543,874,Total!!Male!!Graduate or professional degree,White Alone
+3755000,"Raleigh city, North Carolina",B15002A_010,21167,2054,Total!!Male!!Graduate or professional degree,White Alone
+3774440,"Wilmington city, North Carolina",B15002A_010,3569,913,Total!!Male!!Graduate or professional degree,White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_010,8761,1203,Total!!Male!!Graduate or professional degree,White Alone
+3712000,"Charlotte city, North Carolina",B15002A_011,151012,3397,Total!!Female,White Alone
+3719000,"Durham city, North Carolina",B15002A_011,51484,1835,Total!!Female,White Alone
+3728000,"Greensboro city, North Carolina",B15002A_011,53472,2517,Total!!Female,White Alone
+3731400,"High Point city, North Carolina",B15002A_011,20673,2094,Total!!Female,White Alone
+3755000,"Raleigh city, North Carolina",B15002A_011,99202,3680,Total!!Female,White Alone
+3774440,"Wilmington city, North Carolina",B15002A_011,32122,1852,Total!!Female,White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_011,50392,2217,Total!!Female,White Alone
+3712000,"Charlotte city, North Carolina",B15002A_012,4699,1461,Total!!Female!!Less than 9th grade,White Alone
+3719000,"Durham city, North Carolina",B15002A_012,2675,1069,Total!!Female!!Less than 9th grade,White Alone
+3728000,"Greensboro city, North Carolina",B15002A_012,1229,565,Total!!Female!!Less than 9th grade,White Alone
+3731400,"High Point city, North Carolina",B15002A_012,490,306,Total!!Female!!Less than 9th grade,White Alone
+3755000,"Raleigh city, North Carolina",B15002A_012,925,549,Total!!Female!!Less than 9th grade,White Alone
+3774440,"Wilmington city, North Carolina",B15002A_012,377,332,Total!!Female!!Less than 9th grade,White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_012,1321,510,Total!!Female!!Less than 9th grade,White Alone
+3712000,"Charlotte city, North Carolina",B15002A_013,4544,1313,"Total!!Female!!9th to 12th grade, no diploma",White Alone
+3719000,"Durham city, North Carolina",B15002A_013,1245,577,"Total!!Female!!9th to 12th grade, no diploma",White Alone
+3728000,"Greensboro city, North Carolina",B15002A_013,1906,679,"Total!!Female!!9th to 12th grade, no diploma",White Alone
+3731400,"High Point city, North Carolina",B15002A_013,1542,611,"Total!!Female!!9th to 12th grade, no diploma",White Alone
+3755000,"Raleigh city, North Carolina",B15002A_013,2559,891,"Total!!Female!!9th to 12th grade, no diploma",White Alone
+3774440,"Wilmington city, North Carolina",B15002A_013,1100,647,"Total!!Female!!9th to 12th grade, no diploma",White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_013,2204,888,"Total!!Female!!9th to 12th grade, no diploma",White Alone
+3712000,"Charlotte city, North Carolina",B15002A_014,20069,2272,Total!!Female!!Regular high school diploma,White Alone
+3719000,"Durham city, North Carolina",B15002A_014,6526,1606,Total!!Female!!Regular high school diploma,White Alone
+3728000,"Greensboro city, North Carolina",B15002A_014,7398,1364,Total!!Female!!Regular high school diploma,White Alone
+3731400,"High Point city, North Carolina",B15002A_014,4230,1148,Total!!Female!!Regular high school diploma,White Alone
+3755000,"Raleigh city, North Carolina",B15002A_014,10097,2075,Total!!Female!!Regular high school diploma,White Alone
+3774440,"Wilmington city, North Carolina",B15002A_014,5260,1441,Total!!Female!!Regular high school diploma,White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_014,10334,1591,Total!!Female!!Regular high school diploma,White Alone
+3712000,"Charlotte city, North Carolina",B15002A_015,1685,667,Total!!Female!!GED or alternative credential,White Alone
+3719000,"Durham city, North Carolina",B15002A_015,718,415,Total!!Female!!GED or alternative credential,White Alone
+3728000,"Greensboro city, North Carolina",B15002A_015,541,289,Total!!Female!!GED or alternative credential,White Alone
+3731400,"High Point city, North Carolina",B15002A_015,1076,580,Total!!Female!!GED or alternative credential,White Alone
+3755000,"Raleigh city, North Carolina",B15002A_015,1457,634,Total!!Female!!GED or alternative credential,White Alone
+3774440,"Wilmington city, North Carolina",B15002A_015,1058,770,Total!!Female!!GED or alternative credential,White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_015,1329,589,Total!!Female!!GED or alternative credential,White Alone
+3712000,"Charlotte city, North Carolina",B15002A_016,26617,2394,"Total!!Female!!Some college, no degree",White Alone
+3719000,"Durham city, North Carolina",B15002A_016,6222,1151,"Total!!Female!!Some college, no degree",White Alone
+3728000,"Greensboro city, North Carolina",B15002A_016,9279,1674,"Total!!Female!!Some college, no degree",White Alone
+3731400,"High Point city, North Carolina",B15002A_016,3955,904,"Total!!Female!!Some college, no degree",White Alone
+3755000,"Raleigh city, North Carolina",B15002A_016,13187,1832,"Total!!Female!!Some college, no degree",White Alone
+3774440,"Wilmington city, North Carolina",B15002A_016,6538,1024,"Total!!Female!!Some college, no degree",White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_016,9648,1805,"Total!!Female!!Some college, no degree",White Alone
+3712000,"Charlotte city, North Carolina",B15002A_017,12194,1745,Total!!Female!!Associate's degree,White Alone
+3719000,"Durham city, North Carolina",B15002A_017,2778,861,Total!!Female!!Associate's degree,White Alone
+3728000,"Greensboro city, North Carolina",B15002A_017,5054,1109,Total!!Female!!Associate's degree,White Alone
+3731400,"High Point city, North Carolina",B15002A_017,1497,559,Total!!Female!!Associate's degree,White Alone
+3755000,"Raleigh city, North Carolina",B15002A_017,6952,1458,Total!!Female!!Associate's degree,White Alone
+3774440,"Wilmington city, North Carolina",B15002A_017,3055,847,Total!!Female!!Associate's degree,White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_017,3711,806,Total!!Female!!Associate's degree,White Alone
+3712000,"Charlotte city, North Carolina",B15002A_018,55553,3324,Total!!Female!!Bachelor's degree,White Alone
+3719000,"Durham city, North Carolina",B15002A_018,17010,1539,Total!!Female!!Bachelor's degree,White Alone
+3728000,"Greensboro city, North Carolina",B15002A_018,18296,1951,Total!!Female!!Bachelor's degree,White Alone
+3731400,"High Point city, North Carolina",B15002A_018,5880,1142,Total!!Female!!Bachelor's degree,White Alone
+3755000,"Raleigh city, North Carolina",B15002A_018,40998,3467,Total!!Female!!Bachelor's degree,White Alone
+3774440,"Wilmington city, North Carolina",B15002A_018,10076,1529,Total!!Female!!Bachelor's degree,White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_018,13147,1788,Total!!Female!!Bachelor's degree,White Alone
+3712000,"Charlotte city, North Carolina",B15002A_019,25651,2136,Total!!Female!!Graduate or professional degree,White Alone
+3719000,"Durham city, North Carolina",B15002A_019,14310,1620,Total!!Female!!Graduate or professional degree,White Alone
+3728000,"Greensboro city, North Carolina",B15002A_019,9769,1471,Total!!Female!!Graduate or professional degree,White Alone
+3731400,"High Point city, North Carolina",B15002A_019,2003,681,Total!!Female!!Graduate or professional degree,White Alone
+3755000,"Raleigh city, North Carolina",B15002A_019,23027,2400,Total!!Female!!Graduate or professional degree,White Alone
+3774440,"Wilmington city, North Carolina",B15002A_019,4658,1019,Total!!Female!!Graduate or professional degree,White Alone
+3775000,"Winston-Salem city, North Carolina",B15002A_019,8698,998,Total!!Female!!Graduate or professional degree,White Alone
+3712000,"Charlotte city, North Carolina",B15002B_001,207027,3916,Total,Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_001,68085,2442,Total,Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_001,74133,3391,Total,Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_001,25270,2617,Total,Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_001,87233,5046,Total,Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_001,15142,1705,Total,Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_001,53573,2773,Total,Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_002,89722,2038,Total!!Male,Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_002,28891,1263,Total!!Male,Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_002,31890,1953,Total!!Male,Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_002,11916,1607,Total!!Male,Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_002,39736,2949,Total!!Male,Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_002,6347,921,Total!!Male,Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_002,23598,1423,Total!!Male,Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_003,2182,761,Total!!Male!!Less than 9th grade,Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_003,658,405,Total!!Male!!Less than 9th grade,Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_003,309,372,Total!!Male!!Less than 9th grade,Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_003,428,333,Total!!Male!!Less than 9th grade,Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_003,1356,831,Total!!Male!!Less than 9th grade,Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_003,143,224,Total!!Male!!Less than 9th grade,Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_003,1327,716,Total!!Male!!Less than 9th grade,Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_004,8699,1896,"Total!!Male!!9th to 12th grade, no diploma",Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_004,1870,784,"Total!!Male!!9th to 12th grade, no diploma",Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_004,3497,1284,"Total!!Male!!9th to 12th grade, no diploma",Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_004,1676,596,"Total!!Male!!9th to 12th grade, no diploma",Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_004,3802,1807,"Total!!Male!!9th to 12th grade, no diploma",Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_004,707,566,"Total!!Male!!9th to 12th grade, no diploma",Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_004,3424,1195,"Total!!Male!!9th to 12th grade, no diploma",Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_005,22217,2299,Total!!Male!!Regular high school diploma,Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_005,8447,1599,Total!!Male!!Regular high school diploma,Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_005,7248,1668,Total!!Male!!Regular high school diploma,Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_005,3409,1060,Total!!Male!!Regular high school diploma,Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_005,10519,2272,Total!!Male!!Regular high school diploma,Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_005,2738,1043,Total!!Male!!Regular high school diploma,Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_005,8749,1692,Total!!Male!!Regular high school diploma,Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_006,2330,723,Total!!Male!!GED or alternative credential,Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_006,1059,610,Total!!Male!!GED or alternative credential,Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_006,1491,801,Total!!Male!!GED or alternative credential,Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_006,599,343,Total!!Male!!GED or alternative credential,Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_006,987,485,Total!!Male!!GED or alternative credential,Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_006,0,210,Total!!Male!!GED or alternative credential,Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_006,342,251,Total!!Male!!GED or alternative credential,Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_007,26150,2599,"Total!!Male!!Some college, no degree",Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_007,6350,1723,"Total!!Male!!Some college, no degree",Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_007,9322,1611,"Total!!Male!!Some college, no degree",Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_007,2331,1013,"Total!!Male!!Some college, no degree",Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_007,9607,2094,"Total!!Male!!Some college, no degree",Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_007,1532,893,"Total!!Male!!Some college, no degree",Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_007,5618,1297,"Total!!Male!!Some college, no degree",Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_008,7162,1598,Total!!Male!!Associate's degree,Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_008,1501,754,Total!!Male!!Associate's degree,Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_008,3186,1228,Total!!Male!!Associate's degree,Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_008,1706,808,Total!!Male!!Associate's degree,Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_008,3186,1268,Total!!Male!!Associate's degree,Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_008,336,334,Total!!Male!!Associate's degree,Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_008,1066,508,Total!!Male!!Associate's degree,Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_009,14596,2196,Total!!Male!!Bachelor's degree,Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_009,6028,1489,Total!!Male!!Bachelor's degree,Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_009,3627,1063,Total!!Male!!Bachelor's degree,Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_009,1060,629,Total!!Male!!Bachelor's degree,Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_009,5535,1538,Total!!Male!!Bachelor's degree,Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_009,626,546,Total!!Male!!Bachelor's degree,Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_009,2021,697,Total!!Male!!Bachelor's degree,Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_010,6386,1279,Total!!Male!!Graduate or professional degree,Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_010,2978,856,Total!!Male!!Graduate or professional degree,Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_010,3210,1165,Total!!Male!!Graduate or professional degree,Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_010,707,356,Total!!Male!!Graduate or professional degree,Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_010,4744,1617,Total!!Male!!Graduate or professional degree,Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_010,265,341,Total!!Male!!Graduate or professional degree,Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_010,1051,454,Total!!Male!!Graduate or professional degree,Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_011,117305,2459,Total!!Female,Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_011,39194,1554,Total!!Female,Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_011,42243,2124,Total!!Female,Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_011,13354,1729,Total!!Female,Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_011,47497,3347,Total!!Female,Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_011,8795,1372,Total!!Female,Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_011,29975,2003,Total!!Female,Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_012,1562,683,Total!!Female!!Less than 9th grade,Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_012,431,310,Total!!Female!!Less than 9th grade,Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_012,855,659,Total!!Female!!Less than 9th grade,Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_012,1689,864,Total!!Female!!Less than 9th grade,Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_012,522,355,Total!!Female!!Less than 9th grade,Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_012,0,210,Total!!Female!!Less than 9th grade,Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_012,991,607,Total!!Female!!Less than 9th grade,Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_013,7239,1397,"Total!!Female!!9th to 12th grade, no diploma",Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_013,2597,925,"Total!!Female!!9th to 12th grade, no diploma",Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_013,3240,1293,"Total!!Female!!9th to 12th grade, no diploma",Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_013,1467,635,"Total!!Female!!9th to 12th grade, no diploma",Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_013,3675,1183,"Total!!Female!!9th to 12th grade, no diploma",Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_013,757,527,"Total!!Female!!9th to 12th grade, no diploma",Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_013,2031,936,"Total!!Female!!9th to 12th grade, no diploma",Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_014,20006,2500,Total!!Female!!Regular high school diploma,Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_014,7608,1944,Total!!Female!!Regular high school diploma,Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_014,9178,1832,Total!!Female!!Regular high school diploma,Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_014,3124,848,Total!!Female!!Regular high school diploma,Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_014,8724,1563,Total!!Female!!Regular high school diploma,Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_014,2505,861,Total!!Female!!Regular high school diploma,Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_014,9819,2238,Total!!Female!!Regular high school diploma,Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_015,2544,799,Total!!Female!!GED or alternative credential,Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_015,1797,1017,Total!!Female!!GED or alternative credential,Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_015,1115,458,Total!!Female!!GED or alternative credential,Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_015,822,546,Total!!Female!!GED or alternative credential,Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_015,1624,663,Total!!Female!!GED or alternative credential,Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_015,594,504,Total!!Female!!GED or alternative credential,Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_015,545,360,Total!!Female!!GED or alternative credential,Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_016,34250,3626,"Total!!Female!!Some college, no degree",Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_016,7198,1830,"Total!!Female!!Some college, no degree",Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_016,9595,1798,"Total!!Female!!Some college, no degree",Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_016,2828,970,"Total!!Female!!Some college, no degree",Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_016,12222,2177,"Total!!Female!!Some college, no degree",Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_016,2624,845,"Total!!Female!!Some college, no degree",Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_016,6632,1237,"Total!!Female!!Some college, no degree",Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_017,13091,2208,Total!!Female!!Associate's degree,Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_017,5489,1670,Total!!Female!!Associate's degree,Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_017,4351,1305,Total!!Female!!Associate's degree,Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_017,509,300,Total!!Female!!Associate's degree,Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_017,2864,1016,Total!!Female!!Associate's degree,Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_017,325,309,Total!!Female!!Associate's degree,Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_017,3443,1229,Total!!Female!!Associate's degree,Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_018,25109,3472,Total!!Female!!Bachelor's degree,Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_018,6697,1301,Total!!Female!!Bachelor's degree,Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_018,9339,2030,Total!!Female!!Bachelor's degree,Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_018,1500,615,Total!!Female!!Bachelor's degree,Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_018,12905,2762,Total!!Female!!Bachelor's degree,Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_018,1806,1261,Total!!Female!!Bachelor's degree,Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_018,4415,1163,Total!!Female!!Bachelor's degree,Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002B_019,13504,2103,Total!!Female!!Graduate or professional degree,Black Or African American Alone
+3719000,"Durham city, North Carolina",B15002B_019,7377,1417,Total!!Female!!Graduate or professional degree,Black Or African American Alone
+3728000,"Greensboro city, North Carolina",B15002B_019,4570,1156,Total!!Female!!Graduate or professional degree,Black Or African American Alone
+3731400,"High Point city, North Carolina",B15002B_019,1415,709,Total!!Female!!Graduate or professional degree,Black Or African American Alone
+3755000,"Raleigh city, North Carolina",B15002B_019,4961,1432,Total!!Female!!Graduate or professional degree,Black Or African American Alone
+3774440,"Wilmington city, North Carolina",B15002B_019,184,194,Total!!Female!!Graduate or professional degree,Black Or African American Alone
+3775000,"Winston-Salem city, North Carolina",B15002B_019,2099,743,Total!!Female!!Graduate or professional degree,Black Or African American Alone
+3712000,"Charlotte city, North Carolina",B15002C_001,NA,NA,Total,American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_001,NA,NA,Total,American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_001,NA,NA,Total,American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_001,NA,NA,Total,American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_001,NA,NA,Total,American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_001,NA,NA,Total,American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_001,NA,NA,Total,American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_002,NA,NA,Total!!Male,American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_002,NA,NA,Total!!Male,American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_002,NA,NA,Total!!Male,American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_002,NA,NA,Total!!Male,American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_002,NA,NA,Total!!Male,American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_002,NA,NA,Total!!Male,American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_002,NA,NA,Total!!Male,American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_003,NA,NA,Total!!Male!!Less than 9th grade,American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_003,NA,NA,Total!!Male!!Less than 9th grade,American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_003,NA,NA,Total!!Male!!Less than 9th grade,American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_003,NA,NA,Total!!Male!!Less than 9th grade,American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_003,NA,NA,Total!!Male!!Less than 9th grade,American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_003,NA,NA,Total!!Male!!Less than 9th grade,American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_003,NA,NA,Total!!Male!!Less than 9th grade,American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_005,NA,NA,Total!!Male!!Regular high school diploma,American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_005,NA,NA,Total!!Male!!Regular high school diploma,American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_005,NA,NA,Total!!Male!!Regular high school diploma,American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_005,NA,NA,Total!!Male!!Regular high school diploma,American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_005,NA,NA,Total!!Male!!Regular high school diploma,American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_005,NA,NA,Total!!Male!!Regular high school diploma,American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_005,NA,NA,Total!!Male!!Regular high school diploma,American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_006,NA,NA,Total!!Male!!GED or alternative credential,American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_006,NA,NA,Total!!Male!!GED or alternative credential,American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_006,NA,NA,Total!!Male!!GED or alternative credential,American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_006,NA,NA,Total!!Male!!GED or alternative credential,American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_006,NA,NA,Total!!Male!!GED or alternative credential,American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_006,NA,NA,Total!!Male!!GED or alternative credential,American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_006,NA,NA,Total!!Male!!GED or alternative credential,American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_007,NA,NA,"Total!!Male!!Some college, no degree",American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_007,NA,NA,"Total!!Male!!Some college, no degree",American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_007,NA,NA,"Total!!Male!!Some college, no degree",American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_007,NA,NA,"Total!!Male!!Some college, no degree",American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_007,NA,NA,"Total!!Male!!Some college, no degree",American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_007,NA,NA,"Total!!Male!!Some college, no degree",American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_007,NA,NA,"Total!!Male!!Some college, no degree",American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_008,NA,NA,Total!!Male!!Associate's degree,American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_008,NA,NA,Total!!Male!!Associate's degree,American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_008,NA,NA,Total!!Male!!Associate's degree,American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_008,NA,NA,Total!!Male!!Associate's degree,American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_008,NA,NA,Total!!Male!!Associate's degree,American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_008,NA,NA,Total!!Male!!Associate's degree,American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_008,NA,NA,Total!!Male!!Associate's degree,American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_009,NA,NA,Total!!Male!!Bachelor's degree,American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_009,NA,NA,Total!!Male!!Bachelor's degree,American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_009,NA,NA,Total!!Male!!Bachelor's degree,American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_009,NA,NA,Total!!Male!!Bachelor's degree,American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_009,NA,NA,Total!!Male!!Bachelor's degree,American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_009,NA,NA,Total!!Male!!Bachelor's degree,American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_009,NA,NA,Total!!Male!!Bachelor's degree,American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_010,NA,NA,Total!!Male!!Graduate or professional degree,American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_010,NA,NA,Total!!Male!!Graduate or professional degree,American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_010,NA,NA,Total!!Male!!Graduate or professional degree,American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_010,NA,NA,Total!!Male!!Graduate or professional degree,American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_010,NA,NA,Total!!Male!!Graduate or professional degree,American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_010,NA,NA,Total!!Male!!Graduate or professional degree,American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_010,NA,NA,Total!!Male!!Graduate or professional degree,American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_011,NA,NA,Total!!Female,American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_011,NA,NA,Total!!Female,American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_011,NA,NA,Total!!Female,American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_011,NA,NA,Total!!Female,American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_011,NA,NA,Total!!Female,American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_011,NA,NA,Total!!Female,American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_011,NA,NA,Total!!Female,American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_012,NA,NA,Total!!Female!!Less than 9th grade,American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_012,NA,NA,Total!!Female!!Less than 9th grade,American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_012,NA,NA,Total!!Female!!Less than 9th grade,American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_012,NA,NA,Total!!Female!!Less than 9th grade,American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_012,NA,NA,Total!!Female!!Less than 9th grade,American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_012,NA,NA,Total!!Female!!Less than 9th grade,American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_012,NA,NA,Total!!Female!!Less than 9th grade,American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_014,NA,NA,Total!!Female!!Regular high school diploma,American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_014,NA,NA,Total!!Female!!Regular high school diploma,American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_014,NA,NA,Total!!Female!!Regular high school diploma,American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_014,NA,NA,Total!!Female!!Regular high school diploma,American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_014,NA,NA,Total!!Female!!Regular high school diploma,American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_014,NA,NA,Total!!Female!!Regular high school diploma,American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_014,NA,NA,Total!!Female!!Regular high school diploma,American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_015,NA,NA,Total!!Female!!GED or alternative credential,American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_015,NA,NA,Total!!Female!!GED or alternative credential,American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_015,NA,NA,Total!!Female!!GED or alternative credential,American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_015,NA,NA,Total!!Female!!GED or alternative credential,American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_015,NA,NA,Total!!Female!!GED or alternative credential,American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_015,NA,NA,Total!!Female!!GED or alternative credential,American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_015,NA,NA,Total!!Female!!GED or alternative credential,American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_016,NA,NA,"Total!!Female!!Some college, no degree",American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_016,NA,NA,"Total!!Female!!Some college, no degree",American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_016,NA,NA,"Total!!Female!!Some college, no degree",American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_016,NA,NA,"Total!!Female!!Some college, no degree",American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_016,NA,NA,"Total!!Female!!Some college, no degree",American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_016,NA,NA,"Total!!Female!!Some college, no degree",American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_016,NA,NA,"Total!!Female!!Some college, no degree",American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_017,NA,NA,Total!!Female!!Associate's degree,American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_017,NA,NA,Total!!Female!!Associate's degree,American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_017,NA,NA,Total!!Female!!Associate's degree,American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_017,NA,NA,Total!!Female!!Associate's degree,American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_017,NA,NA,Total!!Female!!Associate's degree,American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_017,NA,NA,Total!!Female!!Associate's degree,American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_017,NA,NA,Total!!Female!!Associate's degree,American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_018,NA,NA,Total!!Female!!Bachelor's degree,American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_018,NA,NA,Total!!Female!!Bachelor's degree,American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_018,NA,NA,Total!!Female!!Bachelor's degree,American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_018,NA,NA,Total!!Female!!Bachelor's degree,American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_018,NA,NA,Total!!Female!!Bachelor's degree,American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_018,NA,NA,Total!!Female!!Bachelor's degree,American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_018,NA,NA,Total!!Female!!Bachelor's degree,American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002C_019,NA,NA,Total!!Female!!Graduate or professional degree,American Indian And Alaska Native Alone
+3719000,"Durham city, North Carolina",B15002C_019,NA,NA,Total!!Female!!Graduate or professional degree,American Indian And Alaska Native Alone
+3728000,"Greensboro city, North Carolina",B15002C_019,NA,NA,Total!!Female!!Graduate or professional degree,American Indian And Alaska Native Alone
+3731400,"High Point city, North Carolina",B15002C_019,NA,NA,Total!!Female!!Graduate or professional degree,American Indian And Alaska Native Alone
+3755000,"Raleigh city, North Carolina",B15002C_019,NA,NA,Total!!Female!!Graduate or professional degree,American Indian And Alaska Native Alone
+3774440,"Wilmington city, North Carolina",B15002C_019,NA,NA,Total!!Female!!Graduate or professional degree,American Indian And Alaska Native Alone
+3775000,"Winston-Salem city, North Carolina",B15002C_019,NA,NA,Total!!Female!!Graduate or professional degree,American Indian And Alaska Native Alone
+3712000,"Charlotte city, North Carolina",B15002D_001,41937,1611,Total,Asian Alone
+3719000,"Durham city, North Carolina",B15002D_001,10085,831,Total,Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_001,9264,1895,Total,Asian Alone
+3731400,"High Point city, North Carolina",B15002D_001,6593,1795,Total,Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_001,15316,2432,Total,Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_001,NA,NA,Total,Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_001,NA,NA,Total,Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_002,21613,1070,Total!!Male,Asian Alone
+3719000,"Durham city, North Carolina",B15002D_002,4599,540,Total!!Male,Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_002,4252,1083,Total!!Male,Asian Alone
+3731400,"High Point city, North Carolina",B15002D_002,3261,1005,Total!!Male,Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_002,7586,1360,Total!!Male,Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_002,NA,NA,Total!!Male,Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_002,NA,NA,Total!!Male,Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_003,3157,1104,Total!!Male!!Less than 9th grade,Asian Alone
+3719000,"Durham city, North Carolina",B15002D_003,310,318,Total!!Male!!Less than 9th grade,Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_003,309,328,Total!!Male!!Less than 9th grade,Asian Alone
+3731400,"High Point city, North Carolina",B15002D_003,945,631,Total!!Male!!Less than 9th grade,Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_003,514,365,Total!!Male!!Less than 9th grade,Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_003,NA,NA,Total!!Male!!Less than 9th grade,Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_003,NA,NA,Total!!Male!!Less than 9th grade,Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_004,618,417,"Total!!Male!!9th to 12th grade, no diploma",Asian Alone
+3719000,"Durham city, North Carolina",B15002D_004,68,117,"Total!!Male!!9th to 12th grade, no diploma",Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_004,176,194,"Total!!Male!!9th to 12th grade, no diploma",Asian Alone
+3731400,"High Point city, North Carolina",B15002D_004,201,188,"Total!!Male!!9th to 12th grade, no diploma",Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_004,307,272,"Total!!Male!!9th to 12th grade, no diploma",Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_005,955,574,Total!!Male!!Regular high school diploma,Asian Alone
+3719000,"Durham city, North Carolina",B15002D_005,166,131,Total!!Male!!Regular high school diploma,Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_005,684,383,Total!!Male!!Regular high school diploma,Asian Alone
+3731400,"High Point city, North Carolina",B15002D_005,495,387,Total!!Male!!Regular high school diploma,Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_005,978,770,Total!!Male!!Regular high school diploma,Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_005,NA,NA,Total!!Male!!Regular high school diploma,Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_005,NA,NA,Total!!Male!!Regular high school diploma,Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_006,168,191,Total!!Male!!GED or alternative credential,Asian Alone
+3719000,"Durham city, North Carolina",B15002D_006,0,210,Total!!Male!!GED or alternative credential,Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_006,370,310,Total!!Male!!GED or alternative credential,Asian Alone
+3731400,"High Point city, North Carolina",B15002D_006,0,210,Total!!Male!!GED or alternative credential,Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_006,37,62,Total!!Male!!GED or alternative credential,Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_006,NA,NA,Total!!Male!!GED or alternative credential,Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_006,NA,NA,Total!!Male!!GED or alternative credential,Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_007,1301,611,"Total!!Male!!Some college, no degree",Asian Alone
+3719000,"Durham city, North Carolina",B15002D_007,526,438,"Total!!Male!!Some college, no degree",Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_007,1393,914,"Total!!Male!!Some college, no degree",Asian Alone
+3731400,"High Point city, North Carolina",B15002D_007,391,298,"Total!!Male!!Some college, no degree",Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_007,1091,652,"Total!!Male!!Some college, no degree",Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_007,NA,NA,"Total!!Male!!Some college, no degree",Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_007,NA,NA,"Total!!Male!!Some college, no degree",Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_008,645,387,Total!!Male!!Associate's degree,Asian Alone
+3719000,"Durham city, North Carolina",B15002D_008,220,250,Total!!Male!!Associate's degree,Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_008,124,212,Total!!Male!!Associate's degree,Asian Alone
+3731400,"High Point city, North Carolina",B15002D_008,373,414,Total!!Male!!Associate's degree,Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_008,155,202,Total!!Male!!Associate's degree,Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_008,NA,NA,Total!!Male!!Associate's degree,Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_008,NA,NA,Total!!Male!!Associate's degree,Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_009,7286,1236,Total!!Male!!Bachelor's degree,Asian Alone
+3719000,"Durham city, North Carolina",B15002D_009,1668,583,Total!!Male!!Bachelor's degree,Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_009,487,322,Total!!Male!!Bachelor's degree,Asian Alone
+3731400,"High Point city, North Carolina",B15002D_009,509,324,Total!!Male!!Bachelor's degree,Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_009,2458,924,Total!!Male!!Bachelor's degree,Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_009,NA,NA,Total!!Male!!Bachelor's degree,Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_009,NA,NA,Total!!Male!!Bachelor's degree,Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_010,7483,1678,Total!!Male!!Graduate or professional degree,Asian Alone
+3719000,"Durham city, North Carolina",B15002D_010,1641,495,Total!!Male!!Graduate or professional degree,Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_010,709,452,Total!!Male!!Graduate or professional degree,Asian Alone
+3731400,"High Point city, North Carolina",B15002D_010,347,390,Total!!Male!!Graduate or professional degree,Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_010,2046,674,Total!!Male!!Graduate or professional degree,Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_010,NA,NA,Total!!Male!!Graduate or professional degree,Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_010,NA,NA,Total!!Male!!Graduate or professional degree,Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_011,20324,892,Total!!Female,Asian Alone
+3719000,"Durham city, North Carolina",B15002D_011,5486,498,Total!!Female,Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_011,5012,1059,Total!!Female,Asian Alone
+3731400,"High Point city, North Carolina",B15002D_011,3332,974,Total!!Female,Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_011,7730,1260,Total!!Female,Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_011,NA,NA,Total!!Female,Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_011,NA,NA,Total!!Female,Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_012,2641,1250,Total!!Female!!Less than 9th grade,Asian Alone
+3719000,"Durham city, North Carolina",B15002D_012,310,358,Total!!Female!!Less than 9th grade,Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_012,999,555,Total!!Female!!Less than 9th grade,Asian Alone
+3731400,"High Point city, North Carolina",B15002D_012,400,354,Total!!Female!!Less than 9th grade,Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_012,1226,673,Total!!Female!!Less than 9th grade,Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_012,NA,NA,Total!!Female!!Less than 9th grade,Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_012,NA,NA,Total!!Female!!Less than 9th grade,Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_013,1324,522,"Total!!Female!!9th to 12th grade, no diploma",Asian Alone
+3719000,"Durham city, North Carolina",B15002D_013,258,267,"Total!!Female!!9th to 12th grade, no diploma",Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_013,720,522,"Total!!Female!!9th to 12th grade, no diploma",Asian Alone
+3731400,"High Point city, North Carolina",B15002D_013,145,159,"Total!!Female!!9th to 12th grade, no diploma",Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_013,396,295,"Total!!Female!!9th to 12th grade, no diploma",Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_014,1985,789,Total!!Female!!Regular high school diploma,Asian Alone
+3719000,"Durham city, North Carolina",B15002D_014,335,291,Total!!Female!!Regular high school diploma,Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_014,102,130,Total!!Female!!Regular high school diploma,Asian Alone
+3731400,"High Point city, North Carolina",B15002D_014,584,419,Total!!Female!!Regular high school diploma,Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_014,1008,541,Total!!Female!!Regular high school diploma,Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_014,NA,NA,Total!!Female!!Regular high school diploma,Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_014,NA,NA,Total!!Female!!Regular high school diploma,Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_015,226,282,Total!!Female!!GED or alternative credential,Asian Alone
+3719000,"Durham city, North Carolina",B15002D_015,0,210,Total!!Female!!GED or alternative credential,Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_015,97,121,Total!!Female!!GED or alternative credential,Asian Alone
+3731400,"High Point city, North Carolina",B15002D_015,42,72,Total!!Female!!GED or alternative credential,Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_015,122,142,Total!!Female!!GED or alternative credential,Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_015,NA,NA,Total!!Female!!GED or alternative credential,Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_015,NA,NA,Total!!Female!!GED or alternative credential,Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_016,1817,598,"Total!!Female!!Some college, no degree",Asian Alone
+3719000,"Durham city, North Carolina",B15002D_016,381,313,"Total!!Female!!Some college, no degree",Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_016,1027,745,"Total!!Female!!Some college, no degree",Asian Alone
+3731400,"High Point city, North Carolina",B15002D_016,372,297,"Total!!Female!!Some college, no degree",Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_016,697,579,"Total!!Female!!Some college, no degree",Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_016,NA,NA,"Total!!Female!!Some college, no degree",Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_016,NA,NA,"Total!!Female!!Some college, no degree",Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_017,987,627,Total!!Female!!Associate's degree,Asian Alone
+3719000,"Durham city, North Carolina",B15002D_017,364,350,Total!!Female!!Associate's degree,Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_017,161,174,Total!!Female!!Associate's degree,Asian Alone
+3731400,"High Point city, North Carolina",B15002D_017,43,77,Total!!Female!!Associate's degree,Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_017,333,314,Total!!Female!!Associate's degree,Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_017,NA,NA,Total!!Female!!Associate's degree,Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_017,NA,NA,Total!!Female!!Associate's degree,Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_018,5405,1067,Total!!Female!!Bachelor's degree,Asian Alone
+3719000,"Durham city, North Carolina",B15002D_018,1461,548,Total!!Female!!Bachelor's degree,Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_018,962,502,Total!!Female!!Bachelor's degree,Asian Alone
+3731400,"High Point city, North Carolina",B15002D_018,1313,643,Total!!Female!!Bachelor's degree,Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_018,2157,874,Total!!Female!!Bachelor's degree,Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_018,NA,NA,Total!!Female!!Bachelor's degree,Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_018,NA,NA,Total!!Female!!Bachelor's degree,Asian Alone
+3712000,"Charlotte city, North Carolina",B15002D_019,5939,1280,Total!!Female!!Graduate or professional degree,Asian Alone
+3719000,"Durham city, North Carolina",B15002D_019,2377,599,Total!!Female!!Graduate or professional degree,Asian Alone
+3728000,"Greensboro city, North Carolina",B15002D_019,944,557,Total!!Female!!Graduate or professional degree,Asian Alone
+3731400,"High Point city, North Carolina",B15002D_019,433,294,Total!!Female!!Graduate or professional degree,Asian Alone
+3755000,"Raleigh city, North Carolina",B15002D_019,1791,749,Total!!Female!!Graduate or professional degree,Asian Alone
+3774440,"Wilmington city, North Carolina",B15002D_019,NA,NA,Total!!Female!!Graduate or professional degree,Asian Alone
+3775000,"Winston-Salem city, North Carolina",B15002D_019,NA,NA,Total!!Female!!Graduate or professional degree,Asian Alone
+3712000,"Charlotte city, North Carolina",B15002E_001,NA,NA,Total,Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_001,NA,NA,Total,Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_001,NA,NA,Total,Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_001,NA,NA,Total,Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_001,NA,NA,Total,Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_001,NA,NA,Total,Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_001,NA,NA,Total,Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_002,NA,NA,Total!!Male,Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_002,NA,NA,Total!!Male,Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_002,NA,NA,Total!!Male,Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_002,NA,NA,Total!!Male,Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_002,NA,NA,Total!!Male,Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_002,NA,NA,Total!!Male,Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_002,NA,NA,Total!!Male,Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_003,NA,NA,Total!!Male!!Less than 9th grade,Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_003,NA,NA,Total!!Male!!Less than 9th grade,Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_003,NA,NA,Total!!Male!!Less than 9th grade,Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_003,NA,NA,Total!!Male!!Less than 9th grade,Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_003,NA,NA,Total!!Male!!Less than 9th grade,Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_003,NA,NA,Total!!Male!!Less than 9th grade,Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_003,NA,NA,Total!!Male!!Less than 9th grade,Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_005,NA,NA,Total!!Male!!Regular high school diploma,Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_005,NA,NA,Total!!Male!!Regular high school diploma,Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_005,NA,NA,Total!!Male!!Regular high school diploma,Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_005,NA,NA,Total!!Male!!Regular high school diploma,Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_005,NA,NA,Total!!Male!!Regular high school diploma,Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_005,NA,NA,Total!!Male!!Regular high school diploma,Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_005,NA,NA,Total!!Male!!Regular high school diploma,Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_006,NA,NA,Total!!Male!!GED or alternative credential,Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_006,NA,NA,Total!!Male!!GED or alternative credential,Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_006,NA,NA,Total!!Male!!GED or alternative credential,Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_006,NA,NA,Total!!Male!!GED or alternative credential,Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_006,NA,NA,Total!!Male!!GED or alternative credential,Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_006,NA,NA,Total!!Male!!GED or alternative credential,Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_006,NA,NA,Total!!Male!!GED or alternative credential,Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_007,NA,NA,"Total!!Male!!Some college, no degree",Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_007,NA,NA,"Total!!Male!!Some college, no degree",Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_007,NA,NA,"Total!!Male!!Some college, no degree",Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_007,NA,NA,"Total!!Male!!Some college, no degree",Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_007,NA,NA,"Total!!Male!!Some college, no degree",Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_007,NA,NA,"Total!!Male!!Some college, no degree",Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_007,NA,NA,"Total!!Male!!Some college, no degree",Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_008,NA,NA,Total!!Male!!Associate's degree,Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_008,NA,NA,Total!!Male!!Associate's degree,Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_008,NA,NA,Total!!Male!!Associate's degree,Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_008,NA,NA,Total!!Male!!Associate's degree,Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_008,NA,NA,Total!!Male!!Associate's degree,Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_008,NA,NA,Total!!Male!!Associate's degree,Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_008,NA,NA,Total!!Male!!Associate's degree,Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_009,NA,NA,Total!!Male!!Bachelor's degree,Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_009,NA,NA,Total!!Male!!Bachelor's degree,Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_009,NA,NA,Total!!Male!!Bachelor's degree,Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_009,NA,NA,Total!!Male!!Bachelor's degree,Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_009,NA,NA,Total!!Male!!Bachelor's degree,Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_009,NA,NA,Total!!Male!!Bachelor's degree,Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_009,NA,NA,Total!!Male!!Bachelor's degree,Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_010,NA,NA,Total!!Male!!Graduate or professional degree,Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_010,NA,NA,Total!!Male!!Graduate or professional degree,Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_010,NA,NA,Total!!Male!!Graduate or professional degree,Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_010,NA,NA,Total!!Male!!Graduate or professional degree,Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_010,NA,NA,Total!!Male!!Graduate or professional degree,Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_010,NA,NA,Total!!Male!!Graduate or professional degree,Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_010,NA,NA,Total!!Male!!Graduate or professional degree,Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_011,NA,NA,Total!!Female,Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_011,NA,NA,Total!!Female,Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_011,NA,NA,Total!!Female,Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_011,NA,NA,Total!!Female,Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_011,NA,NA,Total!!Female,Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_011,NA,NA,Total!!Female,Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_011,NA,NA,Total!!Female,Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_012,NA,NA,Total!!Female!!Less than 9th grade,Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_012,NA,NA,Total!!Female!!Less than 9th grade,Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_012,NA,NA,Total!!Female!!Less than 9th grade,Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_012,NA,NA,Total!!Female!!Less than 9th grade,Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_012,NA,NA,Total!!Female!!Less than 9th grade,Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_012,NA,NA,Total!!Female!!Less than 9th grade,Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_012,NA,NA,Total!!Female!!Less than 9th grade,Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_014,NA,NA,Total!!Female!!Regular high school diploma,Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_014,NA,NA,Total!!Female!!Regular high school diploma,Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_014,NA,NA,Total!!Female!!Regular high school diploma,Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_014,NA,NA,Total!!Female!!Regular high school diploma,Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_014,NA,NA,Total!!Female!!Regular high school diploma,Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_014,NA,NA,Total!!Female!!Regular high school diploma,Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_014,NA,NA,Total!!Female!!Regular high school diploma,Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_015,NA,NA,Total!!Female!!GED or alternative credential,Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_015,NA,NA,Total!!Female!!GED or alternative credential,Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_015,NA,NA,Total!!Female!!GED or alternative credential,Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_015,NA,NA,Total!!Female!!GED or alternative credential,Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_015,NA,NA,Total!!Female!!GED or alternative credential,Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_015,NA,NA,Total!!Female!!GED or alternative credential,Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_015,NA,NA,Total!!Female!!GED or alternative credential,Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_016,NA,NA,"Total!!Female!!Some college, no degree",Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_016,NA,NA,"Total!!Female!!Some college, no degree",Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_016,NA,NA,"Total!!Female!!Some college, no degree",Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_016,NA,NA,"Total!!Female!!Some college, no degree",Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_016,NA,NA,"Total!!Female!!Some college, no degree",Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_016,NA,NA,"Total!!Female!!Some college, no degree",Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_016,NA,NA,"Total!!Female!!Some college, no degree",Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_017,NA,NA,Total!!Female!!Associate's degree,Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_017,NA,NA,Total!!Female!!Associate's degree,Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_017,NA,NA,Total!!Female!!Associate's degree,Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_017,NA,NA,Total!!Female!!Associate's degree,Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_017,NA,NA,Total!!Female!!Associate's degree,Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_017,NA,NA,Total!!Female!!Associate's degree,Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_017,NA,NA,Total!!Female!!Associate's degree,Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_018,NA,NA,Total!!Female!!Bachelor's degree,Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_018,NA,NA,Total!!Female!!Bachelor's degree,Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_018,NA,NA,Total!!Female!!Bachelor's degree,Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_018,NA,NA,Total!!Female!!Bachelor's degree,Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_018,NA,NA,Total!!Female!!Bachelor's degree,Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_018,NA,NA,Total!!Female!!Bachelor's degree,Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_018,NA,NA,Total!!Female!!Bachelor's degree,Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002E_019,NA,NA,Total!!Female!!Graduate or professional degree,Native Hawaiian And Other Pacific Islander Alone
+3719000,"Durham city, North Carolina",B15002E_019,NA,NA,Total!!Female!!Graduate or professional degree,Native Hawaiian And Other Pacific Islander Alone
+3728000,"Greensboro city, North Carolina",B15002E_019,NA,NA,Total!!Female!!Graduate or professional degree,Native Hawaiian And Other Pacific Islander Alone
+3731400,"High Point city, North Carolina",B15002E_019,NA,NA,Total!!Female!!Graduate or professional degree,Native Hawaiian And Other Pacific Islander Alone
+3755000,"Raleigh city, North Carolina",B15002E_019,NA,NA,Total!!Female!!Graduate or professional degree,Native Hawaiian And Other Pacific Islander Alone
+3774440,"Wilmington city, North Carolina",B15002E_019,NA,NA,Total!!Female!!Graduate or professional degree,Native Hawaiian And Other Pacific Islander Alone
+3775000,"Winston-Salem city, North Carolina",B15002E_019,NA,NA,Total!!Female!!Graduate or professional degree,Native Hawaiian And Other Pacific Islander Alone
+3712000,"Charlotte city, North Carolina",B15002F_001,30860,3657,Total,Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_001,NA,NA,Total,Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_001,NA,NA,Total,Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_001,NA,NA,Total,Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_001,NA,NA,Total,Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_001,NA,NA,Total,Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_001,4014,1556,Total,Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_002,15608,2014,Total!!Male,Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_002,NA,NA,Total!!Male,Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_002,NA,NA,Total!!Male,Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_002,NA,NA,Total!!Male,Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_002,NA,NA,Total!!Male,Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_002,NA,NA,Total!!Male,Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_002,1838,820,Total!!Male,Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_003,6370,1344,Total!!Male!!Less than 9th grade,Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_003,NA,NA,Total!!Male!!Less than 9th grade,Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_003,NA,NA,Total!!Male!!Less than 9th grade,Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_003,NA,NA,Total!!Male!!Less than 9th grade,Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_003,NA,NA,Total!!Male!!Less than 9th grade,Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_003,NA,NA,Total!!Male!!Less than 9th grade,Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_003,655,593,Total!!Male!!Less than 9th grade,Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_004,1549,732,"Total!!Male!!9th to 12th grade, no diploma",Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_004,242,239,"Total!!Male!!9th to 12th grade, no diploma",Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_005,4152,1305,Total!!Male!!Regular high school diploma,Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_005,NA,NA,Total!!Male!!Regular high school diploma,Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_005,NA,NA,Total!!Male!!Regular high school diploma,Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_005,NA,NA,Total!!Male!!Regular high school diploma,Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_005,NA,NA,Total!!Male!!Regular high school diploma,Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_005,NA,NA,Total!!Male!!Regular high school diploma,Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_005,281,261,Total!!Male!!Regular high school diploma,Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_006,213,285,Total!!Male!!GED or alternative credential,Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_006,NA,NA,Total!!Male!!GED or alternative credential,Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_006,NA,NA,Total!!Male!!GED or alternative credential,Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_006,NA,NA,Total!!Male!!GED or alternative credential,Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_006,NA,NA,Total!!Male!!GED or alternative credential,Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_006,NA,NA,Total!!Male!!GED or alternative credential,Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_006,48,82,Total!!Male!!GED or alternative credential,Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_007,1337,617,"Total!!Male!!Some college, no degree",Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_007,NA,NA,"Total!!Male!!Some college, no degree",Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_007,NA,NA,"Total!!Male!!Some college, no degree",Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_007,NA,NA,"Total!!Male!!Some college, no degree",Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_007,NA,NA,"Total!!Male!!Some college, no degree",Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_007,NA,NA,"Total!!Male!!Some college, no degree",Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_007,384,373,"Total!!Male!!Some college, no degree",Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_008,206,205,Total!!Male!!Associate's degree,Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_008,NA,NA,Total!!Male!!Associate's degree,Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_008,NA,NA,Total!!Male!!Associate's degree,Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_008,NA,NA,Total!!Male!!Associate's degree,Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_008,NA,NA,Total!!Male!!Associate's degree,Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_008,NA,NA,Total!!Male!!Associate's degree,Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_008,0,210,Total!!Male!!Associate's degree,Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_009,1283,643,Total!!Male!!Bachelor's degree,Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_009,NA,NA,Total!!Male!!Bachelor's degree,Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_009,NA,NA,Total!!Male!!Bachelor's degree,Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_009,NA,NA,Total!!Male!!Bachelor's degree,Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_009,NA,NA,Total!!Male!!Bachelor's degree,Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_009,NA,NA,Total!!Male!!Bachelor's degree,Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_009,228,281,Total!!Male!!Bachelor's degree,Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_010,498,395,Total!!Male!!Graduate or professional degree,Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_010,NA,NA,Total!!Male!!Graduate or professional degree,Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_010,NA,NA,Total!!Male!!Graduate or professional degree,Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_010,NA,NA,Total!!Male!!Graduate or professional degree,Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_010,NA,NA,Total!!Male!!Graduate or professional degree,Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_010,NA,NA,Total!!Male!!Graduate or professional degree,Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_010,0,210,Total!!Male!!Graduate or professional degree,Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_011,15252,2089,Total!!Female,Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_011,NA,NA,Total!!Female,Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_011,NA,NA,Total!!Female,Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_011,NA,NA,Total!!Female,Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_011,NA,NA,Total!!Female,Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_011,NA,NA,Total!!Female,Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_011,2176,894,Total!!Female,Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_012,4928,1183,Total!!Female!!Less than 9th grade,Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_012,NA,NA,Total!!Female!!Less than 9th grade,Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_012,NA,NA,Total!!Female!!Less than 9th grade,Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_012,NA,NA,Total!!Female!!Less than 9th grade,Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_012,NA,NA,Total!!Female!!Less than 9th grade,Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_012,NA,NA,Total!!Female!!Less than 9th grade,Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_012,504,354,Total!!Female!!Less than 9th grade,Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_013,1500,751,"Total!!Female!!9th to 12th grade, no diploma",Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_013,231,235,"Total!!Female!!9th to 12th grade, no diploma",Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_014,3070,1080,Total!!Female!!Regular high school diploma,Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_014,NA,NA,Total!!Female!!Regular high school diploma,Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_014,NA,NA,Total!!Female!!Regular high school diploma,Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_014,NA,NA,Total!!Female!!Regular high school diploma,Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_014,NA,NA,Total!!Female!!Regular high school diploma,Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_014,NA,NA,Total!!Female!!Regular high school diploma,Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_014,561,459,Total!!Female!!Regular high school diploma,Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_015,269,270,Total!!Female!!GED or alternative credential,Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_015,NA,NA,Total!!Female!!GED or alternative credential,Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_015,NA,NA,Total!!Female!!GED or alternative credential,Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_015,NA,NA,Total!!Female!!GED or alternative credential,Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_015,NA,NA,Total!!Female!!GED or alternative credential,Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_015,NA,NA,Total!!Female!!GED or alternative credential,Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_015,0,210,Total!!Female!!GED or alternative credential,Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_016,2304,890,"Total!!Female!!Some college, no degree",Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_016,NA,NA,"Total!!Female!!Some college, no degree",Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_016,NA,NA,"Total!!Female!!Some college, no degree",Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_016,NA,NA,"Total!!Female!!Some college, no degree",Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_016,NA,NA,"Total!!Female!!Some college, no degree",Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_016,NA,NA,"Total!!Female!!Some college, no degree",Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_016,509,491,"Total!!Female!!Some college, no degree",Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_017,1033,501,Total!!Female!!Associate's degree,Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_017,NA,NA,Total!!Female!!Associate's degree,Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_017,NA,NA,Total!!Female!!Associate's degree,Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_017,NA,NA,Total!!Female!!Associate's degree,Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_017,NA,NA,Total!!Female!!Associate's degree,Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_017,NA,NA,Total!!Female!!Associate's degree,Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_017,98,135,Total!!Female!!Associate's degree,Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_018,1743,738,Total!!Female!!Bachelor's degree,Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_018,NA,NA,Total!!Female!!Bachelor's degree,Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_018,NA,NA,Total!!Female!!Bachelor's degree,Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_018,NA,NA,Total!!Female!!Bachelor's degree,Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_018,NA,NA,Total!!Female!!Bachelor's degree,Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_018,NA,NA,Total!!Female!!Bachelor's degree,Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_018,273,264,Total!!Female!!Bachelor's degree,Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002F_019,405,265,Total!!Female!!Graduate or professional degree,Some Other Race Alone
+3719000,"Durham city, North Carolina",B15002F_019,NA,NA,Total!!Female!!Graduate or professional degree,Some Other Race Alone
+3728000,"Greensboro city, North Carolina",B15002F_019,NA,NA,Total!!Female!!Graduate or professional degree,Some Other Race Alone
+3731400,"High Point city, North Carolina",B15002F_019,NA,NA,Total!!Female!!Graduate or professional degree,Some Other Race Alone
+3755000,"Raleigh city, North Carolina",B15002F_019,NA,NA,Total!!Female!!Graduate or professional degree,Some Other Race Alone
+3774440,"Wilmington city, North Carolina",B15002F_019,NA,NA,Total!!Female!!Graduate or professional degree,Some Other Race Alone
+3775000,"Winston-Salem city, North Carolina",B15002F_019,0,210,Total!!Female!!Graduate or professional degree,Some Other Race Alone
+3712000,"Charlotte city, North Carolina",B15002G_001,9538,1595,Total,Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_001,NA,NA,Total,Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_001,NA,NA,Total,Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_001,NA,NA,Total,Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_001,NA,NA,Total,Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_001,NA,NA,Total,Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_001,NA,NA,Total,Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_002,4110,1073,Total!!Male,Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_002,NA,NA,Total!!Male,Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_002,NA,NA,Total!!Male,Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_002,NA,NA,Total!!Male,Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_002,NA,NA,Total!!Male,Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_002,NA,NA,Total!!Male,Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_002,NA,NA,Total!!Male,Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_003,37,60,Total!!Male!!Less than 9th grade,Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_003,NA,NA,Total!!Male!!Less than 9th grade,Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_003,NA,NA,Total!!Male!!Less than 9th grade,Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_003,NA,NA,Total!!Male!!Less than 9th grade,Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_003,NA,NA,Total!!Male!!Less than 9th grade,Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_003,NA,NA,Total!!Male!!Less than 9th grade,Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_003,NA,NA,Total!!Male!!Less than 9th grade,Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_004,524,416,"Total!!Male!!9th to 12th grade, no diploma",Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_005,721,680,Total!!Male!!Regular high school diploma,Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_005,NA,NA,Total!!Male!!Regular high school diploma,Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_005,NA,NA,Total!!Male!!Regular high school diploma,Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_005,NA,NA,Total!!Male!!Regular high school diploma,Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_005,NA,NA,Total!!Male!!Regular high school diploma,Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_005,NA,NA,Total!!Male!!Regular high school diploma,Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_005,NA,NA,Total!!Male!!Regular high school diploma,Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_006,222,190,Total!!Male!!GED or alternative credential,Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_006,NA,NA,Total!!Male!!GED or alternative credential,Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_006,NA,NA,Total!!Male!!GED or alternative credential,Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_006,NA,NA,Total!!Male!!GED or alternative credential,Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_006,NA,NA,Total!!Male!!GED or alternative credential,Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_006,NA,NA,Total!!Male!!GED or alternative credential,Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_006,NA,NA,Total!!Male!!GED or alternative credential,Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_007,729,404,"Total!!Male!!Some college, no degree",Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_007,NA,NA,"Total!!Male!!Some college, no degree",Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_007,NA,NA,"Total!!Male!!Some college, no degree",Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_007,NA,NA,"Total!!Male!!Some college, no degree",Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_007,NA,NA,"Total!!Male!!Some college, no degree",Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_007,NA,NA,"Total!!Male!!Some college, no degree",Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_007,NA,NA,"Total!!Male!!Some college, no degree",Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_008,257,198,Total!!Male!!Associate's degree,Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_008,NA,NA,Total!!Male!!Associate's degree,Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_008,NA,NA,Total!!Male!!Associate's degree,Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_008,NA,NA,Total!!Male!!Associate's degree,Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_008,NA,NA,Total!!Male!!Associate's degree,Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_008,NA,NA,Total!!Male!!Associate's degree,Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_008,NA,NA,Total!!Male!!Associate's degree,Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_009,1072,463,Total!!Male!!Bachelor's degree,Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_009,NA,NA,Total!!Male!!Bachelor's degree,Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_009,NA,NA,Total!!Male!!Bachelor's degree,Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_009,NA,NA,Total!!Male!!Bachelor's degree,Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_009,NA,NA,Total!!Male!!Bachelor's degree,Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_009,NA,NA,Total!!Male!!Bachelor's degree,Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_009,NA,NA,Total!!Male!!Bachelor's degree,Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_010,548,340,Total!!Male!!Graduate or professional degree,Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_010,NA,NA,Total!!Male!!Graduate or professional degree,Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_010,NA,NA,Total!!Male!!Graduate or professional degree,Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_010,NA,NA,Total!!Male!!Graduate or professional degree,Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_010,NA,NA,Total!!Male!!Graduate or professional degree,Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_010,NA,NA,Total!!Male!!Graduate or professional degree,Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_010,NA,NA,Total!!Male!!Graduate or professional degree,Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_011,5428,1128,Total!!Female,Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_011,NA,NA,Total!!Female,Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_011,NA,NA,Total!!Female,Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_011,NA,NA,Total!!Female,Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_011,NA,NA,Total!!Female,Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_011,NA,NA,Total!!Female,Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_011,NA,NA,Total!!Female,Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_012,45,77,Total!!Female!!Less than 9th grade,Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_012,NA,NA,Total!!Female!!Less than 9th grade,Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_012,NA,NA,Total!!Female!!Less than 9th grade,Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_012,NA,NA,Total!!Female!!Less than 9th grade,Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_012,NA,NA,Total!!Female!!Less than 9th grade,Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_012,NA,NA,Total!!Female!!Less than 9th grade,Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_012,NA,NA,Total!!Female!!Less than 9th grade,Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_013,218,218,"Total!!Female!!9th to 12th grade, no diploma",Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_014,369,379,Total!!Female!!Regular high school diploma,Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_014,NA,NA,Total!!Female!!Regular high school diploma,Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_014,NA,NA,Total!!Female!!Regular high school diploma,Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_014,NA,NA,Total!!Female!!Regular high school diploma,Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_014,NA,NA,Total!!Female!!Regular high school diploma,Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_014,NA,NA,Total!!Female!!Regular high school diploma,Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_014,NA,NA,Total!!Female!!Regular high school diploma,Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_015,55,92,Total!!Female!!GED or alternative credential,Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_015,NA,NA,Total!!Female!!GED or alternative credential,Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_015,NA,NA,Total!!Female!!GED or alternative credential,Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_015,NA,NA,Total!!Female!!GED or alternative credential,Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_015,NA,NA,Total!!Female!!GED or alternative credential,Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_015,NA,NA,Total!!Female!!GED or alternative credential,Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_015,NA,NA,Total!!Female!!GED or alternative credential,Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_016,1146,525,"Total!!Female!!Some college, no degree",Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_016,NA,NA,"Total!!Female!!Some college, no degree",Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_016,NA,NA,"Total!!Female!!Some college, no degree",Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_016,NA,NA,"Total!!Female!!Some college, no degree",Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_016,NA,NA,"Total!!Female!!Some college, no degree",Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_016,NA,NA,"Total!!Female!!Some college, no degree",Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_016,NA,NA,"Total!!Female!!Some college, no degree",Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_017,813,391,Total!!Female!!Associate's degree,Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_017,NA,NA,Total!!Female!!Associate's degree,Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_017,NA,NA,Total!!Female!!Associate's degree,Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_017,NA,NA,Total!!Female!!Associate's degree,Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_017,NA,NA,Total!!Female!!Associate's degree,Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_017,NA,NA,Total!!Female!!Associate's degree,Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_017,NA,NA,Total!!Female!!Associate's degree,Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_018,2006,784,Total!!Female!!Bachelor's degree,Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_018,NA,NA,Total!!Female!!Bachelor's degree,Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_018,NA,NA,Total!!Female!!Bachelor's degree,Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_018,NA,NA,Total!!Female!!Bachelor's degree,Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_018,NA,NA,Total!!Female!!Bachelor's degree,Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_018,NA,NA,Total!!Female!!Bachelor's degree,Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_018,NA,NA,Total!!Female!!Bachelor's degree,Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002G_019,776,363,Total!!Female!!Graduate or professional degree,Two Or More Races
+3719000,"Durham city, North Carolina",B15002G_019,NA,NA,Total!!Female!!Graduate or professional degree,Two Or More Races
+3728000,"Greensboro city, North Carolina",B15002G_019,NA,NA,Total!!Female!!Graduate or professional degree,Two Or More Races
+3731400,"High Point city, North Carolina",B15002G_019,NA,NA,Total!!Female!!Graduate or professional degree,Two Or More Races
+3755000,"Raleigh city, North Carolina",B15002G_019,NA,NA,Total!!Female!!Graduate or professional degree,Two Or More Races
+3774440,"Wilmington city, North Carolina",B15002G_019,NA,NA,Total!!Female!!Graduate or professional degree,Two Or More Races
+3775000,"Winston-Salem city, North Carolina",B15002G_019,NA,NA,Total!!Female!!Graduate or professional degree,Two Or More Races
+3712000,"Charlotte city, North Carolina",B15002H_001,264327,5744,Total,"White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_001,84614,2232,Total,"White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_001,93273,4230,Total,"White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_001,35439,3274,Total,"White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_001,181284,6127,Total,"White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_001,58844,2396,Total,"White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_001,82862,3084,Total,"White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_002,128565,3040,Total!!Male,"White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_002,39313,1556,Total!!Male,"White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_002,43747,2398,Total!!Male,"White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_002,16340,1714,Total!!Male,"White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_002,86987,3823,Total!!Male,"White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_002,28767,1787,Total!!Male,"White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_002,38583,1749,Total!!Male,"White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_003,1541,705,Total!!Male!!Less than 9th grade,"White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_003,626,455,Total!!Male!!Less than 9th grade,"White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_003,659,446,Total!!Male!!Less than 9th grade,"White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_003,382,247,Total!!Male!!Less than 9th grade,"White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_003,428,272,Total!!Male!!Less than 9th grade,"White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_003,285,275,Total!!Male!!Less than 9th grade,"White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_003,799,509,Total!!Male!!Less than 9th grade,"White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_004,2932,1069,"Total!!Male!!9th to 12th grade, no diploma","White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_004,661,475,"Total!!Male!!9th to 12th grade, no diploma","White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_004,1559,737,"Total!!Male!!9th to 12th grade, no diploma","White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_004,680,378,"Total!!Male!!9th to 12th grade, no diploma","White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_004,1262,551,"Total!!Male!!9th to 12th grade, no diploma","White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_004,1529,587,"Total!!Male!!9th to 12th grade, no diploma","White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_004,1053,493,"Total!!Male!!9th to 12th grade, no diploma","White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_005,11739,1635,Total!!Male!!Regular high school diploma,"White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_005,2663,798,Total!!Male!!Regular high school diploma,"White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_005,4946,1112,Total!!Male!!Regular high school diploma,"White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_005,3418,922,Total!!Male!!Regular high school diploma,"White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_005,6949,1542,Total!!Male!!Regular high school diploma,"White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_005,3587,1045,Total!!Male!!Regular high school diploma,"White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_005,5255,1275,Total!!Male!!Regular high school diploma,"White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_006,2369,842,Total!!Male!!GED or alternative credential,"White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_006,755,428,Total!!Male!!GED or alternative credential,"White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_006,1897,646,Total!!Male!!GED or alternative credential,"White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_006,256,186,Total!!Male!!GED or alternative credential,"White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_006,795,410,Total!!Male!!GED or alternative credential,"White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_006,948,564,Total!!Male!!GED or alternative credential,"White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_006,1218,465,Total!!Male!!GED or alternative credential,"White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_007,20001,2282,"Total!!Male!!Some college, no degree","White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_007,6433,940,"Total!!Male!!Some college, no degree","White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_007,8324,1278,"Total!!Male!!Some college, no degree","White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_007,3474,704,"Total!!Male!!Some college, no degree","White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_007,13188,1947,"Total!!Male!!Some college, no degree","White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_007,6041,1615,"Total!!Male!!Some college, no degree","White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_007,8471,1350,"Total!!Male!!Some college, no degree","White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_008,8234,1401,Total!!Male!!Associate's degree,"White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_008,2650,884,Total!!Male!!Associate's degree,"White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_008,3565,845,Total!!Male!!Associate's degree,"White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_008,1307,426,Total!!Male!!Associate's degree,"White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_008,5752,1553,Total!!Male!!Associate's degree,"White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_008,2331,879,Total!!Male!!Associate's degree,"White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_008,2890,685,Total!!Male!!Associate's degree,"White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_009,52649,2741,Total!!Male!!Bachelor's degree,"White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_009,12849,1567,Total!!Male!!Bachelor's degree,"White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_009,14255,1519,Total!!Male!!Bachelor's degree,"White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_009,4351,1000,Total!!Male!!Bachelor's degree,"White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_009,38334,3433,Total!!Male!!Bachelor's degree,"White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_009,10557,1611,Total!!Male!!Bachelor's degree,"White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_009,10209,1404,Total!!Male!!Bachelor's degree,"White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_010,29100,2302,Total!!Male!!Graduate or professional degree,"White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_010,12676,1525,Total!!Male!!Graduate or professional degree,"White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_010,8542,1310,Total!!Male!!Graduate or professional degree,"White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_010,2472,870,Total!!Male!!Graduate or professional degree,"White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_010,20279,1985,Total!!Male!!Graduate or professional degree,"White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_010,3489,939,Total!!Male!!Graduate or professional degree,"White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_010,8688,1182,Total!!Male!!Graduate or professional degree,"White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_011,135762,3375,Total!!Female,"White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_011,45301,1375,Total!!Female,"White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_011,49526,2546,Total!!Female,"White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_011,19099,1992,Total!!Female,"White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_011,94297,3527,Total!!Female,"White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_011,30077,1812,Total!!Female,"White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_011,44279,1972,Total!!Female,"White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_012,1757,812,Total!!Female!!Less than 9th grade,"White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_012,279,276,Total!!Female!!Less than 9th grade,"White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_012,295,231,Total!!Female!!Less than 9th grade,"White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_012,433,292,Total!!Female!!Less than 9th grade,"White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_012,350,291,Total!!Female!!Less than 9th grade,"White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_012,247,239,Total!!Female!!Less than 9th grade,"White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_012,418,244,Total!!Female!!Less than 9th grade,"White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_013,3036,1021,"Total!!Female!!9th to 12th grade, no diploma","White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_013,580,302,"Total!!Female!!9th to 12th grade, no diploma","White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_013,1232,465,"Total!!Female!!9th to 12th grade, no diploma","White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_013,1281,578,"Total!!Female!!9th to 12th grade, no diploma","White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_013,2102,870,"Total!!Female!!9th to 12th grade, no diploma","White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_013,963,555,"Total!!Female!!9th to 12th grade, no diploma","White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_013,1503,636,"Total!!Female!!9th to 12th grade, no diploma","White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_014,16184,2125,Total!!Female!!Regular high school diploma,"White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_014,4710,1295,Total!!Female!!Regular high school diploma,"White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_014,6998,1356,Total!!Female!!Regular high school diploma,"White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_014,3611,1057,Total!!Female!!Regular high school diploma,"White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_014,9530,2046,Total!!Female!!Regular high school diploma,"White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_014,4448,1169,Total!!Female!!Regular high school diploma,"White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_014,8165,1485,Total!!Female!!Regular high school diploma,"White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_015,1445,615,Total!!Female!!GED or alternative credential,"White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_015,718,415,Total!!Female!!GED or alternative credential,"White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_015,541,289,Total!!Female!!GED or alternative credential,"White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_015,903,535,Total!!Female!!GED or alternative credential,"White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_015,1126,549,Total!!Female!!GED or alternative credential,"White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_015,649,519,Total!!Female!!GED or alternative credential,"White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_015,1236,575,Total!!Female!!GED or alternative credential,"White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_016,24009,2287,"Total!!Female!!Some college, no degree","White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_016,5803,1170,"Total!!Female!!Some college, no degree","White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_016,8668,1521,"Total!!Female!!Some college, no degree","White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_016,3880,895,"Total!!Female!!Some college, no degree","White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_016,12883,1825,"Total!!Female!!Some college, no degree","White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_016,6288,1020,"Total!!Female!!Some college, no degree","White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_016,8934,1692,"Total!!Female!!Some college, no degree","White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_017,11482,1754,Total!!Female!!Associate's degree,"White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_017,2734,859,Total!!Female!!Associate's degree,"White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_017,4775,1055,Total!!Female!!Associate's degree,"White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_017,1451,551,Total!!Female!!Associate's degree,"White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_017,6629,1451,Total!!Female!!Associate's degree,"White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_017,3055,847,Total!!Female!!Associate's degree,"White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_017,3293,755,Total!!Female!!Associate's degree,"White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_018,53093,3231,Total!!Female!!Bachelor's degree,"White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_018,16548,1440,Total!!Female!!Bachelor's degree,"White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_018,17386,1895,Total!!Female!!Bachelor's degree,"White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_018,5593,1085,Total!!Female!!Bachelor's degree,"White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_018,39355,3311,Total!!Female!!Bachelor's degree,"White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_018,9769,1422,Total!!Female!!Bachelor's degree,"White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_018,12093,1649,Total!!Female!!Bachelor's degree,"White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002H_019,24756,2082,Total!!Female!!Graduate or professional degree,"White Alone, Not Hispanic Or Latino"
+3719000,"Durham city, North Carolina",B15002H_019,13929,1552,Total!!Female!!Graduate or professional degree,"White Alone, Not Hispanic Or Latino"
+3728000,"Greensboro city, North Carolina",B15002H_019,9631,1469,Total!!Female!!Graduate or professional degree,"White Alone, Not Hispanic Or Latino"
+3731400,"High Point city, North Carolina",B15002H_019,1947,674,Total!!Female!!Graduate or professional degree,"White Alone, Not Hispanic Or Latino"
+3755000,"Raleigh city, North Carolina",B15002H_019,22322,2296,Total!!Female!!Graduate or professional degree,"White Alone, Not Hispanic Or Latino"
+3774440,"Wilmington city, North Carolina",B15002H_019,4658,1019,Total!!Female!!Graduate or professional degree,"White Alone, Not Hispanic Or Latino"
+3775000,"Winston-Salem city, North Carolina",B15002H_019,8637,1007,Total!!Female!!Graduate or professional degree,"White Alone, Not Hispanic Or Latino"
+3712000,"Charlotte city, North Carolina",B15002I_001,68807,2547,Total,Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_001,20037,903,Total,Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_001,12758,1332,Total,Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_001,5770,1209,Total,Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_001,26246,3084,Total,Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_001,NA,NA,Total,Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_001,17492,1660,Total,Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_002,35188,1383,Total!!Male,Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_002,11172,835,Total!!Male,Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_002,7139,806,Total!!Male,Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_002,2261,658,Total!!Male,Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_002,13374,2171,Total!!Male,Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_002,NA,NA,Total!!Male,Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_002,8358,1256,Total!!Male,Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_003,11007,1611,Total!!Male!!Less than 9th grade,Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_003,4947,1081,Total!!Male!!Less than 9th grade,Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_003,2526,1008,Total!!Male!!Less than 9th grade,Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_003,466,338,Total!!Male!!Less than 9th grade,Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_003,3835,1168,Total!!Male!!Less than 9th grade,Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_003,NA,NA,Total!!Male!!Less than 9th grade,Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_003,3622,1290,Total!!Male!!Less than 9th grade,Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_004,4872,1515,"Total!!Male!!9th to 12th grade, no diploma",Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_004,928,489,"Total!!Male!!9th to 12th grade, no diploma",Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_004,737,670,"Total!!Male!!9th to 12th grade, no diploma",Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_004,407,403,"Total!!Male!!9th to 12th grade, no diploma",Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_004,1219,654,"Total!!Male!!9th to 12th grade, no diploma",Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_004,NA,NA,"Total!!Male!!9th to 12th grade, no diploma",Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_004,1007,527,"Total!!Male!!9th to 12th grade, no diploma",Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_005,7636,1518,Total!!Male!!Regular high school diploma,Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_005,2502,1119,Total!!Male!!Regular high school diploma,Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_005,1142,635,Total!!Male!!Regular high school diploma,Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_005,427,344,Total!!Male!!Regular high school diploma,Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_005,1770,836,Total!!Male!!Regular high school diploma,Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_005,NA,NA,Total!!Male!!Regular high school diploma,Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_005,1593,801,Total!!Male!!Regular high school diploma,Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_006,391,332,Total!!Male!!GED or alternative credential,Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_006,142,162,Total!!Male!!GED or alternative credential,Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_006,125,216,Total!!Male!!GED or alternative credential,Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_006,95,153,Total!!Male!!GED or alternative credential,Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_006,918,653,Total!!Male!!GED or alternative credential,Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_006,NA,NA,Total!!Male!!GED or alternative credential,Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_006,272,254,Total!!Male!!GED or alternative credential,Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_007,4698,1139,"Total!!Male!!Some college, no degree",Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_007,1143,718,"Total!!Male!!Some college, no degree",Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_007,1115,691,"Total!!Male!!Some college, no degree",Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_007,216,178,"Total!!Male!!Some college, no degree",Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_007,1917,808,"Total!!Male!!Some college, no degree",Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_007,NA,NA,"Total!!Male!!Some college, no degree",Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_007,735,503,"Total!!Male!!Some college, no degree",Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_008,1056,507,Total!!Male!!Associate's degree,Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_008,177,229,Total!!Male!!Associate's degree,Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_008,520,563,Total!!Male!!Associate's degree,Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_008,0,210,Total!!Male!!Associate's degree,Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_008,720,612,Total!!Male!!Associate's degree,Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_008,NA,NA,Total!!Male!!Associate's degree,Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_008,326,477,Total!!Male!!Associate's degree,Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_009,4592,1293,Total!!Male!!Bachelor's degree,Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_009,602,415,Total!!Male!!Bachelor's degree,Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_009,539,345,Total!!Male!!Bachelor's degree,Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_009,510,448,Total!!Male!!Bachelor's degree,Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_009,1628,732,Total!!Male!!Bachelor's degree,Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_009,NA,NA,Total!!Male!!Bachelor's degree,Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_009,730,553,Total!!Male!!Bachelor's degree,Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_010,936,459,Total!!Male!!Graduate or professional degree,Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_010,731,529,Total!!Male!!Graduate or professional degree,Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_010,435,350,Total!!Male!!Graduate or professional degree,Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_010,140,175,Total!!Male!!Graduate or professional degree,Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_010,1367,663,Total!!Male!!Graduate or professional degree,Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_010,NA,NA,Total!!Male!!Graduate or professional degree,Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_010,73,89,Total!!Male!!Graduate or professional degree,Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_011,33619,1556,Total!!Female,Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_011,8865,766,Total!!Female,Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_011,5619,924,Total!!Female,Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_011,3509,898,Total!!Female,Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_011,12872,1666,Total!!Female,Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_011,NA,NA,Total!!Female,Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_011,9134,653,Total!!Female,Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_012,8140,1419,Total!!Female!!Less than 9th grade,Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_012,2817,1119,Total!!Female!!Less than 9th grade,Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_012,1423,676,Total!!Female!!Less than 9th grade,Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_012,559,384,Total!!Female!!Less than 9th grade,Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_012,1982,800,Total!!Female!!Less than 9th grade,Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_012,NA,NA,Total!!Female!!Less than 9th grade,Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_012,2017,704,Total!!Female!!Less than 9th grade,Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_013,3249,1056,"Total!!Female!!9th to 12th grade, no diploma",Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_013,957,615,"Total!!Female!!9th to 12th grade, no diploma",Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_013,789,507,"Total!!Female!!9th to 12th grade, no diploma",Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_013,419,320,"Total!!Female!!9th to 12th grade, no diploma",Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_013,2005,1031,"Total!!Female!!9th to 12th grade, no diploma",Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_013,NA,NA,"Total!!Female!!9th to 12th grade, no diploma",Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_013,1069,633,"Total!!Female!!9th to 12th grade, no diploma",Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_014,7833,1593,Total!!Female!!Regular high school diploma,Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_014,2548,1036,Total!!Female!!Regular high school diploma,Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_014,1128,554,Total!!Female!!Regular high school diploma,Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_014,647,532,Total!!Female!!Regular high school diploma,Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_014,1687,704,Total!!Female!!Regular high school diploma,Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_014,NA,NA,Total!!Female!!Regular high school diploma,Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_014,2986,775,Total!!Female!!Regular high school diploma,Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_015,509,358,Total!!Female!!GED or alternative credential,Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_015,0,210,Total!!Female!!GED or alternative credential,Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_015,72,97,Total!!Female!!GED or alternative credential,Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_015,358,296,Total!!Female!!GED or alternative credential,Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_015,749,806,Total!!Female!!GED or alternative credential,Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_015,NA,NA,Total!!Female!!GED or alternative credential,Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_015,93,109,Total!!Female!!GED or alternative credential,Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_016,5929,1504,"Total!!Female!!Some college, no degree",Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_016,938,508,"Total!!Female!!Some college, no degree",Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_016,663,458,"Total!!Female!!Some college, no degree",Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_016,651,360,"Total!!Female!!Some college, no degree",Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_016,1240,741,"Total!!Female!!Some college, no degree",Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_016,NA,NA,"Total!!Female!!Some college, no degree",Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_016,1065,568,"Total!!Female!!Some college, no degree",Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_017,2336,830,Total!!Female!!Associate's degree,Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_017,232,248,Total!!Female!!Associate's degree,Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_017,444,300,Total!!Female!!Associate's degree,Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_017,270,267,Total!!Female!!Associate's degree,Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_017,634,424,Total!!Female!!Associate's degree,Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_017,NA,NA,Total!!Female!!Associate's degree,Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_017,516,378,Total!!Female!!Associate's degree,Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_018,4008,1058,Total!!Female!!Bachelor's degree,Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_018,992,637,Total!!Female!!Bachelor's degree,Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_018,962,462,Total!!Female!!Bachelor's degree,Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_018,519,389,Total!!Female!!Bachelor's degree,Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_018,3272,1109,Total!!Female!!Bachelor's degree,Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_018,NA,NA,Total!!Female!!Bachelor's degree,Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_018,1327,648,Total!!Female!!Bachelor's degree,Hispanic Or Latino
+3712000,"Charlotte city, North Carolina",B15002I_019,1615,685,Total!!Female!!Graduate or professional degree,Hispanic Or Latino
+3719000,"Durham city, North Carolina",B15002I_019,381,279,Total!!Female!!Graduate or professional degree,Hispanic Or Latino
+3728000,"Greensboro city, North Carolina",B15002I_019,138,143,Total!!Female!!Graduate or professional degree,Hispanic Or Latino
+3731400,"High Point city, North Carolina",B15002I_019,86,84,Total!!Female!!Graduate or professional degree,Hispanic Or Latino
+3755000,"Raleigh city, North Carolina",B15002I_019,1303,632,Total!!Female!!Graduate or professional degree,Hispanic Or Latino
+3774440,"Wilmington city, North Carolina",B15002I_019,NA,NA,Total!!Female!!Graduate or professional degree,Hispanic Or Latino
+3775000,"Winston-Salem city, North Carolina",B15002I_019,61,105,Total!!Female!!Graduate or professional degree,Hispanic Or Latino

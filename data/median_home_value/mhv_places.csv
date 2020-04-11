@@ -1,0 +1,8 @@
+GEOID,NAME,variable,estimate,moe,label,concept
+3712000,"Charlotte city, North Carolina",B25077_001,230900,6108,Median value (dollars),All Population
+3719000,"Durham city, North Carolina",B25077_001,232600,8024,Median value (dollars),All Population
+3728000,"Greensboro city, North Carolina",B25077_001,156600,7718,Median value (dollars),All Population
+3731400,"High Point city, North Carolina",B25077_001,156900,11462,Median value (dollars),All Population
+3755000,"Raleigh city, North Carolina",B25077_001,268900,8455,Median value (dollars),All Population
+3774440,"Wilmington city, North Carolina",B25077_001,256300,18390,Median value (dollars),All Population
+3775000,"Winston-Salem city, North Carolina",B25077_001,149600,7079,Median value (dollars),All Population

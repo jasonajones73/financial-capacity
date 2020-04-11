@@ -1,0 +1,91 @@
+GEOID,NAME,variable,estimate,moe,label,concept
+37063,"Durham County, North Carolina",B19113_001,76640,4347,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+37067,"Forsyth County, North Carolina",B19113_001,65486,2921,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+37081,"Guilford County, North Carolina",B19113_001,65924,2519,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+37119,"Mecklenburg County, North Carolina",B19113_001,80720,2701,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+37129,"New Hanover County, North Carolina",B19113_001,72896,4559,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+37183,"Wake County, North Carolina",B19113_001,99529,2809,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+45045,"Greenville County, South Carolina",B19113_001,76300,2827,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+45083,"Spartanburg County, South Carolina",B19113_001,65817,4184,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+47065,"Hamilton County, Tennessee",B19113_001,74147,3009,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),All Population
+37063,"Durham County, North Carolina",B19113A_001,91898,10091,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone Householder
+37067,"Forsyth County, North Carolina",B19113A_001,75042,5192,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone Householder
+37081,"Guilford County, North Carolina",B19113A_001,85937,5530,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone Householder
+37119,"Mecklenburg County, North Carolina",B19113A_001,103341,3921,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone Householder
+37129,"New Hanover County, North Carolina",B19113A_001,79201,3232,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone Householder
+37183,"Wake County, North Carolina",B19113A_001,110987,3657,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone Householder
+45045,"Greenville County, South Carolina",B19113A_001,85678,2869,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone Householder
+45083,"Spartanburg County, South Carolina",B19113A_001,72901,2817,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone Householder
+47065,"Hamilton County, Tennessee",B19113A_001,81457,3131,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),White Alone Householder
+37063,"Durham County, North Carolina",B19113B_001,55160,13639,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone Householder
+37067,"Forsyth County, North Carolina",B19113B_001,40304,6301,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone Householder
+37081,"Guilford County, North Carolina",B19113B_001,43872,3722,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone Householder
+37119,"Mecklenburg County, North Carolina",B19113B_001,56572,4196,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone Householder
+37129,"New Hanover County, North Carolina",B19113B_001,33380,22580,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone Householder
+37183,"Wake County, North Carolina",B19113B_001,70882,7192,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone Householder
+45045,"Greenville County, South Carolina",B19113B_001,51587,4625,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone Householder
+45083,"Spartanburg County, South Carolina",B19113B_001,46373,5177,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone Householder
+47065,"Hamilton County, Tennessee",B19113B_001,44654,4573,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Black Or African American Alone Householder
+37063,"Durham County, North Carolina",B19113C_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone Householder
+37067,"Forsyth County, North Carolina",B19113C_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone Householder
+37081,"Guilford County, North Carolina",B19113C_001,37458,36656,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone Householder
+37119,"Mecklenburg County, North Carolina",B19113C_001,45069,19982,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone Householder
+37129,"New Hanover County, North Carolina",B19113C_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone Householder
+37183,"Wake County, North Carolina",B19113C_001,46058,36852,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone Householder
+45045,"Greenville County, South Carolina",B19113C_001,58559,15295,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone Householder
+45083,"Spartanburg County, South Carolina",B19113C_001,75833,63520,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone Householder
+47065,"Hamilton County, Tennessee",B19113C_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),American Indian And Alaska Native Alone Householder
+37063,"Durham County, North Carolina",B19113D_001,104665,36176,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone Householder
+37067,"Forsyth County, North Carolina",B19113D_001,85148,7842,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone Householder
+37081,"Guilford County, North Carolina",B19113D_001,55977,16787,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone Householder
+37119,"Mecklenburg County, North Carolina",B19113D_001,94887,15091,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone Householder
+37129,"New Hanover County, North Carolina",B19113D_001,66963,14115,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone Householder
+37183,"Wake County, North Carolina",B19113D_001,124196,13760,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone Householder
+45045,"Greenville County, South Carolina",B19113D_001,66294,13110,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone Householder
+45083,"Spartanburg County, South Carolina",B19113D_001,62158,14190,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone Householder
+47065,"Hamilton County, Tennessee",B19113D_001,69677,40100,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Asian Alone Householder
+37063,"Durham County, North Carolina",B19113E_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone Householder
+37067,"Forsyth County, North Carolina",B19113E_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone Householder
+37081,"Guilford County, North Carolina",B19113E_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone Householder
+37119,"Mecklenburg County, North Carolina",B19113E_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone Householder
+37129,"New Hanover County, North Carolina",B19113E_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone Householder
+37183,"Wake County, North Carolina",B19113E_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone Householder
+45045,"Greenville County, South Carolina",B19113E_001,77969,25034,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone Householder
+45083,"Spartanburg County, South Carolina",B19113E_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone Householder
+47065,"Hamilton County, Tennessee",B19113E_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Native Hawaiian And Other Pacific Islander Alone Householder
+37063,"Durham County, North Carolina",B19113F_001,50028,15454,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone Householder
+37067,"Forsyth County, North Carolina",B19113F_001,41072,11173,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone Householder
+37081,"Guilford County, North Carolina",B19113F_001,35980,15404,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone Householder
+37119,"Mecklenburg County, North Carolina",B19113F_001,40617,7499,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone Householder
+37129,"New Hanover County, North Carolina",B19113F_001,46624,26747,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone Householder
+37183,"Wake County, North Carolina",B19113F_001,45605,15086,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone Householder
+45045,"Greenville County, South Carolina",B19113F_001,46682,9098,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone Householder
+45083,"Spartanburg County, South Carolina",B19113F_001,46370,29911,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone Householder
+47065,"Hamilton County, Tennessee",B19113F_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Some Other Race Alone Householder
+37063,"Durham County, North Carolina",B19113G_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+37067,"Forsyth County, North Carolina",B19113G_001,41002,16862,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+37081,"Guilford County, North Carolina",B19113G_001,35026,13077,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+37119,"Mecklenburg County, North Carolina",B19113G_001,75129,9807,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+37129,"New Hanover County, North Carolina",B19113G_001,NA,NA,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+37183,"Wake County, North Carolina",B19113G_001,73055,28119,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+45045,"Greenville County, South Carolina",B19113G_001,66361,19428,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+45083,"Spartanburg County, South Carolina",B19113G_001,51598,8930,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+47065,"Hamilton County, Tennessee",B19113G_001,41865,19293,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Two Or More Races
+37063,"Durham County, North Carolina",B19113H_001,102283,8775,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino Householder"
+37067,"Forsyth County, North Carolina",B19113H_001,82276,4104,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino Householder"
+37081,"Guilford County, North Carolina",B19113H_001,91272,4611,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino Householder"
+37119,"Mecklenburg County, North Carolina",B19113H_001,109881,4544,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino Householder"
+37129,"New Hanover County, North Carolina",B19113H_001,80588,4816,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino Householder"
+37183,"Wake County, North Carolina",B19113H_001,113459,4242,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino Householder"
+45045,"Greenville County, South Carolina",B19113H_001,86783,2948,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino Householder"
+45083,"Spartanburg County, South Carolina",B19113H_001,74379,2606,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino Householder"
+47065,"Hamilton County, Tennessee",B19113H_001,82801,3280,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),"White Alone, Not Hispanic Or Latino Householder"
+37063,"Durham County, North Carolina",B19113I_001,40855,11764,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino Householder
+37067,"Forsyth County, North Carolina",B19113I_001,37885,6374,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino Householder
+37081,"Guilford County, North Carolina",B19113I_001,41116,5452,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino Householder
+37119,"Mecklenburg County, North Carolina",B19113I_001,46037,5355,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino Householder
+37129,"New Hanover County, North Carolina",B19113I_001,46239,1847,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino Householder
+37183,"Wake County, North Carolina",B19113I_001,53590,7754,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino Householder
+45045,"Greenville County, South Carolina",B19113I_001,50394,4480,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino Householder
+45083,"Spartanburg County, South Carolina",B19113I_001,50982,20011,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino Householder
+47065,"Hamilton County, Tennessee",B19113I_001,48195,20956,Median family income in the past 12 months (in 2018 inflation-adjusted dollars),Hispanic Or Latino Householder
