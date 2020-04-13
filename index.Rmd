@@ -52,26 +52,25 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, dpi = 320,
 # Load packages
 library(tidyverse)
 library(sf)
-library(tigris)
 
 # Census geographies
-# guil_sf <- counties(state = 37) %>%
-#   st_as_sf() %>%
-#   filter(NAME == "Guilford")
-# 
-# guil_tracts_sf <- tracts(state = 37, county = 81) %>%
-#   st_as_sf()
+tracts_sf <- read_rds("data/geographies/tracts_sf.rds")
 
 # Load data
 pci_county <- read_rds("data/per_capita_income/pci_county.rds")
 pci_places <- read_rds("data/per_capita_income/pci_places.rds")
+
 pci_sf <- read_rds("data/per_capita_income/pci_sf.rds")
+mfi_sf <- read_rds("data/median_family_income/mfi_sf.rds")
+mhv_sf <- read_rds("data/median_home_value/mhv_sf.rds")
+bach_sf <- read_rds("data/educational_attainment/ed_attain_tracts_cleaned.rds") %>%
+  filter(label == "Bachelor's degree") %>%
+  left_join(tracts_sf) %>%
+  st_as_sf()
 
-
-
-
+# Load my theme for plots
 jason_theme <- theme(
-  text = element_text(family = "Roboto Condensed"),
+  text = element_text(family = "Roboto"),
   panel.background = element_blank(),
   panel.grid.minor = element_blank(),
   panel.grid.major.y = element_line(color = "grey"),
@@ -79,40 +78,98 @@ jason_theme <- theme(
   axis.ticks = element_line(color = "grey"),
   axis.title = element_blank(),
   plot.caption = element_text(hjust = 1)
-  ) 
+  )
+
+chart_colors <- colorRampPalette(c("#112E51", "#97BCE9", "#C1D7F2", "#FFBEA9", "#853A22"))
 ```
 
 # Per Capita Income {.chapter}
 
 ## Variable Definition
 
-## Maps
+## Thematic Maps
 
 ```{r}
 pci_sf %>%
   ggplot() +
-  geom_sf(aes(fill = estimate), color = "black") +
-  scale_fill_distiller("Estimate", palette = "Greens", na.value = "white",
-                       direction = 1, labels = scales::dollar_format()) +
+  geom_sf(aes(fill = estimate), color = "white", size = 0.2) +
+  scale_fill_gradientn("Estimate", colors = chart_colors(4), na.value = "white",
+                       labels = scales::dollar_format()) +
   theme(legend.position = "left") +
-  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)",
-       title = "Guilford County: Census Tracts",
-       subtitle = "Per Capita Income") +
-  jason_theme
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
+       title = "Per Capita Income",
+       subtitle = "Guilford County: Census Tracts") +
+  jason_theme +
+  theme(axis.text = element_blank(),
+        axis.ticks = element_blank())
 ```
 
 # Median Family Income {.chapter}
 
 ## Variable Definition
 
-# Median Value {.chapter}
+## Thematic Maps
+
+```{r}
+mfi_sf %>%
+  ggplot() +
+  geom_sf(aes(fill = estimate), color = "white", size = 0.2) +
+  scale_fill_gradientn("Estimate", colors = chart_colors(4), na.value = "white",
+                       labels = scales::dollar_format()) +
+  theme(legend.position = "left") +
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
+       title = "Median Family Income",
+       subtitle = "Guilford County: Census Tracts") +
+  jason_theme +
+  theme(axis.text = element_blank(),
+        axis.ticks = element_blank())
+```
+
+# Median Home Value {.chapter}
 
 ## Variable Definition
 
-# Sex by Age by Educational Attainment {.chapter}
+## Thematic Maps
+
+```{r}
+mhv_sf %>%
+  ggplot() +
+  geom_sf(aes(fill = estimate), color = "white", size = 0.2) +
+  scale_fill_gradientn("Estimate", colors = chart_colors(4), na.value = "white",
+                       labels = scales::dollar_format()) +
+  theme(legend.position = "left") +
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
+       title = "Median Value (Owner-Occupied Housing Units)",
+       subtitle = "Guilford County: Census Tracts") +
+  jason_theme +
+  theme(axis.text = element_blank(),
+        axis.ticks = element_blank())
+```
+
+# Educational Attainment {.chapter}
 
 ## Variable Definition
 
+## Thematic Maps
+
+```{r}
+bach_sf %>%
+  ggplot() +
+  geom_sf(aes(fill = pct), color = "white", size = 0.2) +
+  scale_fill_gradientn("Estimate", colors = chart_colors(4), na.value = "white",
+                       labels = scales::percent_format()) +
+  theme(legend.position = "left") +
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
+       title = "Bachelor's Degree Attainment: Population 25 Years and Over",
+       subtitle = "Guilford County: Census Tracts") +
+  jason_theme +
+  theme(axis.text = element_blank(),
+        axis.ticks = element_blank())
+```
 
 
+# Notes on Methodology {.chapter}
+
+## Divergent Color Palette
+For my thematic maps, I selected a diverging color palette to to bring attention to stark differences in low, medium, and high values. I am following best practice recommendations from The United States Census Bureau and have selected the applied colors based on their recommended diverging color palette. I am also trying to account for Web Content Accessibility Guidelines (WCAG) by meeting or exceeding the recommended color contrast ratio minimum. I believe the colors recommended by The Census Bureau meet these guidelines while also striking an acceptable balance with visual appeal. You can find more information online at The Census Bureau's Data Visualization Standards repository (https://xdgov.github.io/data-design-standards/).
 

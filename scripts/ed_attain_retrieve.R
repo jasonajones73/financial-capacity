@@ -47,6 +47,10 @@ detailed_place <- map_df(.x = acs_vars,
 detailed_place <- detailed_place %>%
   filter(GEOID %in% comp_places)
 
+## Retrieve acs5 data for merging with census tracts
+tracts <- get_acs(geography = "tract", table = cen_var, state = 37,
+                  county = 81, survey = "acs5", key = api_key)
+
 # Add detail from variables object and clean up labels ----
 county_deatiled_clean <- detailed_county %>%
   left_join(rename(vars, variable = name)) %>%
@@ -66,9 +70,21 @@ places_detailed_clean <- detailed_place %>%
                              variable != paste0(cen_var, "_001") ~ concept)) %>%
   mutate(label = str_extract(label, "(?<=!!).+"))
 
+tracts_clean <- tracts %>%
+  left_join(rename(vars, variable = name)) %>%
+  mutate(concept = str_extract(concept, pattern = "\\(([^)]+)\\)$")) %>%
+  mutate(concept = str_remove_all(concept, "\\(|\\)")) %>%
+  mutate(concept = str_to_title(concept)) %>%
+  mutate(concept = case_when(variable == paste0(cen_var, "_001") ~ "All Population",
+                             variable != paste0(cen_var, "_001") ~ concept)) %>%
+  mutate(label = str_extract(label, "(?<=!!).+"))
+
 # Write data from retrieval
 write_rds(county_deatiled_clean, "data/educational_attainment/ed_attain_county.rds")
 write_rds(places_detailed_clean, "data/educational_attainment/ed_attain_places.rds")
+write_rds(tracts_clean, "data/educational_attainment/ed_attain_tracts.rds")
 
 write_csv(county_deatiled_clean, "data/educational_attainment/ed_attain_county.csv")
 write_csv(places_detailed_clean, "data/educational_attainment/ed_attain_places.csv")
+write_csv(tracts_clean, "data/educational_attainment/ed_attain_tracts.csv")
+

@@ -1,4 +1,4 @@
-GEOID,concept,total_pop,label,county,estimate,pct
+GEOID,concept,total_pop,label,place,estimate,pct
 3712000,All Population,589220,10th grade,"Charlotte city, North Carolina",8978,0.01523709310614032
 3712000,All Population,589220,11th grade,"Charlotte city, North Carolina",8923,0.015143749363565391
 3712000,All Population,589220,"12th grade, no diploma","Charlotte city, North Carolina",7179,0.01218390414446217
