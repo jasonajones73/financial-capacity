@@ -15,12 +15,12 @@
 
 <meta name="author" content="Jason Jones" />
 
-<meta name="date" content="2020-04-11" />
+<meta name="date" content="2020-04-15" />
 
 <meta name="description" content="Thematic Mapping of Demographic &amp; Socioeconomic Data">
 
 <script id="pandoc-meta" type="application/json">
-{"newpage_html_class":"page-break-after","date":"April 11, 2020","output":{"pagedown::html_paged":{"self_contained":false,"toc":true,"css":["style/jason-default-fonts.css","style/jason-default-page.css","style/jason-default.css"],"front_cover":"img/report_cover.png"}},"author":"Jason Jones","title":"Thematic Mapping of Demographic &amp; Socioeconomic Data","chapter_name":"Section: "}
+{"newpage_html_class":"page-break-after","date":"April 15, 2020","output":{"pagedown::html_paged":{"self_contained":false,"toc":true,"css":["style/jason-default-fonts.css","style/jason-default-page.css","style/jason-default.css"],"front_cover":"img/report_cover.png"}},"author":"Jason Jones","title":"Thematic Mapping of Demographic &amp; Socioeconomic Data","chapter_name":"Section: "}
 </script>
 
 <title>Thematic Mapping of Demographic &amp; Socioeconomic Data</title>
@@ -30,6 +30,7 @@
 <script src="index_files/paged-0.9/js/config.js"></script>
 <script src="index_files/paged-0.9/js/paged.js"></script>
 <script src="index_files/paged-0.9/js/hooks.js"></script>
+<script src="index_files/kePrint-0.0.1/kePrint.js"></script>
 
 
 
@@ -52,7 +53,7 @@
 <div id="header" class="title-page">
 <h1 class="title">Thematic Mapping of Demographic &amp; Socioeconomic Data</h1>
 <h2 class="author">Jason Jones</h2>
-<h2 class="date">April 11, 2020</h2>
+<h2 class="date">April 15, 2020</h2>
 </div>
 </div>
 
@@ -62,20 +63,31 @@
 <li><a href="#per-capita-income"><span class="toc-section-number">1</span> Per Capita Income</a><ul>
 <li><a href="#variable-definition"><span class="toc-section-number">1.1</span> Variable Definition</a></li>
 <li><a href="#thematic-maps"><span class="toc-section-number">1.2</span> Thematic Maps</a></li>
+<li><a href="#city-council-overlay"><span class="toc-section-number">1.3</span> City Council Overlay</a></li>
+<li><a href="#county-commissioner-overlay"><span class="toc-section-number">1.4</span> County Commissioner Overlay</a></li>
 </ul></li>
 <li><a href="#median-family-income"><span class="toc-section-number">2</span> Median Family Income</a><ul>
 <li><a href="#variable-definition-1"><span class="toc-section-number">2.1</span> Variable Definition</a></li>
 <li><a href="#thematic-maps-1"><span class="toc-section-number">2.2</span> Thematic Maps</a></li>
+<li><a href="#city-council-overlay-1"><span class="toc-section-number">2.3</span> City Council Overlay</a></li>
+<li><a href="#county-commissioner-overlay-1"><span class="toc-section-number">2.4</span> County Commissioner Overlay</a></li>
 </ul></li>
 <li><a href="#median-home-value"><span class="toc-section-number">3</span> Median Home Value</a><ul>
 <li><a href="#variable-definition-2"><span class="toc-section-number">3.1</span> Variable Definition</a></li>
 <li><a href="#thematic-maps-2"><span class="toc-section-number">3.2</span> Thematic Maps</a></li>
+<li><a href="#city-council-overlay-2"><span class="toc-section-number">3.3</span> City Council Overlay</a></li>
+<li><a href="#county-commissioner-overlay-2"><span class="toc-section-number">3.4</span> County Commissioner Overlay</a></li>
 </ul></li>
 <li><a href="#educational-attainment"><span class="toc-section-number">4</span> Educational Attainment</a><ul>
 <li><a href="#variable-definition-3"><span class="toc-section-number">4.1</span> Variable Definition</a></li>
+<li><a href="#thematic-maps-3"><span class="toc-section-number">4.2</span> Thematic Maps</a></li>
+<li><a href="#city-council-overlay-3"><span class="toc-section-number">4.3</span> City Council Overlay</a></li>
+<li><a href="#county-commissioner-overlay-3"><span class="toc-section-number">4.4</span> County Commissioner Overlay</a></li>
 </ul></li>
-<li><a href="#notes-on-methodology"><span class="toc-section-number">5</span> Notes on Methodology</a><ul>
-<li><a href="#divergent-color-palette"><span class="toc-section-number">5.1</span> Divergent Color Palette</a></li>
+<li><a href="#reference"><span class="toc-section-number">5</span> Reference</a><ul>
+<li><a href="#city-council-districts"><span class="toc-section-number">5.1</span> City Council Districts</a></li>
+<li><a href="#county-commissioner-districts"><span class="toc-section-number">5.2</span> County Commissioner Districts</a></li>
+<li><a href="#divergent-color-palette"><span class="toc-section-number">5.3</span> Divergent Color Palette</a></li>
 </ul></li>
 </ul>
 </div>
@@ -116,42 +128,222 @@ Paged.registerHandlers(RepeatingTableHeaders);
 <h1><span class="header-section-number">1</span> Per Capita Income</h1>
 <div id="variable-definition" class="section level2">
 <h2><span class="header-section-number">1.1</span> Variable Definition</h2>
+<p>Per capita income is the mean income computed for every man, woman, and child in a particular group including those living in group quarters. It is derived by dividing the aggregate income of a particular group by the total population in that group. The aggregate used to calculate per capita income is rounded. Per capita income is rounded to the nearest whole dollar.</p>
 </div>
 <div id="thematic-maps" class="section level2">
 <h2><span class="header-section-number">1.2</span> Thematic Maps</h2>
-<p><img src="index_files/figure-html/unnamed-chunk-38-1.png" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="index_files/figure-html/unnamed-chunk-1-1.png" width="100%" style="display: block; margin: auto;" /></p>
+</div>
+<div id="city-council-overlay" class="section level2">
+<h2><span class="header-section-number">1.3</span> City Council Overlay</h2>
+<p><img src="index_files/figure-html/unnamed-chunk-2-1.png" width="100%" style="display: block; margin: auto;" /></p>
+</div>
+<div id="county-commissioner-overlay" class="section level2">
+<h2><span class="header-section-number">1.4</span> County Commissioner Overlay</h2>
+<p><img src="index_files/figure-html/unnamed-chunk-3-1.png" width="100%" style="display: block; margin: auto;" /></p>
 </div>
 </div>
 <div id="median-family-income" class="section level1 chapter">
 <h1><span class="header-section-number">2</span> Median Family Income</h1>
 <div id="variable-definition-1" class="section level2">
 <h2><span class="header-section-number">2.1</span> Variable Definition</h2>
+<p>The median divides the income distribution into two equal parts: one-half of the cases falling below the median income and one-half above the median. For households and families, the median income is based on the distribution of the total number of households and families including those with no income. The median income for individuals is based on individuals 15 years old and over with income. Median income for households, families, and individuals is computed on the basis of a standard distribution. Median income is rounded to the nearest whole dollar. Median income figures are calculated using linear interpolation.</p>
+<p>In compiling statistics on family income, the incomes of all members 15 years old and over related to the householder are summed and treated as a single amount. Although the family income statistics cover the past 12 months, the characteristics of individuals and the composition of families refer to the time of interview. Thus, the income of the family does not include amounts received by individuals who were members of the family during all or part of the past 12 months if these individuals no longer resided with the family at the time of interview. Similarly, income amounts reported by individuals who did not reside with the family during the past 12 months but who were members of the family at the time of interview are included. However, the composition of most families was the same during the past 12 months as at the time of interview.</p>
 </div>
 <div id="thematic-maps-1" class="section level2">
 <h2><span class="header-section-number">2.2</span> Thematic Maps</h2>
-<p><img src="index_files/figure-html/unnamed-chunk-39-1.png" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="index_files/figure-html/unnamed-chunk-4-1.png" width="100%" style="display: block; margin: auto;" /></p>
+</div>
+<div id="city-council-overlay-1" class="section level2">
+<h2><span class="header-section-number">2.3</span> City Council Overlay</h2>
+<p><img src="index_files/figure-html/unnamed-chunk-5-1.png" width="100%" style="display: block; margin: auto;" /></p>
+</div>
+<div id="county-commissioner-overlay-1" class="section level2">
+<h2><span class="header-section-number">2.4</span> County Commissioner Overlay</h2>
+<p><img src="index_files/figure-html/unnamed-chunk-6-1.png" width="100%" style="display: block; margin: auto;" /></p>
 </div>
 </div>
 <div id="median-home-value" class="section level1 chapter">
 <h1><span class="header-section-number">3</span> Median Home Value</h1>
 <div id="variable-definition-2" class="section level2">
 <h2><span class="header-section-number">3.1</span> Variable Definition</h2>
+<p>A housing unit is owner-occupied if the owner or co-owner lives in the unit, even if it is mortgaged or not fully paid for. The owner or co-owner must live in the unit and usually is Person 1 on the questionnaire. The unit is “Owned by you or someone in this household with a mortgage or loan” if it is being purchased with a mortgage or some other debt arrangement such as a deed of trust, trust deed, contract to purchase, land contract, or purchase agreement. The housing unit is also considered owned with a mortgage if there is a home equity line of credit on it. The unit also is considered owned with a mortgage if it is built on leased land and there is a mortgage on the unit. Mobile homes occupied by owners with installment loan balances also are included in this category.</p>
+<p>A housing unit is “Owned by you or someone in this household free and clear (without a mortgage or loan)” if there is no mortgage or other similar debt on the house, apartment, or mobile home, including units built on leased land if the unit is owned outright without a mortgage.</p>
 </div>
 <div id="thematic-maps-2" class="section level2">
 <h2><span class="header-section-number">3.2</span> Thematic Maps</h2>
-<p><img src="index_files/figure-html/unnamed-chunk-40-1.png" width="100%" style="display: block; margin: auto;" /></p>
+<p><img src="index_files/figure-html/unnamed-chunk-7-1.png" width="100%" style="display: block; margin: auto;" /></p>
+</div>
+<div id="city-council-overlay-2" class="section level2">
+<h2><span class="header-section-number">3.3</span> City Council Overlay</h2>
+<p><img src="index_files/figure-html/unnamed-chunk-8-1.png" width="100%" style="display: block; margin: auto;" /></p>
+</div>
+<div id="county-commissioner-overlay-2" class="section level2">
+<h2><span class="header-section-number">3.4</span> County Commissioner Overlay</h2>
+<p><img src="index_files/figure-html/unnamed-chunk-9-1.png" width="100%" style="display: block; margin: auto;" /></p>
 </div>
 </div>
 <div id="educational-attainment" class="section level1 chapter">
 <h1><span class="header-section-number">4</span> Educational Attainment</h1>
 <div id="variable-definition-3" class="section level2">
 <h2><span class="header-section-number">4.1</span> Variable Definition</h2>
+<p>Data on educational attainment were derived from answers to Question 11 on the 2018 ACS, which was asked of all respondents. Educational attainment data are tabulated for people 18 years old and over. Respondents are classified according to the highest degree or the highest level of school completed. The question included instructions for persons currently enrolled in school to report the level of the previous grade attended or the highest degree received.</p>
+</div>
+<div id="thematic-maps-3" class="section level2">
+<h2><span class="header-section-number">4.2</span> Thematic Maps</h2>
+<p><img src="index_files/figure-html/unnamed-chunk-10-1.png" width="100%" style="display: block; margin: auto;" /></p>
+</div>
+<div id="city-council-overlay-3" class="section level2">
+<h2><span class="header-section-number">4.3</span> City Council Overlay</h2>
+<p><img src="index_files/figure-html/unnamed-chunk-11-1.png" width="100%" style="display: block; margin: auto;" /></p>
+</div>
+<div id="county-commissioner-overlay-3" class="section level2">
+<h2><span class="header-section-number">4.4</span> County Commissioner Overlay</h2>
+<p><img src="index_files/figure-html/unnamed-chunk-12-1.png" width="100%" style="display: block; margin: auto;" /></p>
 </div>
 </div>
-<div id="notes-on-methodology" class="section level1 chapter">
-<h1><span class="header-section-number">5</span> Notes on Methodology</h1>
+<div id="reference" class="section level1 chapter">
+<h1><span class="header-section-number">5</span> Reference</h1>
+<div id="city-council-districts" class="section level2">
+<h2><span class="header-section-number">5.1</span> City Council Districts</h2>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:center;font-weight: bold;text-align: center;">
+District
+</th>
+<th style="text-align:center;font-weight: bold;text-align: center;">
+Representative
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center;">
+1
+</td>
+<td style="text-align:center;">
+Sharon Hightower
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">
+2
+</td>
+<td style="text-align:center;">
+Godie Wells
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">
+3
+</td>
+<td style="text-align:center;">
+Justin Outling
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">
+4
+</td>
+<td style="text-align:center;">
+Nancy Hoffmann
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">
+5
+</td>
+<td style="text-align:center;">
+Tammi Thurm
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="county-commissioner-districts" class="section level2">
+<h2><span class="header-section-number">5.2</span> County Commissioner Districts</h2>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:center;font-weight: bold;text-align: center;">
+District
+</th>
+<th style="text-align:center;font-weight: bold;text-align: center;">
+Representative
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center;">
+1
+</td>
+<td style="text-align:center;">
+J. Carlvena Foster
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">
+2
+</td>
+<td style="text-align:center;">
+Alan Perdue
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">
+3
+</td>
+<td style="text-align:center;">
+Justin Conrad
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">
+4
+</td>
+<td style="text-align:center;">
+Alan Branson
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">
+5
+</td>
+<td style="text-align:center;">
+Jeff Phillips
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">
+6
+</td>
+<td style="text-align:center;">
+Hank Henning
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">
+7
+</td>
+<td style="text-align:center;">
+Carolyn Coleman
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">
+8
+</td>
+<td style="text-align:center;">
+Skip Alston
+</td>
+</tr>
+</tbody>
+</table>
+</div>
 <div id="divergent-color-palette" class="section level2">
-<h2><span class="header-section-number">5.1</span> Divergent Color Palette</h2>
+<h2><span class="header-section-number">5.3</span> Divergent Color Palette</h2>
 <p>For my thematic maps, I selected a diverging color palette to to bring attention to stark differences in low, medium, and high values. I am following best practice recommendations from The United States Census Bureau and have selected the applied colors based on their recommended diverging color palette. I am also trying to account for Web Content Accessibility Guidelines (WCAG) by meeting or exceeding the recommended color contrast ratio minimum. I believe the colors recommended by The Census Bureau meet these guidelines while also striking an acceptable balance with visual appeal. You can find more information online at The Census Bureau’s Data Visualization Standards repository (<a href="https://xdgov.github.io/data-design-standards/" class="uri">https://xdgov.github.io/data-design-standards/</a>).</p>
 </div>
 </div>
