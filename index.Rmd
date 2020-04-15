@@ -265,7 +265,7 @@ gso_council %>%
   mutate(REPRESENTATIVE = str_to_title(REPRESENTATIVE)) %>%
   rename(District = DISTRICT, Representative = REPRESENTATIVE) %>%
   arrange(District) %>%
-  kable(align = "cc", ) %>%
+  kable(align = "cc") %>%
   kable_styling(full_width = TRUE) %>%
   row_spec(row = 0, bold = TRUE, align = "c")
 ```
