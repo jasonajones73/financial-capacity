@@ -52,6 +52,7 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, dpi = 320,
 # Load packages
 library(tidyverse)
 library(sf)
+library(gghighlight)
 library(kableExtra)
 
 # Census geographies
@@ -62,6 +63,16 @@ gso_council <- read_rds("data/geographies/gso_city_council.rds")
 # Load data
 pci_county <- read_rds("data/per_capita_income/pci_county.rds")
 pci_places <- read_rds("data/per_capita_income/pci_places.rds")
+
+mfi_county <- read_rds("data/median_family_income/mfi_county.rds")
+mfi_places <- read_rds("data/median_family_income/mfi_places.rds")
+
+mhv_county <- read_rds("data/median_home_value/mhv_county.rds")
+mhv_places <- read_rds("data/median_home_value/mhv_places.rds")
+
+bach_county <- read_rds("data/educational_attainment/ed_attain_county_cleaned.rds")
+bach_places <- read_rds("data/educational_attainment/ed_attain_places_cleaned.rds")
+
 
 pci_sf <- read_rds("data/per_capita_income/pci_sf.rds")
 mfi_sf <- read_rds("data/median_family_income/mfi_sf.rds")
@@ -77,7 +88,7 @@ jason_theme <- theme(
   panel.background = element_blank(),
   panel.grid.minor = element_blank(),
   panel.grid.major.y = element_line(color = "grey"),
-  panel.grid.major.x = element_blank(),
+  panel.grid.major.x = element_line(color = "grey"),
   axis.ticks = element_line(color = "grey"),
   axis.title = element_blank(),
   plot.caption = element_text(hjust = 1)
@@ -127,11 +138,88 @@ pci_map +
   geom_text(data = as_tibble(st_coordinates(st_centroid(gc_commissioners))), aes(X, Y, label = gc_commissioners$DISTRICT))
 ```
 
+## Cohort Comparison
+
+## County
+
+```{r}
+pci_county %>%
+  filter(concept != "Native Hawaiian And Other Pacific Islander Alone") %>%
+  ggplot(aes(concept, estimate, color = NAME)) +
+  geom_jitter(width = 0.2, size = 5) +
+  gghighlight(NAME == "Guilford County, North Carolina", use_direct_label = FALSE) +
+  scale_color_manual(values = "#00ad68") +
+  scale_y_continuous(labels = scales::dollar_format()) +
+  coord_flip() +
+  theme(legend.position = "none") +
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
+       title = "Per Capita Income",
+       subtitle = "Guilford County (green) as compared with selected county\ncohort (grey)") +
+  jason_theme
+```
+
+```{r}
+pci_county %>%
+  filter(concept != "Native Hawaiian And Other Pacific Islander Alone") %>%
+  ggplot() +
+  geom_tile(aes(str_remove(NAME, "County, North Carolina|County, Tennessee|County, South Carolina"),
+                concept, fill = estimate), color = "white") +
+  scale_fill_gradient("Estimate",high = "light grey", low = "#00ad68",
+                      na.value = "white", labels = scales::dollar_format()) +
+  geom_text(aes(str_remove(NAME, "County, North Carolina|County, Tennessee|County, South Carolina"),
+                concept, label = scales::dollar(estimate)), size = 2) +
+  theme_minimal() +
+  theme(text = element_text(family = "Roboto"),
+  panel.background = element_blank(),
+  axis.ticks = element_line(color = "grey"),
+  axis.title = element_blank(),
+  plot.caption = element_text(hjust = 1),
+  panel.grid = element_blank(),
+  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+```
+
+## Census Designated Places (CDP)
+
+```{r}
+pci_places %>%
+  filter(concept != "Native Hawaiian And Other Pacific Islander Alone") %>%
+  ggplot(aes(concept, estimate, color = NAME)) +
+  geom_jitter(width = 0.2, size = 5) +
+  gghighlight(NAME == "Greensboro city, North Carolina" | NAME == "High Point city, North Carolina",
+              use_direct_label = FALSE) +
+  scale_color_manual(values = c("#00ad68", "#30388D")) +
+  scale_y_continuous(labels = scales::dollar_format()) +
+  coord_flip() +
+  theme(legend.position = "none") +
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
+       title = "Per Capita Income",
+       subtitle = "Greensboro (green) and High Point (purple) as compared\nwith selected cohort (grey)") +
+  jason_theme
+```
+
+```{r}
+pci_places %>%
+  filter(concept != "Native Hawaiian And Other Pacific Islander Alone") %>%
+  ggplot() +
+  geom_tile(aes(str_remove(NAME, "city, North Carolina"),
+                concept, fill = estimate), color = "white") +
+  scale_fill_gradient("Estimate",high = "light grey", low = "#00ad68",
+                      na.value = "white", labels = scales::dollar_format()) +
+  geom_text(aes(str_remove(NAME, "city, North Carolina"),
+                concept, label = scales::dollar(estimate)), size = 2) +
+  theme_minimal() +
+  theme(text = element_text(family = "Roboto"),
+  panel.background = element_blank(),
+  axis.ticks = element_line(color = "grey"),
+  axis.title = element_blank(),
+  plot.caption = element_text(hjust = 1),
+  panel.grid = element_blank(),
+  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+```
+
 # Median Family Income {.chapter}
 
 ## Variable Definition
-
-The median divides the income distribution into two equal parts: one-half of the cases falling below the median income and one-half above the median. For households and families, the median income is based on the distribution of the total number of households and families including those with no income. The median income for individuals is based on individuals 15 years old and over with income. Median income for households, families, and individuals is computed on the basis of a standard distribution. Median income is rounded to the nearest whole dollar. Median income figures are calculated using linear interpolation.
 
 In compiling statistics on family income, the incomes of all members 15 years old and over related to the householder are summed and treated as a single amount. Although the family income statistics cover the past 12 months, the characteristics of individuals and the composition of families refer to the time of interview. Thus, the income of the family does not include amounts received by individuals who were members of the family during all or part of the past 12 months if these individuals no longer resided with the family at the time of interview. Similarly, income amounts reported by individuals who did not reside with the family during the past 12 months but who were members of the family at the time of interview are included. However, the composition of most families was the same during the past 12 months as at the time of interview.
 
@@ -168,6 +256,85 @@ mfi_map +
 mfi_map +
   geom_sf(data = gc_commissioners, fill = NA, color = "black", size = 0.5) +
   geom_text(data = as_tibble(st_coordinates(st_centroid(gc_commissioners))), aes(X, Y, label = gc_commissioners$DISTRICT))
+```
+
+## Cohort Comparison
+
+## County
+
+```{r}
+mfi_county %>%
+  filter(concept != "Native Hawaiian And Other Pacific Islander Alone Householder") %>%
+  ggplot(aes(concept, estimate, color = NAME)) +
+  geom_jitter(width = 0.2, size = 5) +
+  gghighlight(NAME == "Guilford County, North Carolina", use_direct_label = FALSE) +
+  scale_color_manual(values = "#00ad68") +
+  scale_y_continuous(labels = scales::dollar_format()) +
+  coord_flip() +
+  theme(legend.position = "none") +
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
+       title = "Median Family Income",
+       subtitle = "Guilford County (green) as compared with\nselected county cohort (grey)") +
+  jason_theme
+```
+
+```{r}
+mfi_county %>%
+  filter(concept != "Native Hawaiian And Other Pacific Islander Alone Householder") %>%
+  ggplot() +
+  geom_tile(aes(str_remove(NAME, "County, North Carolina|County, Tennessee|County, South Carolina"),
+                str_remove(concept, " Householder"), fill = estimate), color = "white") +
+  scale_fill_gradient("Estimate",high = "light grey", low = "#00ad68",
+                      na.value = "white", labels = scales::dollar_format()) +
+  geom_text(aes(str_remove(NAME, "County, North Carolina|County, Tennessee|County, South Carolina"),
+                str_remove(concept, " Householder"), label = scales::dollar(estimate)), size = 2) +
+  theme_minimal() +
+  theme(text = element_text(family = "Roboto"),
+  panel.background = element_blank(),
+  axis.ticks = element_line(color = "grey"),
+  axis.title = element_blank(),
+  plot.caption = element_text(hjust = 1),
+  panel.grid = element_blank(),
+  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+```
+
+## Census Designated Places (CDP)
+
+```{r}
+mfi_places %>%
+  filter(concept != "Native Hawaiian And Other Pacific Islander Alone Householder") %>%
+  ggplot(aes(concept, estimate, color = NAME)) +
+  geom_jitter(width = 0.2, size = 5) +
+  gghighlight(NAME == "Greensboro city, North Carolina" | NAME == "High Point city, North Carolina",
+              use_direct_label = FALSE) +
+  scale_color_manual(values = c("#00ad68", "#30388D")) +
+  scale_y_continuous(labels = scales::dollar_format()) +
+  coord_flip() +
+  theme(legend.position = "none") +
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
+       title = "Median Family Income",
+       subtitle = "Greensboro (green) and High Point (purple) as compared\nwith selected cohort (grey)") +
+  jason_theme
+```
+
+```{r}
+mfi_places %>%
+  filter(concept != "Native Hawaiian And Other Pacific Islander Alone Householder") %>%
+  ggplot() +
+  geom_tile(aes(str_remove(NAME, "city, North Carolina"),
+                str_remove(concept, " Householder"), fill = estimate), color = "white") +
+  scale_fill_gradient("Estimate",high = "light grey", low = "#00ad68",
+                      na.value = "white", labels = scales::dollar_format()) +
+  geom_text(aes(str_remove(NAME, "city, North Carolina"),
+                str_remove(concept, " Householder"), label = scales::dollar(estimate)), size = 2) +
+  theme_minimal() +
+  theme(text = element_text(family = "Roboto"),
+  panel.background = element_blank(),
+  axis.ticks = element_line(color = "grey"),
+  axis.title = element_blank(),
+  plot.caption = element_text(hjust = 1),
+  panel.grid = element_blank(),
+  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
 ```
 
 # Median Home Value {.chapter}
@@ -213,6 +380,45 @@ mhv_map +
   geom_text(data = as_tibble(st_coordinates(st_centroid(gc_commissioners))), aes(X, Y, label = gc_commissioners$DISTRICT))
 ```
 
+## Cohort Comparison
+
+## County
+
+```{r}
+mhv_county %>%
+  filter(concept != "Native Hawaiian And Other Pacific Islander Alone") %>%
+  ggplot(aes(concept, estimate, color = NAME)) +
+  geom_jitter(width = 0.2, size = 5) +
+  gghighlight(NAME == "Guilford County, North Carolina", use_direct_label = FALSE) +
+  scale_color_manual(values = "#00ad68") +
+  scale_y_continuous(labels = scales::dollar_format()) +
+  coord_flip() +
+  theme(legend.position = "none") +
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
+       title = "Median Value (Owner-Occupied Housing Units)",
+       subtitle = "Guilford County (green) as compared with selected county cohort (grey)") +
+  jason_theme
+```
+
+## Census Designated Places (CDP)
+
+```{r}
+mhv_places %>%
+  filter(concept != "Native Hawaiian And Other Pacific Islander Alone") %>%
+  ggplot(aes(concept, estimate, color = NAME)) +
+  geom_jitter(width = 0.2, size = 5) +
+  gghighlight(NAME == "Greensboro city, North Carolina" | NAME == "High Point city, North Carolina",
+              use_direct_label = FALSE) +
+  scale_color_manual(values = c("#00ad68", "#30388D")) +
+  scale_y_continuous(labels = scales::dollar_format()) +
+  coord_flip() +
+  theme(legend.position = "none") +
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
+       title = "Median Value (Owner-Occupied Housing Units)",
+       subtitle = "Greensboro (green) and High Point (purple) as compared\nwith selected cohort (grey)") +
+  jason_theme
+```
+
 # Educational Attainment {.chapter}
 
 ## Variable Definition
@@ -254,6 +460,93 @@ bach_map +
   geom_text(data = as_tibble(st_coordinates(st_centroid(gc_commissioners))), aes(X, Y, label = gc_commissioners$DISTRICT))
 ```
 
+## Cohort Comparison
+
+## County
+
+```{r}
+bach_county %>%
+  filter(concept != "Native Hawaiian And Other Pacific Islander Alone") %>%
+  filter(concept != "American Indian And Alaska Native Alone") %>%
+  filter(label == "Bachelor's degree") %>%
+  ggplot(aes(concept, pct, color = county)) +
+  geom_jitter(width = 0.2, size = 5) +
+  gghighlight(county == "Guilford County, North Carolina", use_direct_label = FALSE) +
+  scale_color_manual(values = "#00ad68") +
+  scale_y_continuous(labels = scales::percent_format()) +
+  coord_flip() +
+  theme(legend.position = "none") +
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
+       title = "Bachelor's Degree Attainment",
+       subtitle = "Guilford County (green) as compared with selected county\ncohort (grey)") +
+  jason_theme
+```
+
+```{r}
+bach_county %>%
+  filter(concept != "Native Hawaiian And Other Pacific Islander Alone") %>%
+  filter(concept != "American Indian And Alaska Native Alone") %>%
+  filter(label == "Bachelor's degree") %>%
+  ggplot() +
+  geom_tile(aes(str_remove(county, "County, North Carolina|County, Tennessee|County, South Carolina"),
+                concept, fill = pct), color = "white") +
+  scale_fill_gradient("Estimate",high = "light grey", low = "#00ad68",
+                      na.value = "white", labels = scales::percent_format(accuracy = 0.01)) +
+  geom_text(aes(str_remove(county, "County, North Carolina|County, Tennessee|County, South Carolina"),
+                concept, label = scales::percent(pct, accuracy = 0.01)), size = 2) +
+  theme_minimal() +
+  theme(text = element_text(family = "Roboto"),
+  panel.background = element_blank(),
+  axis.ticks = element_line(color = "grey"),
+  axis.title = element_blank(),
+  plot.caption = element_text(hjust = 1),
+  panel.grid = element_blank(),
+  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+```
+
+## Census Designated Places (CDP)
+
+```{r}
+bach_places %>%
+  filter(concept != "Native Hawaiian And Other Pacific Islander Alone") %>%
+  filter(concept != "American Indian And Alaska Native Alone") %>%
+  filter(label == "Bachelor's degree") %>%
+  ggplot(aes(concept, pct, color = place)) +
+  geom_jitter(width = 0.2, size = 5) +
+  gghighlight(place == "Greensboro city, North Carolina" | place == "High Point city, North Carolina",
+              use_direct_label = FALSE) +
+  scale_color_manual(values = c("#00ad68", "#30388D")) +
+  scale_y_continuous(labels = scales::percent_format()) +
+  coord_flip() +
+  theme(legend.position = "none") +
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
+       title = "Bachelor's Degree Attainment",
+       subtitle = "Greensboro (green) and High Point (purple) as compared\nwith selected cohort (grey)") +
+  jason_theme
+```
+
+```{r}
+bach_places %>%
+  filter(concept != "Native Hawaiian And Other Pacific Islander Alone") %>%
+  filter(concept != "American Indian And Alaska Native Alone") %>%
+  filter(label == "Bachelor's degree") %>%
+  ggplot() +
+  geom_tile(aes(str_remove(place, "city, North Carolina"),
+                concept, fill = pct), color = "white") +
+  scale_fill_gradient("Estimate",high = "light grey", low = "#00ad68",
+                      na.value = "white", labels = scales::percent_format(accuracy = 0.01)) +
+  geom_text(aes(str_remove(place, "city, North Carolina"),
+                concept, label = scales::percent(pct, accuracy = 0.01)), size = 2) +
+  theme_minimal() +
+  theme(text = element_text(family = "Roboto"),
+  panel.background = element_blank(),
+  axis.ticks = element_line(color = "grey"),
+  axis.title = element_blank(),
+  plot.caption = element_text(hjust = 1),
+  panel.grid = element_blank(),
+  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+```
+
 # Reference {.chapter}
 
 ## City Council Districts
@@ -287,4 +580,8 @@ gc_commissioners %>%
 ## Divergent Color Palette
 
 For my thematic maps, I selected a diverging color palette to to bring attention to stark differences in low, medium, and high values. I am following best practice recommendations from The United States Census Bureau and have selected the applied colors based on their recommended diverging color palette. I am also trying to account for Web Content Accessibility Guidelines (WCAG) by meeting or exceeding the recommended color contrast ratio minimum. I believe the colors recommended by The Census Bureau meet these guidelines while also striking an acceptable balance with visual appeal. You can find more information online at The Census Bureau's Data Visualization Standards repository (https://xdgov.github.io/data-design-standards/).
+
+## Census Bureau Median
+
+The median divides the income distribution into two equal parts: one-half of the cases falling below the median income and one-half above the median. For households and families, the median income is based on the distribution of the total number of households and families including those with no income. The median income for individuals is based on individuals 15 years old and over with income. Median income for households, families, and individuals is computed on the basis of a standard distribution. Median income is rounded to the nearest whole dollar. Median income figures are calculated using linear interpolation.
 
