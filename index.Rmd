@@ -52,35 +52,118 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, dpi = 320,
 # Load packages
 library(tidyverse)
 library(sf)
+library(glue)
 library(gghighlight)
 library(kableExtra)
 
 # Census geographies
-tracts_sf <- read_rds("data/geographies/tracts_sf.rds")
-gc_commissioners <- read_rds("data/geographies/gc_commissioners.rds")
-gso_council <- read_rds("data/geographies/gso_city_council.rds")
+tracts_sf <- read_rds("data/geographies/tracts_sf.rds") %>%
+  st_make_valid()
+gc_commissioners <- read_rds("data/geographies/gc_commissioners.rds") %>%
+  st_make_valid()
+gso_council <- read_rds("data/geographies/gso_city_council.rds") %>%
+  st_make_valid()
+places <- read_rds("data/geographies/places.rds") %>%
+  filter(NAME == "Greensboro" | NAME == "High Point") %>%
+  st_make_valid()
+
+income_breaks <- c(0, 20011, 38909, 49806, 57122, 200000)
 
 # Load data
-pci_county <- read_rds("data/per_capita_income/pci_county.rds")
-pci_places <- read_rds("data/per_capita_income/pci_places.rds")
+pci_county <- read_rds("data/per_capita_income/pci_county.rds") %>%
+  mutate(category = case_when(estimate <= 20011 ~ "$0 - $20,011",
+                              estimate > 20011 & estimate <= 38909 ~ "$20,012 - $38,909",
+                              estimate > 38909 & estimate <= 49806 ~ "$38,910 - $49,806",
+                              estimate > 49806 & estimate <= 57122 ~ "$49,807 - $57,122",
+                              estimate > 57122 ~ as.character(glue("$57,122 - {scales::dollar(max(estimate, na.rm = T))}")),
+                              is.na(estimate) == TRUE ~ "No Data"))
+pci_places <- read_rds("data/per_capita_income/pci_places.rds") %>%
+  mutate(category = case_when(estimate <= 20011 ~ "$0 - $20,011",
+                              estimate > 20011 & estimate <= 38909 ~ "$20,012 - $38,909",
+                              estimate > 38909 & estimate <= 49806 ~ "$38,910 - $49,806",
+                              estimate > 49806 & estimate <= 57122 ~ "$49,807 - $57,122",
+                              estimate > 57122 ~ as.character(glue("$57,122 - {scales::dollar(max(estimate, na.rm = T))}")),
+                              is.na(estimate) == TRUE ~ "No Data"))
 
-mfi_county <- read_rds("data/median_family_income/mfi_county.rds")
-mfi_places <- read_rds("data/median_family_income/mfi_places.rds")
+mfi_county <- read_rds("data/median_family_income/mfi_county.rds") %>%
+  mutate(category = case_when(estimate <= 20011 ~ "$0 - $20,011",
+                              estimate > 20011 & estimate <= 38909 ~ "$20,012 - $38,909",
+                              estimate > 38909 & estimate <= 49806 ~ "$38,910 - $49,806",
+                              estimate > 49806 & estimate <= 57122 ~ "$49,807 - $57,122",
+                              estimate > 57122 ~ as.character(glue("$57,122 - {scales::dollar(max(estimate, na.rm = T))}")),
+                              is.na(estimate) == TRUE ~ "No Data"))
+mfi_places <- read_rds("data/median_family_income/mfi_places.rds") %>%
+  mutate(category = case_when(estimate <= 20011 ~ "$0 - $20,011",
+                              estimate > 20011 & estimate <= 38909 ~ "$20,012 - $38,909",
+                              estimate > 38909 & estimate <= 49806 ~ "$38,910 - $49,806",
+                              estimate > 49806 & estimate <= 57122 ~ "$49,807 - $57,122",
+                              estimate > 57122 ~ as.character(glue("$57,122 - {scales::dollar(max(estimate, na.rm = T))}")),
+                              is.na(estimate) == TRUE ~ "No Data"))
 
-mhv_county <- read_rds("data/median_home_value/mhv_county.rds")
-mhv_places <- read_rds("data/median_home_value/mhv_places.rds")
+mhv_county <- read_rds("data/median_home_value/mhv_county.rds") %>%
+  mutate(category = case_when(estimate <= 100000 ~ "$0 - $100,000",
+                              estimate > 100000 & estimate <= 150000 ~ "$100,001 - $150,000",
+                              estimate > 150000 & estimate <= 200000 ~ "$150,001 - $200,000",
+                              estimate > 49806 & estimate <= 57122 ~ "$200,001 - $300,000",
+                              estimate > 57122 ~ as.character(glue("$300,001 - {scales::dollar(max(estimate, na.rm = T))}")),
+                              is.na(estimate) == TRUE ~ "No Data"))
+mhv_places <- read_rds("data/median_home_value/mhv_places.rds") %>%
+  mutate(category = case_when(estimate <= 100000 ~ "$0 - $100,000",
+                              estimate > 100000 & estimate <= 150000 ~ "$100,001 - $150,000",
+                              estimate > 150000 & estimate <= 200000 ~ "$150,001 - $200,000",
+                              estimate > 49806 & estimate <= 57122 ~ "$200,001 - $300,000",
+                              estimate > 57122 ~ as.character(glue("$300,001 - {scales::dollar(max(estimate, na.rm = T))}")),
+                              is.na(estimate) == TRUE ~ "No Data"))
 
-bach_county <- read_rds("data/educational_attainment/ed_attain_county_cleaned.rds")
-bach_places <- read_rds("data/educational_attainment/ed_attain_places_cleaned.rds")
+bach_county <- read_rds("data/educational_attainment/ed_attain_county_cleaned.rds") %>%
+  mutate(category = case_when(pct <= .10 ~ "0% - 10%",
+                              pct > .10 & pct <= .20 ~ "11% - 20%",
+                              pct > .20 & pct <= .30 ~ "21% - 30%",
+                              pct > .30 & pct <= .40 ~ "31% - 40%",
+                              pct > .40 ~ as.character(glue("41% - {scales::percent(max(pct, na.rm = T))}")),
+                              is.na(pct) == TRUE ~ "No Data"))
+bach_places <- read_rds("data/educational_attainment/ed_attain_places_cleaned.rds") %>%
+  mutate(category = case_when(pct <= .10 ~ "0% - 10%",
+                              pct > .10 & pct <= .20 ~ "11% - 20%",
+                              pct > .20 & pct <= .30 ~ "21% - 30%",
+                              pct > .30 & pct <= .40 ~ "31% - 40%",
+                              pct > .40 ~ as.character(glue("41% - {scales::percent(max(pct, na.rm = T))}")),
+                              is.na(pct) == TRUE ~ "No Data"))
 
 
-pci_sf <- read_rds("data/per_capita_income/pci_sf.rds")
-mfi_sf <- read_rds("data/median_family_income/mfi_sf.rds")
-mhv_sf <- read_rds("data/median_home_value/mhv_sf.rds")
+pci_sf <- read_rds("data/per_capita_income/pci_sf.rds") %>%
+  mutate(category = case_when(estimate <= 20011 ~ "$0 - $20,011",
+                              estimate > 20011 & estimate <= 38909 ~ "$20,012 - $38,909",
+                              estimate > 38909 & estimate <= 49806 ~ "$38,910 - $49,806",
+                              estimate > 49806 & estimate <= 57122 ~ "$49,807 - $57,122",
+                              estimate > 57122 ~ as.character(glue("$57,122 - {scales::dollar(max(estimate, na.rm = T))}")),
+                              is.na(estimate) == TRUE ~ "No Data"))
+          
+mfi_sf <- read_rds("data/median_family_income/mfi_sf.rds") %>%
+  mutate(category = case_when(estimate <= 20011 ~ "$0 - $20,011",
+                              estimate > 20011 & estimate <= 38909 ~ "$20,012 - $38,909",
+                              estimate > 38909 & estimate <= 49806 ~ "$38,910 - $49,806",
+                              estimate > 49806 & estimate <= 57122 ~ "$49,807 - $57,122",
+                              estimate > 57122 ~ as.character(glue("$57,122 - {scales::dollar(max(estimate, na.rm = T))}")),
+                              is.na(estimate) == TRUE ~ "No Data"))
+  
+mhv_sf <- read_rds("data/median_home_value/mhv_sf.rds") %>%
+  mutate(category = case_when(estimate <= 100000 ~ "$0 - $100,000",
+                              estimate > 100000 & estimate <= 150000 ~ "$100,001 - $150,000",
+                              estimate > 150000 & estimate <= 200000 ~ "$150,001 - $200,000",
+                              estimate > 49806 & estimate <= 57122 ~ "$200,001 - $300,000",
+                              estimate > 57122 ~ as.character(glue("$300,001 - {scales::dollar(max(estimate, na.rm = T))}")),
+                              is.na(estimate) == TRUE ~ "No Data"))
 bach_sf <- read_rds("data/educational_attainment/ed_attain_tracts_cleaned.rds") %>%
   filter(label == "Bachelor's degree") %>%
   left_join(tracts_sf) %>%
-  st_as_sf()
+  st_as_sf() %>%
+  mutate(category = case_when(pct <= .10 ~ "0% - 10%",
+                              pct > .10 & pct <= .20 ~ "11% - 20%",
+                              pct > .20 & pct <= .30 ~ "21% - 30%",
+                              pct > .30 & pct <= .40 ~ "31% - 40%",
+                              pct > .40 ~ as.character(glue("41% - {scales::percent(max(pct, na.rm = T))}")),
+                              is.na(pct) == TRUE ~ "No Data"))
 
 # Load my theme for plots
 jason_theme <- theme(
@@ -91,10 +174,11 @@ jason_theme <- theme(
   panel.grid.major.x = element_line(color = "grey"),
   axis.ticks = element_line(color = "grey"),
   axis.title = element_blank(),
-  plot.caption = element_text(hjust = 1)
+  plot.caption = element_text(hjust = 1),
+  legend.text = element_text(size = 12, lineheight = .3),
+  legend.title = element_text(size = 12, vjust = .8)
   )
 
-chart_colors <- colorRampPalette(c("#112E51", "#97BCE9", "#C1D7F2", "#FFBEA9", "#853A22"))
 ```
 
 # Per Capita Income {.chapter}
@@ -108,34 +192,36 @@ Per capita income is the mean income computed for every man, woman, and child in
 ```{r}
 pci_map <- pci_sf %>%
   ggplot() +
-  geom_sf(aes(fill = estimate), color = "white", size = 0.2) +
-  scale_fill_gradientn("Estimate", colors = chart_colors(4), na.value = "white",
-                       labels = scales::dollar_format()) +
+  geom_sf(aes(fill = category), size = 0.2, color = "white") +
+  scale_fill_viridis_d("Estimate", na.value = "grey") +
   theme(legend.position = "left") +
   labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
-       title = "Per Capita Income",
-       subtitle = "Guilford County: Census Tracts") +
+       title = expression(paste(bold("Per Capita Income: "), "Guilford County Census Tracts"))) +
   jason_theme +
   theme(axis.text = element_blank(),
-        axis.ticks = element_blank())
+        axis.ticks = element_blank(),
+        legend.position = "left",
+        legend.justification = "center")
 
 pci_map
 ```
 
-## City Council Overlay
+## City Overlays
 
 ```{r}
-pci_map +
-  geom_sf(data = gso_council, fill = NA, color = "black", size = 0.5) +
-  geom_text(data = as_tibble(st_coordinates(st_centroid(gso_council))), aes(X, Y, label = gso_council$DISTRICT))
-```
-
-## County Commissioner Overlay
-
-```{r}
-pci_map +
-  geom_sf(data = gc_commissioners, fill = NA, color = "black", size = 0.5) +
-  geom_text(data = as_tibble(st_coordinates(st_centroid(gc_commissioners))), aes(X, Y, label = gc_commissioners$DISTRICT))
+pci_sf %>%
+  st_intersection(st_transform(places, st_crs(pci_sf))) %>%
+  ggplot() +
+  geom_sf(aes(fill = category), color = "white", size = 0.2) +
+  scale_fill_viridis_d("Estimate") +
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
+       title = expression(paste(bold("Per Capita Income: "), "Guilford County Census Tracts")),
+       subtitle = "Census tracts are sliced by the City of Greensboro and\nCity of High Point boundaries.") +
+  jason_theme +
+  theme(axis.text = element_blank(),
+        axis.ticks = element_blank(),
+        legend.position = "left",
+        legend.justification = "center")
 ```
 
 ## Cohort Comparison
@@ -161,13 +247,15 @@ pci_county %>%
 ```{r}
 pci_county %>%
   filter(concept != "Native Hawaiian And Other Pacific Islander Alone") %>%
+  group_by(concept) %>%
+  mutate(ranks = order(order(estimate, decreasing = TRUE))) %>%
+  ungroup() %>%
   ggplot() +
   geom_tile(aes(str_remove(NAME, "County, North Carolina|County, Tennessee|County, South Carolina"),
-                concept, fill = estimate), color = "white") +
-  scale_fill_gradient("Estimate",high = "light grey", low = "#00ad68",
-                      na.value = "white", labels = scales::dollar_format()) +
+                concept, fill = category), color = "white") +
+  scale_fill_brewer("Estimate", palette = "YlGnBu", direction = -1) +
   geom_text(aes(str_remove(NAME, "County, North Carolina|County, Tennessee|County, South Carolina"),
-                concept, label = scales::dollar(estimate)), size = 2) +
+                concept, label = paste("Rank\n", as.character(ranks))), size = 2.75, color = "white") +
   theme_minimal() +
   theme(text = element_text(family = "Roboto"),
   panel.background = element_blank(),
@@ -175,7 +263,8 @@ pci_county %>%
   axis.title = element_blank(),
   plot.caption = element_text(hjust = 1),
   panel.grid = element_blank(),
-  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
+  legend.position = "bottom")
 ```
 
 ## Census Designated Places (CDP)
@@ -200,13 +289,15 @@ pci_places %>%
 ```{r}
 pci_places %>%
   filter(concept != "Native Hawaiian And Other Pacific Islander Alone") %>%
+  group_by(concept) %>%
+  mutate(ranks = order(order(estimate, decreasing = TRUE))) %>%
+  ungroup() %>%
   ggplot() +
   geom_tile(aes(str_remove(NAME, "city, North Carolina"),
-                concept, fill = estimate), color = "white") +
-  scale_fill_gradient("Estimate",high = "light grey", low = "#00ad68",
-                      na.value = "white", labels = scales::dollar_format()) +
+                concept, fill = category), color = "white") +
+  scale_fill_brewer("Estimate", palette = "YlGnBu", direction = -1) +
   geom_text(aes(str_remove(NAME, "city, North Carolina"),
-                concept, label = scales::dollar(estimate)), size = 2) +
+                concept, label = paste("Rank\n", as.character(ranks))), size = 2.75, color = "white") +
   theme_minimal() +
   theme(text = element_text(family = "Roboto"),
   panel.background = element_blank(),
@@ -214,7 +305,8 @@ pci_places %>%
   axis.title = element_blank(),
   plot.caption = element_text(hjust = 1),
   panel.grid = element_blank(),
-  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
+  legend.position = "bottom")
 ```
 
 # Median Family Income {.chapter}
@@ -228,13 +320,11 @@ In compiling statistics on family income, the incomes of all members 15 years ol
 ```{r}
 mfi_map <- mfi_sf %>%
   ggplot() +
-  geom_sf(aes(fill = estimate), color = "white", size = 0.2) +
-  scale_fill_gradientn("Estimate", colors = chart_colors(4), na.value = "white",
-                       labels = scales::dollar_format()) +
+  geom_sf(aes(fill = category), color = "white", size = 0.2) +
+  scale_fill_viridis_d("Estimate") +
   theme(legend.position = "left") +
   labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
-       title = "Median Family Income",
-       subtitle = "Guilford County: Census Tracts") +
+       title = expression(paste(bold("Median Family Income: "), "Guilford County Census Tracts"))) +
   jason_theme +
   theme(axis.text = element_blank(),
         axis.ticks = element_blank())
@@ -242,20 +332,22 @@ mfi_map <- mfi_sf %>%
 mfi_map
 ```
 
-## City Council Overlay
+## City Overlays
 
 ```{r}
-mfi_map +
-  geom_sf(data = gso_council, fill = NA, color = "black", size = 0.5) +
-  geom_text(data = as_tibble(st_coordinates(st_centroid(gso_council))), aes(X, Y, label = gso_council$DISTRICT))
-```
-
-## County Commissioner Overlay
-
-```{r}
-mfi_map +
-  geom_sf(data = gc_commissioners, fill = NA, color = "black", size = 0.5) +
-  geom_text(data = as_tibble(st_coordinates(st_centroid(gc_commissioners))), aes(X, Y, label = gc_commissioners$DISTRICT))
+mfi_sf %>%
+  st_intersection(st_transform(places, st_crs(mfi_sf))) %>%
+  ggplot() +
+  geom_sf(aes(fill = category), color = "white", size = 0.2) +
+  scale_fill_viridis_d("Estimate") +
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
+       title = expression(paste(bold("Median Family Income: "), "Guilford County Census Tracts")),
+       subtitle = "Census tracts are sliced by the City of Greensboro and\nCity of High Point boundaries.") +
+  jason_theme +
+  theme(axis.text = element_blank(),
+        axis.ticks = element_blank(),
+        legend.position = "left",
+        legend.justification = "center")
 ```
 
 ## Cohort Comparison
@@ -281,13 +373,15 @@ mfi_county %>%
 ```{r}
 mfi_county %>%
   filter(concept != "Native Hawaiian And Other Pacific Islander Alone Householder") %>%
+  group_by(concept) %>%
+  mutate(ranks = order(order(estimate, decreasing = TRUE))) %>%
+  ungroup() %>%
   ggplot() +
   geom_tile(aes(str_remove(NAME, "County, North Carolina|County, Tennessee|County, South Carolina"),
-                str_remove(concept, " Householder"), fill = estimate), color = "white") +
-  scale_fill_gradient("Estimate",high = "light grey", low = "#00ad68",
-                      na.value = "white", labels = scales::dollar_format()) +
+                str_remove(concept, " Householder"), fill = category), color = "white") +
+  scale_fill_brewer("Estimate", palette = "YlGnBu", direction = -1) +
   geom_text(aes(str_remove(NAME, "County, North Carolina|County, Tennessee|County, South Carolina"),
-                str_remove(concept, " Householder"), label = scales::dollar(estimate)), size = 2) +
+                str_remove(concept, " Householder"), label = paste("Rank\n", as.character(ranks))), size = 2.75, color = "white") +
   theme_minimal() +
   theme(text = element_text(family = "Roboto"),
   panel.background = element_blank(),
@@ -295,7 +389,8 @@ mfi_county %>%
   axis.title = element_blank(),
   plot.caption = element_text(hjust = 1),
   panel.grid = element_blank(),
-  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
+  legend.position = "bottom")
 ```
 
 ## Census Designated Places (CDP)
@@ -320,13 +415,15 @@ mfi_places %>%
 ```{r}
 mfi_places %>%
   filter(concept != "Native Hawaiian And Other Pacific Islander Alone Householder") %>%
+  group_by(concept) %>%
+  mutate(ranks = order(order(estimate, decreasing = TRUE))) %>%
+  ungroup() %>%
   ggplot() +
   geom_tile(aes(str_remove(NAME, "city, North Carolina"),
-                str_remove(concept, " Householder"), fill = estimate), color = "white") +
-  scale_fill_gradient("Estimate",high = "light grey", low = "#00ad68",
-                      na.value = "white", labels = scales::dollar_format()) +
+                str_remove(concept, " Householder"), fill = category), color = "white") +
+  scale_fill_brewer("Estimate", palette = "YlGnBu", direction = -1) +
   geom_text(aes(str_remove(NAME, "city, North Carolina"),
-                str_remove(concept, " Householder"), label = scales::dollar(estimate)), size = 2) +
+                str_remove(concept, " Householder"), label = paste("Rank\n", as.character(ranks))), size = 2.75, color = "white") +
   theme_minimal() +
   theme(text = element_text(family = "Roboto"),
   panel.background = element_blank(),
@@ -334,7 +431,8 @@ mfi_places %>%
   axis.title = element_blank(),
   plot.caption = element_text(hjust = 1),
   panel.grid = element_blank(),
-  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
+  legend.position = "bottom")
 ```
 
 # Median Home Value {.chapter}
@@ -350,12 +448,11 @@ A housing unit is “Owned by you or someone in this household free and clear (w
 ```{r}
 mhv_map <- mhv_sf %>%
   ggplot() +
-  geom_sf(aes(fill = estimate), color = "white", size = 0.2) +
-  scale_fill_gradientn("Estimate", colors = chart_colors(4), na.value = "white",
-                       labels = scales::dollar_format()) +
+  geom_sf(aes(fill = category), color = "white", size = 0.2) +
+  scale_fill_viridis_d("Estimate") +
   theme(legend.position = "left") +
   labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
-       title = "Median Value (Owner-Occupied Housing Units)",
+       title = expression(paste(bold("Median Value (Owner-Occupied Housing Units)"))),
        subtitle = "Guilford County: Census Tracts") +
   jason_theme +
   theme(axis.text = element_blank(),
@@ -364,20 +461,22 @@ mhv_map <- mhv_sf %>%
 mhv_map
 ```
 
-## City Council Overlay
+## City Overlays
 
 ```{r}
-mhv_map +
-  geom_sf(data = gso_council, fill = NA, color = "black", size = 0.5) +
-  geom_text(data = as_tibble(st_coordinates(st_centroid(gso_council))), aes(X, Y, label = gso_council$DISTRICT))
-```
-
-## County Commissioner Overlay
-
-```{r}
-mhv_map +
-  geom_sf(data = gc_commissioners, fill = NA, color = "black", size = 0.5) +
-  geom_text(data = as_tibble(st_coordinates(st_centroid(gc_commissioners))), aes(X, Y, label = gc_commissioners$DISTRICT))
+mhv_sf %>%
+  st_intersection(st_transform(places, st_crs(mhv_sf))) %>%
+  ggplot() +
+  geom_sf(aes(fill = category), color = "white", size = 0.2) +
+  scale_fill_viridis_d("Estimate") +
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
+       title = expression(paste(bold("Median Value (Owner-Occupied Housing Units)"))),
+       subtitle = "Census tracts are sliced by the City of Greensboro and\nCity of High Point boundaries.") +
+  jason_theme +
+  theme(axis.text = element_blank(),
+        axis.ticks = element_blank(),
+        legend.position = "left",
+        legend.justification = "center")
 ```
 
 ## Cohort Comparison
@@ -430,9 +529,8 @@ Data on educational attainment were derived from answers to Question 11 on the 2
 ```{r}
 bach_map <- bach_sf %>%
   ggplot() +
-  geom_sf(aes(fill = pct), color = "white", size = 0.2) +
-  scale_fill_gradientn("Estimate", colors = chart_colors(4), na.value = "white",
-                       labels = scales::percent_format()) +
+  geom_sf(aes(fill = category), color = "white", size = 0.2) +
+  scale_fill_viridis_d("Estimate") +
   theme(legend.position = "left") +
   labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
        title = "Bachelor's Degree Attainment: Population 25 Years and Over",
@@ -444,20 +542,22 @@ bach_map <- bach_sf %>%
 bach_map
 ```
 
-## City Council Overlay
+## City Overlays
 
 ```{r}
-bach_map +
-  geom_sf(data = gso_council, fill = NA, color = "black", size = 0.5) +
-  geom_text(data = as_tibble(st_coordinates(st_centroid(gso_council))), aes(X, Y, label = gso_council$DISTRICT))
-```
-
-## County Commissioner Overlay
-
-```{r}
-bach_map +
-  geom_sf(data = gc_commissioners, fill = NA, color = "black", size = 0.5) +
-  geom_text(data = as_tibble(st_coordinates(st_centroid(gc_commissioners))), aes(X, Y, label = gc_commissioners$DISTRICT))
+bach_sf %>%
+  st_intersection(st_transform(places, st_crs(bach_sf))) %>%
+  ggplot() +
+  geom_sf(aes(fill = category), color = "white", size = 0.2) +
+  scale_fill_viridis_d("Estimate") +
+  labs(caption = "Source: United States Census Bureau, American Community Survey (ACS)\nAuthor: Jason Jones",
+       title = expression(paste(bold("Median Value (Owner-Occupied Housing Units)"))),
+       subtitle = "Census tracts are sliced by the City of Greensboro and\nCity of High Point boundaries.") +
+  jason_theme +
+  theme(axis.text = element_blank(),
+        axis.ticks = element_blank(),
+        legend.position = "left",
+        legend.justification = "center")
 ```
 
 ## Cohort Comparison
@@ -487,13 +587,15 @@ bach_county %>%
   filter(concept != "Native Hawaiian And Other Pacific Islander Alone") %>%
   filter(concept != "American Indian And Alaska Native Alone") %>%
   filter(label == "Bachelor's degree") %>%
+  group_by(concept) %>%
+  mutate(ranks = order(order(estimate, decreasing = TRUE))) %>%
+  ungroup() %>%
   ggplot() +
   geom_tile(aes(str_remove(county, "County, North Carolina|County, Tennessee|County, South Carolina"),
-                concept, fill = pct), color = "white") +
-  scale_fill_gradient("Estimate",high = "light grey", low = "#00ad68",
-                      na.value = "white", labels = scales::percent_format(accuracy = 0.01)) +
+                str_remove(concept, " Householder"), fill = category), color = "white") +
+  scale_fill_brewer("Estimate", palette = "YlGnBu", direction = -1) +
   geom_text(aes(str_remove(county, "County, North Carolina|County, Tennessee|County, South Carolina"),
-                concept, label = scales::percent(pct, accuracy = 0.01)), size = 2) +
+                str_remove(concept, " Householder"), label = paste("Rank\n", as.character(ranks))), size = 2.75, color = "white") +
   theme_minimal() +
   theme(text = element_text(family = "Roboto"),
   panel.background = element_blank(),
@@ -501,7 +603,8 @@ bach_county %>%
   axis.title = element_blank(),
   plot.caption = element_text(hjust = 1),
   panel.grid = element_blank(),
-  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
+  legend.position = "bottom")
 ```
 
 ## Census Designated Places (CDP)
@@ -530,13 +633,15 @@ bach_places %>%
   filter(concept != "Native Hawaiian And Other Pacific Islander Alone") %>%
   filter(concept != "American Indian And Alaska Native Alone") %>%
   filter(label == "Bachelor's degree") %>%
+  group_by(concept) %>%
+  mutate(ranks = order(order(estimate, decreasing = TRUE))) %>%
+  ungroup() %>%
   ggplot() +
   geom_tile(aes(str_remove(place, "city, North Carolina"),
-                concept, fill = pct), color = "white") +
-  scale_fill_gradient("Estimate",high = "light grey", low = "#00ad68",
-                      na.value = "white", labels = scales::percent_format(accuracy = 0.01)) +
+                str_remove(concept, " Householder"), fill = category), color = "white") +
+  scale_fill_brewer("Estimate", palette = "YlGnBu", direction = -1) +
   geom_text(aes(str_remove(place, "city, North Carolina"),
-                concept, label = scales::percent(pct, accuracy = 0.01)), size = 2) +
+                str_remove(concept, " Householder"), label = paste("Rank\n", as.character(ranks))), size = 2.75, color = "white") +
   theme_minimal() +
   theme(text = element_text(family = "Roboto"),
   panel.background = element_blank(),
@@ -544,42 +649,11 @@ bach_places %>%
   axis.title = element_blank(),
   plot.caption = element_text(hjust = 1),
   panel.grid = element_blank(),
-  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+  axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
+  legend.position = "bottom")
 ```
 
 # Reference {.chapter}
-
-## City Council Districts
-
-```{r}
-gso_council %>%
-  as_tibble() %>%
-  select(DISTRICT, REPRESENTATIVE, -geoms) %>%
-  mutate(REPRESENTATIVE = str_to_title(REPRESENTATIVE)) %>%
-  rename(District = DISTRICT, Representative = REPRESENTATIVE) %>%
-  arrange(District) %>%
-  kable(align = "cc") %>%
-  kable_styling(full_width = TRUE) %>%
-  row_spec(row = 0, bold = TRUE, align = "c")
-```
-
-## County Commissioner Districts
-
-```{r}
-gc_commissioners %>%
-  as_tibble() %>%
-  select(DISTRICT, REPRESENTATIVE, -geoms) %>%
-  mutate(REPRESENTATIVE = str_to_title(REPRESENTATIVE)) %>%
-  rename(District = DISTRICT, Representative = REPRESENTATIVE) %>%
-  arrange(District) %>%
-  kable(align = "cc", ) %>%
-  kable_styling(full_width = TRUE) %>%
-  row_spec(row = 0, bold = TRUE, align = "c")
-```
-
-## Divergent Color Palette
-
-For my thematic maps, I selected a diverging color palette to to bring attention to stark differences in low, medium, and high values. I am following best practice recommendations from The United States Census Bureau and have selected the applied colors based on their recommended diverging color palette. I am also trying to account for Web Content Accessibility Guidelines (WCAG) by meeting or exceeding the recommended color contrast ratio minimum. I believe the colors recommended by The Census Bureau meet these guidelines while also striking an acceptable balance with visual appeal. You can find more information online at The Census Bureau's Data Visualization Standards repository (https://xdgov.github.io/data-design-standards/).
 
 ## Census Bureau Median
 

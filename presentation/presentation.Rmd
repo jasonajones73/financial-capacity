@@ -1,0 +1,73 @@
+---
+title: "Financial Capacity Study"
+subtitle: "Supplemental research and data"
+author: "Jason Jones"
+date: "Last Updated: `r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, dpi = 320, out.width = "90%")
+```
+
+# Per Capita Income
+
+```{r}
+include_graphics(path = "https://raw.githubusercontent.com/jasonajones73/financial-capacity/master/index_files/figure-html/unnamed-chunk-1-1.png")
+```
+
+???
+
+Per capita income is the mean income computed for every man, woman, and child in a particular group including those living in group quarters. It is derived by dividing the aggregate income of a particular group by the total population in that group. The aggregate used to calculate per capita income is rounded. Per capita income is rounded to the nearest whole dollar.
+
+---
+
+# Per Capita Income
+
+```{r}
+include_graphics(path = "https://raw.githubusercontent.com/jasonajones73/financial-capacity/master/index_files/figure-html/unnamed-chunk-4-1.png")
+```
+
+---
+
+# Per Capita Income
+
+```{r}
+include_graphics(path = "https://raw.githubusercontent.com/jasonajones73/financial-capacity/master/index_files/figure-html/unnamed-chunk-5-1.png")
+```
+
+---
+
+# Per Capita Income
+
+```{r}
+include_graphics(path = "https://raw.githubusercontent.com/jasonajones73/financial-capacity/master/index_files/figure-html/unnamed-chunk-6-1.png")
+```
+
+
+---
+
+# Median Family Income
+
+
+
+
+---
+
+# Median Home Value
+
+
+
+---
+
+# Educational Attainment
+
+
